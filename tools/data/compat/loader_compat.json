@@ -1,0 +1,1127 @@
+{
+ "source": "https://ppcenter.webou.net/pskai/compat/#autoset",
+ "fetched": "2026-11-20",
+ "source_code": "PSKai v6.545 pseudosat_kai/autoset.c (_autoset_custom_tbl, GPL-2.0, cafe-alpha); Kai matches by ip_crc (ip_header.c:39-69), product/region are for Aether's GAMES.DB keys",
+ "counts": {
+  "page_rows": 136,
+  "page_jhl_rows": 100,
+  "page_vmem_only_rows": 36,
+  "games_written": 110,
+  "superseded_written": 11,
+  "source_only_jhl": 19,
+  "cwx_only": 2,
+  "bad": 0,
+  "unmatched": 0
+ },
+ "games": [
+  {
+   "product": "T-8113H",
+   "region": "U",
+   "title": "Alien Trilogy",
+   "loader": "jhl",
+   "ip_crc": "154FE022",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 154FE022); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8113H-50",
+   "region": "E",
+   "title": "Alien Trilogy",
+   "loader": "jhl",
+   "ip_crc": "253A0B97",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 253A0B97); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-99901G",
+   "region": "E",
+   "title": "Game Sample",
+   "loader": "jhl",
+   "ip_crc": "15B8005D",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 15B8005D); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8113G",
+   "region": "J",
+   "title": "Alien Trilogy",
+   "loader": "jhl",
+   "ip_crc": "CCDB89CB",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC CCDB89CB); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-3112G",
+   "region": "J",
+   "title": "Samurai Spirits Busido Retsuden",
+   "loader": "jhl",
+   "ip_crc": "8AFC075F",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 8AFC075F); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-18606G",
+   "region": "J",
+   "title": "Assault Rigs",
+   "loader": "jhl",
+   "ip_crc": "4CD8AD07",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 4CD8AD07); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8140H",
+   "region": "U",
+   "title": "Batman Coinop",
+   "loader": "jhl",
+   "ip_crc": "8C37FB5F",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 8C37FB5F); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8140H-50",
+   "region": "E",
+   "title": "Batman Coinop",
+   "loader": "jhl",
+   "ip_crc": "CD572605",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC CD572605); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8118G",
+   "region": "J",
+   "title": "Batman Coinop",
+   "loader": "jhl",
+   "ip_crc": "5011C129",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 5011C129); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-18604G",
+   "region": "J",
+   "title": "Destruction Derby",
+   "loader": "jhl",
+   "ip_crc": "28E71575",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 28E71575); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-11303H",
+   "region": "E",
+   "title": "Destruction Derby",
+   "loader": "jhl",
+   "ip_crc": "50D51E46",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 50D51E46); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-20502G",
+   "region": "J",
+   "title": "Discworld",
+   "loader": "jhl",
+   "ip_crc": "B3712D8C",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC B3712D8C); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-11302H",
+   "region": "E",
+   "title": "Discworld",
+   "loader": "jhl",
+   "ip_crc": "E6C8E701",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC E6C8E701); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81093",
+   "region": "E",
+   "title": "Discworld 2",
+   "loader": "jhl",
+   "ip_crc": "D063565D",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC D063565D); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-7914H",
+   "region": "U",
+   "title": "Machinehead",
+   "loader": "jhl",
+   "ip_crc": "D05F14C4",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC D05F14C4); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-11505H50",
+   "region": "E",
+   "title": "Blam! Machinehead",
+   "loader": "jhl",
+   "ip_crc": "2904F3FF",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 2904F3FF); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-7015G",
+   "region": "J",
+   "title": "Blam Machinehead",
+   "loader": "jhl",
+   "ip_crc": "4C4212E5",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 4C4212E5); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-13004H",
+   "region": "U",
+   "title": "Mechwarrior2",
+   "loader": "jhl",
+   "ip_crc": "E95E95C1",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC E95E95C1); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8103H",
+   "region": "U",
+   "title": "Mortal Kombat II",
+   "loader": "jhl",
+   "ip_crc": "78A37A80",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 78A37A80); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8120H",
+   "region": "U",
+   "title": "Jam Extreme",
+   "loader": "jhl",
+   "ip_crc": "B3DCAE6B",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC B3DCAE6B); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8120H-50",
+   "region": "E",
+   "title": "Nba Jam Extreme",
+   "loader": "jhl",
+   "ip_crc": "8798B380",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 8798B380); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8122G",
+   "region": "J",
+   "title": "Nba Jam Extreme",
+   "loader": "jhl",
+   "ip_crc": "A6D68C38",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC A6D68C38); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5015H",
+   "region": "U",
+   "title": "Nba Live 97",
+   "loader": "jhl",
+   "ip_crc": "14E422DE",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 14E422DE); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5027H",
+   "region": "U",
+   "title": "Nba Live 98",
+   "loader": "jhl",
+   "ip_crc": "6AC0EFE5",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 6AC0EFE5); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8102H",
+   "region": "U",
+   "title": "Nba Jam Tournament Edition",
+   "loader": "jhl",
+   "ip_crc": "EB018C55",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC EB018C55); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8102H-50",
+   "region": "E",
+   "title": "Nba Jam Tournament Edition",
+   "loader": "jhl",
+   "ip_crc": "A95D6DA1",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC A95D6DA1); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8102G",
+   "region": "J",
+   "title": "Nba Jam Tournament Edition",
+   "loader": "jhl",
+   "ip_crc": "26B71A36",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 26B71A36); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "U",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "CC0DA2F3",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC CC0DA2F3); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "C2554E94",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC C2554E94); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "E",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "F3D06731",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC F3D06731); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "U",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "81076143",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 81076143); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "8F5F8D24",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC 8F5F8D24); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "E",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "BEDAA481",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC BEDAA481); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "U",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "0CD1DDEC",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 0CD1DDEC); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "0289318B",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC 0289318B); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "E",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "330C182E",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 330C182E); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "U",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "1B12E623",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 1B12E623); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "154A0A44",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC 154A0A44); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81307",
+   "region": "E",
+   "title": "J:azel Panzer Dragoon Rpg U:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "24CF23E1",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 24CF23E1); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81022",
+   "region": "*",
+   "title": "Panzer Dragoon Zwei",
+   "loader": "jhl",
+   "ip_crc": "4CF55C64",
+   "area": "JTU",
+   "note": "Kai compat page: \"JHL loader only\" (area JTU, CRC 4CF55C64); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9049",
+   "region": "*",
+   "title": "Panzer Dragoon Zwei",
+   "loader": "jhl",
+   "ip_crc": "A257544E",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC A257544E); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81022",
+   "region": "E",
+   "title": "Panzer Dragoon Zwei",
+   "loader": "jhl",
+   "ip_crc": "C518C054",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC C518C054); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-30403H",
+   "region": "*",
+   "title": "-scud- The Disposable Assassin.",
+   "loader": "jhl",
+   "ip_crc": "4CA7D336",
+   "area": "JTUE",
+   "note": "Kai compat page: \"JHL loader only\" (area JTUE, CRC 4CA7D336); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-13204H",
+   "region": "U",
+   "title": "Skeleton Warriors",
+   "loader": "jhl",
+   "ip_crc": "7B1E1E28",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 7B1E1E28); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-7018H-50",
+   "region": "E",
+   "title": "Skeleton Warriors",
+   "loader": "jhl",
+   "ip_crc": "FBB8C9B9",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC FBB8C9B9); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8144H",
+   "region": "U",
+   "title": "Tunnel b1",
+   "loader": "jhl",
+   "ip_crc": "8161C8C1",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 8161C8C1); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-16414H50",
+   "region": "E",
+   "title": "Tunnel b1",
+   "loader": "jhl",
+   "ip_crc": "0B0C3592",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 0B0C3592); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5023H-50",
+   "region": "E",
+   "title": "Warcraft II",
+   "loader": "jhl",
+   "ip_crc": "EB56E2F8",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC EB56E2F8); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5023H",
+   "region": "U",
+   "title": "Warcraft II",
+   "loader": "jhl",
+   "ip_crc": "D8D4F974",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC D8D4F974); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-10623G",
+   "region": "J",
+   "title": "Warcraft II",
+   "loader": "jhl",
+   "ip_crc": "DF9A4CCA",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC DF9A4CCA); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-18601H",
+   "region": "U",
+   "title": "Wipeout",
+   "loader": "jhl",
+   "ip_crc": "31D8B2E7",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 31D8B2E7); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-11301H",
+   "region": "E",
+   "title": "Wipeout",
+   "loader": "jhl",
+   "ip_crc": "3E2474F4",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 3E2474F4); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-18603G",
+   "region": "*",
+   "title": "Wipeout",
+   "loader": "jhl",
+   "ip_crc": "B8A87BC1",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC B8A87BC1); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-18511G",
+   "region": "J",
+   "title": "Finalist",
+   "loader": "jhl",
+   "ip_crc": "33B0CD74",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 33B0CD74); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-13004H",
+   "region": "E",
+   "title": "Mechwarrior2",
+   "loader": "jhl",
+   "ip_crc": "C31F3560",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC C31F3560); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-23406G",
+   "region": "J",
+   "title": "Mechwarrior2",
+   "loader": "jhl",
+   "ip_crc": "48B0B18E",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 48B0B18E); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8103H-50",
+   "region": "E",
+   "title": "Mortal Kombat II",
+   "loader": "jhl",
+   "ip_crc": "D7B1F205",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC D7B1F205); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8107G",
+   "region": "J",
+   "title": "Mortal Kombat II",
+   "loader": "jhl",
+   "ip_crc": "389A4B17",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 389A4B17); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8131H-50",
+   "region": "E",
+   "title": "Bubble Bobble",
+   "loader": "jhl",
+   "ip_crc": "6458C58E",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 6458C58E); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8131H",
+   "region": "U",
+   "title": "Bubble Bobble",
+   "loader": "jhl",
+   "ip_crc": "57DADE02",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 57DADE02); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-07013H",
+   "region": "U",
+   "title": "Nhl Power Play '96",
+   "loader": "jhl",
+   "ip_crc": "5F223A49",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 5F223A49); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81101",
+   "region": "*",
+   "title": "Pebble Beach Golf Links",
+   "loader": "jhl",
+   "ip_crc": "428B2074",
+   "area": "AEL",
+   "note": "Kai compat page: \"JHL loader only\" (area AEL, CRC 428B2074); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81101",
+   "region": "*",
+   "title": "Pebble Beach Golf Links",
+   "loader": "jhl",
+   "ip_crc": "DC0E8BF7",
+   "area": "UKBT",
+   "note": "Kai compat page: \"JHL loader only\" (area UKBT, CRC DC0E8BF7); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9006",
+   "region": "*",
+   "title": "Pebble Beach Golf Links",
+   "loader": "jhl",
+   "ip_crc": "7325B39C",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC 7325B39C); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-2303H",
+   "region": "J",
+   "title": "The Hyper Golf",
+   "loader": "jhl",
+   "ip_crc": "3888D814",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 3888D814); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-2303H-50",
+   "region": "E",
+   "title": "Valora Valley Golf",
+   "loader": "jhl",
+   "ip_crc": "454D828C",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 454D828C); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-2303H",
+   "region": "U",
+   "title": "Valora Valley Golf",
+   "loader": "jhl",
+   "ip_crc": "0AD62A24",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 0AD62A24); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK_8100550",
+   "region": "E",
+   "title": "Virtua Fighter",
+   "loader": "jhl",
+   "ip_crc": "5FD72A91",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 5FD72A91); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9001",
+   "region": "*",
+   "title": "Virtua Fighter",
+   "loader": "jhl",
+   "ip_crc": "E6209E7E",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC E6209E7E); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81005",
+   "region": "*",
+   "title": "Virtua Fighter",
+   "loader": "jhl",
+   "ip_crc": "B33598FC",
+   "area": "BKUT",
+   "note": "Kai compat page: \"JHL loader only\" (area BKUT, CRC B33598FC); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-23001H",
+   "region": "U",
+   "title": "Herc's Adventures",
+   "loader": "jhl",
+   "ip_crc": "4AB9BAE5",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 4AB9BAE5); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-7001H-50",
+   "region": "E",
+   "title": "Spot Goes to Hollywood",
+   "loader": "jhl",
+   "ip_crc": "4853EE10",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 4853EE10); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-7014G",
+   "region": "*",
+   "title": "Spot Goes to Hollywood",
+   "loader": "jhl",
+   "ip_crc": "E37FA858",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\" (area JT, CRC E37FA858); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-7001H",
+   "region": "U",
+   "title": "Spot Goes to Hollywood",
+   "loader": "jhl",
+   "ip_crc": "1745BC7A",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 1745BC7A); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5003H",
+   "region": "U",
+   "title": "Fifa Soccer '96",
+   "loader": "jhl",
+   "ip_crc": "1A596C8C",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 1A596C8C); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5017H",
+   "region": "U",
+   "title": "Fifa 97",
+   "loader": "jhl",
+   "ip_crc": "EEA9C3ED",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC EEA9C3ED); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5017H",
+   "region": "E",
+   "title": "Fifa 97",
+   "loader": "jhl",
+   "ip_crc": "A06E5DC4",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC A06E5DC4); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5025H-50",
+   "region": "E",
+   "title": "Fifa - Road to World Cup 98",
+   "loader": "jhl",
+   "ip_crc": "4491861E",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 4491861E); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5025H",
+   "region": "U",
+   "title": "Fifa - Road to World Cup 98",
+   "loader": "jhl",
+   "ip_crc": "77139D92",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 77139D92); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-6010H-50",
+   "region": "E",
+   "title": "Impact Racing",
+   "loader": "jhl",
+   "ip_crc": "03B91FE6",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC 03B91FE6); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-7307G",
+   "region": "J",
+   "title": "Impact Racing",
+   "loader": "jhl",
+   "ip_crc": "2F403E6E",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 2F403E6E); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-8139H",
+   "region": "U",
+   "title": "Impact Racing",
+   "loader": "jhl",
+   "ip_crc": "463710C1",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC 463710C1); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-11304H",
+   "region": "E",
+   "title": "Lemmings 3D",
+   "loader": "jhl",
+   "ip_crc": "EFE98C4C",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC EFE98C4C); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-15013G",
+   "region": "J",
+   "title": "Lemmings 3D",
+   "loader": "jhl",
+   "ip_crc": "4240CBF1",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC 4240CBF1); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-11305H",
+   "region": "E",
+   "title": "Krazy Ivan",
+   "loader": "jhl",
+   "ip_crc": "EC013880",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC EC013880); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5026H-50",
+   "region": "E",
+   "title": "Nhl 98",
+   "loader": "jhl",
+   "ip_crc": "E56EF297",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\" (area E, CRC E56EF297); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "T-5026H",
+   "region": "U",
+   "title": "Nhl 98",
+   "loader": "jhl",
+   "ip_crc": "D6ECE91B",
+   "area": "U",
+   "note": "Kai compat page: \"JHL loader only\" (area U, CRC D6ECE91B); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "MK-81010",
+   "region": "*",
+   "title": "Congo",
+   "loader": "jhl",
+   "ip_crc": "3DD1C9B2",
+   "area": "UT",
+   "note": "Kai compat page: \"JHL loader only\" (area UT, CRC 3DD1C9B2); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "6106749",
+   "region": "J",
+   "title": "J:azel Panzer Dragoon Rpg/u:panzer Dragoon Saga",
+   "loader": "jhl",
+   "ip_crc": "CC32A9D9",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\" (area J, CRC CC32A9D9); also JHL-only in PSKai v6.545 autoset.c"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:AZEL PANZER DRAGOON RPG U:PANZER DRAGOON SAGA",
+   "loader": "jhl",
+   "ip_crc": "00512043",
+   "area": "JT",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "MK-81307",
+   "region": "*",
+   "title": "J:AZEL PANZER DRAGOON RPG U:PANZER DRAGOON SAGA",
+   "loader": "jhl",
+   "ip_crc": "07551556",
+   "area": "JUE",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "MK-81307",
+   "region": "*",
+   "title": "J:AZEL PANZER DRAGOON RPG U:PANZER DRAGOON SAGA",
+   "loader": "jhl",
+   "ip_crc": "10962E99",
+   "area": "JUE",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "T-99901G",
+   "region": "*",
+   "title": "GAME SAMPLE",
+   "loader": "jhl",
+   "ip_crc": "239F4F52",
+   "area": "JTUBKAEL",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "T-5015H",
+   "region": "*",
+   "title": "SAMPLE GAME",
+   "loader": "jhl",
+   "ip_crc": "300C751C",
+   "area": "JTUBKAEL",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "T-7914H",
+   "region": "U",
+   "title": "BLAM! MACHINEHEAD",
+   "loader": "jhl",
+   "ip_crc": "371FA014",
+   "area": "U",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "T-81",
+   "region": "*",
+   "title": "SAMPLE GAME",
+   "loader": "jhl",
+   "ip_crc": "3E09A3A3",
+   "area": "JTUBKAEL",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "T-99901G",
+   "region": "*",
+   "title": "GAME SAMPLE",
+   "loader": "jhl",
+   "ip_crc": "4130C3C0",
+   "area": "JTUBKAEL",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "6106749",
+   "region": "J",
+   "title": "J:AZEL PANZER DRAGOON RPG/U:PANZER DRAGOON SAGA",
+   "loader": "jhl",
+   "ip_crc": "4EB8008A",
+   "area": "J",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "T-13204H",
+   "region": "U",
+   "title": "SKELETON WARRIORS",
+   "loader": "jhl",
+   "ip_crc": "69A25D09",
+   "area": "U",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:AZEL PANZER DRAGOON RPG U:PANZER DRAGOON SAGA",
+   "loader": "jhl",
+   "ip_crc": "8D879CEC",
+   "area": "JT",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "MK-81000",
+   "region": "*",
+   "title": "CONGO",
+   "loader": "jhl",
+   "ip_crc": "A170DADF",
+   "area": "UT",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:AZEL PANZER DRAGOON RPG U:PANZER DRAGOON SAGA",
+   "loader": "jhl",
+   "ip_crc": "A474C297",
+   "area": "UJ",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "MK-60691",
+   "region": "*",
+   "title": "-SCUD- THE DISPOSABLE ASSASSIN.",
+   "loader": "jhl",
+   "ip_crc": "A80157B7",
+   "area": "JTUE",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "GS-9076",
+   "region": "*",
+   "title": "J:AZEL PANZER DRAGOON RPG U:PANZER DRAGOON SAGA",
+   "loader": "jhl",
+   "ip_crc": "C08D5F5C",
+   "area": "JT",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "T-13204H",
+   "region": "U",
+   "title": "SKELETON WARRIORS",
+   "loader": "jhl",
+   "ip_crc": "C2311F4E",
+   "area": "U",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "_UNKNOWN",
+   "region": "*",
+   "title": "PANZER DRAGOON ZWEI (prototype)",
+   "loader": "jhl",
+   "ip_crc": "EB324F78",
+   "area": "UT",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment; the IP's product field is blank, '_UNKNOWN' is Kai's own placeholder (pseudo_bram.c:247-250)"
+  },
+  {
+   "product": "T-060680",
+   "region": "*",
+   "title": "Rockin'-B productions (C4-2007 package; shared IP header)",
+   "loader": "jhl",
+   "ip_crc": "F47FBDF3",
+   "area": "JTUE",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "MINESWPR",
+   "region": "*",
+   "title": "Rockin-B's MineSweeper",
+   "loader": "jhl",
+   "ip_crc": "F9F1CA64",
+   "area": "JTUE",
+   "note": "PSKai v6.545 autoset.c: JHL-only (CWX flag commented out); not on the compat page (fetched 2026-11-20); product/area from the IP dump in the source comment"
+  },
+  {
+   "product": "6106762",
+   "region": "J",
+   "title": "DJ WARS",
+   "loader": "cwx",
+   "ip_crc": "71055082",
+   "area": "J",
+   "note": "PSKai v6.545 autoset.c:1150-1186: CWX only (JHL flag absent); \"Reported working with CWX loader after patching\" (2019/05/26)"
+  },
+  {
+   "product": "T-18807G",
+   "region": "J",
+   "title": "DJ WARS",
+   "loader": "cwx",
+   "ip_crc": "257F67D9",
+   "area": "J",
+   "note": "PSKai v6.545 autoset.c:1150-1186: CWX only (JHL flag absent); \"Reported working with CWX loader after patching\" (2019/05/26)"
+  },
+  {
+   "product": "MK-81020",
+   "region": "U",
+   "title": "NiGHTS into Dreams...",
+   "loader": "jhl",
+   "area": "U",
+   "source": "Aether hardware test 2026-11-24",
+   "note": "Aether's own row (not Kai's list): boots on JHL; the CWX launch fails at step 9, 'CD read: sectors never arrived' (rc -43)"
+  },
+  {
+   "product": "MK-81076",
+   "region": "U",
+   "title": "Enemy Zero",
+   "loader": "jhl",
+   "area": "U",
+   "source": "Aether hardware test 2026-11-25",
+   "note": "Aether's own row (not Kai's list), all 4 discs: the game answers a lid open at its disc prompt with SYS_EXECDMP; with In Game Reset on, only a JHL launch can pass that to the BIOS CD player, which boots the next disc on the lid's close (igrstub.c); after CWX the BIOS CD player cannot run"
+  }
+ ],
+ "superseded": [
+  {
+   "product": "6106288G",
+   "region": "E",
+   "title": "Flash Segasaturnpal Vol.7",
+   "loader": "jhl",
+   "ip_crc": "FB54E944",
+   "area": "E",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616624",
+   "region": "J",
+   "title": "Flash Segasaturnvol.24",
+   "loader": "jhl",
+   "ip_crc": "B1F62D63",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616625",
+   "region": "J",
+   "title": "Flash Segasaturnvol.25",
+   "loader": "jhl",
+   "ip_crc": "F4163244",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616626",
+   "region": "J",
+   "title": "Flash Segasaturnvol.26",
+   "loader": "jhl",
+   "ip_crc": "54DBDD67",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616627",
+   "region": "J",
+   "title": "Flash Segasaturnvol.27",
+   "loader": "jhl",
+   "ip_crc": "D8241254",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616628",
+   "region": "J",
+   "title": "Flash Segasaturnvol.28",
+   "loader": "jhl",
+   "ip_crc": "3EB474A9",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616629",
+   "region": "J",
+   "title": "Flash Segasaturnvol.29",
+   "loader": "jhl",
+   "ip_crc": "0CD0C6D9",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616630",
+   "region": "J",
+   "title": "Flash Segasaturnvol.30",
+   "loader": "jhl",
+   "ip_crc": "242B071B",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616631",
+   "region": "J",
+   "title": "Flash Segasaturnvol.31",
+   "loader": "jhl",
+   "ip_crc": "5753D245",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "610616632",
+   "region": "J",
+   "title": "Flash Segasaturnvol.32",
+   "loader": "jhl",
+   "ip_crc": "DB3D8B92",
+   "area": "J",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  },
+  {
+   "product": "6106929",
+   "region": "*",
+   "title": "Mogitate Segasaturn Deep Fear & Shadows of The Tusk Special Movie",
+   "loader": "jhl",
+   "ip_crc": "3B9A53E3",
+   "area": "JT",
+   "note": "Kai compat page: \"JHL loader only\"; entry disabled (#if 0) in PSKai v6.545 autoset.c:2413-2431 (\"All demos discs working with vmem enabled in Pseudo Saturn Kai v6.523\"), so v6.545 Auto uses CWX"
+  }
+ ]
+}

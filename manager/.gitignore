@@ -1,0 +1,6 @@
+bin/
+obj/
+golden/out/
+*.user
+.vs/
+TestResults/

@@ -1,0 +1,423 @@
+{
+ "import_txt": "kai=0 rings=0 present=17 skipped=4 conflicts=0 older=0 cart_only=0 alternates=0\nskipped not-a-game-folder /SAVES/BRAM/Gosub/SF3-1_1.BUP\nskipped general-set-backup /SAVES/BRAM/_BACKUP/GENERAL_01.BUP\nskipped reserved /SAVES/BRAM/MK-81214[UT]/PSEUDO_BRAM.BUP\nskipped not-a-save /SAVES/BRAM/MK-81214[UT]/TRUNC_00001.BUP\n",
+ "pgsbak_sha": "f2a7d4b",
+ "runs": [
+  {
+   "cart": 1,
+   "conflicts": 0,
+   "kai": 8,
+   "older": 5,
+   "present": 0,
+   "rc": 0,
+   "rings": 8,
+   "skipped": 4
+  },
+  {
+   "cart": 0,
+   "conflicts": 0,
+   "kai": 0,
+   "older": 0,
+   "present": 17,
+   "rc": 0,
+   "rings": 0,
+   "skipped": 4
+  }
+ ],
+ "tree": [
+  {
+   "path": "SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001/02/GS_SAVE_002.BUP",
+   "sha256": "fabe6310004833072ca665e110829f677897ed15ed5709cd99061594b4496fc7",
+   "size": 124
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001/GS_SAVE_000.BUP",
+   "sha256": "679b4216849fdba8d8ceafce30d76764ded1041fb0cb03695c368dd65e8fa21a",
+   "size": 124
+  },
+  {
+   "path": "SAVES/BRAM/Gosub/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/Gosub/SF3-1_1.BUP",
+   "sha256": "677691461968f4e38b75be956400bdf160b2e32120da8a85c3935fb55f892efb",
+   "size": 104
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214/SCORCHER_01.BUP",
+   "sha256": "f2e8a8e7f3d393f9a56731dbb9adc4f5e7156405c2495bb73ce8f4d8a17adcdc",
+   "size": 364
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214/Y3.BUP",
+   "sha256": "82ae14de02c72f45f1bff0cb1a6c2f9e69fd8e89c4624b4b32fbf8bb70078344",
+   "size": 184
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/03/SLOTSAVE_03.BUP",
+   "sha256": "f2f6d420de09deb220bd79f4732715c6ce3d202aae29a9cd108add7152cb4150",
+   "size": 114
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/BIGSAVE_001.BUP",
+   "sha256": "4f7b206760ea8e2fcf740f789f6edead60feb2b0873e0d3f8894911278116d9d",
+   "size": 32833
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/BIGSAVE_002.BUP",
+   "sha256": "92d83d101b83a71636b68f4cb3bf5a8543b13a331fb725641e080c5c1e206f31",
+   "size": 32832
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/PSEUDO_BRAM.BUP",
+   "sha256": "6e838865bf10b238b264a110c286cd1b9269a779d89f72a38869d4ac8681dcfd",
+   "size": 96
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/README.TXT",
+   "sha256": "097f6b78efe7573bfe8f7ea4ba0f63edc9ae6a1812c01a7d563c18410f758844",
+   "size": 11
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/SCORCHER_01.BUP",
+   "sha256": "e4068eb18645044f514086ae5169686e38ed32d1f2df711f3207ee9234b91749",
+   "size": 364
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/SCORCHER_02.BUP",
+   "sha256": "10b4fae95f64dcede52f8676997006bb16962fee3be5b596c27438c982516f22",
+   "size": 264
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/SGCNAME_ABC.BUP",
+   "sha256": "7bae7bc549abe460c8a9786eb767a9e3472aebfd01ac0f37ec81f48bfcb7b0ce",
+   "size": 144
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/SWAGMAN.BUP",
+   "sha256": "6564cf6a9a5c6ec4856cd3fb1736806f001bcf2c2f3a8124dcaa56196774a6e1",
+   "size": 128
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/TRUNC_00001.BUP",
+   "sha256": "1fe4ea4ccf1f80320ae19179c74278cf732e53606e11ee098684713b5d5d5080",
+   "size": 164
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/X3.BUP",
+   "sha256": "b266f1c7536051398108ab12b9b153cc3d62696a8b60138cf4996399c5378983",
+   "size": 184
+  },
+  {
+   "path": "SAVES/BRAM/_BACKUP/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/_BACKUP/GENERAL_01.BUP",
+   "sha256": "6fe99c6d604d0ba413cd2f02a71b2d10f77f2be3fd4b64a834f23fc627cc7fd4",
+   "size": 104
+  },
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/GS-9001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/GS-9001/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/GS-9001/02/GS_SAVE_002.BUP",
+   "sha256": "fabe6310004833072ca665e110829f677897ed15ed5709cd99061594b4496fc7",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/GS-9001/GS_SAVE_000.BUP",
+   "sha256": "679b4216849fdba8d8ceafce30d76764ded1041fb0cb03695c368dd65e8fa21a",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/IMPORT.TXT",
+   "sha256": "b76ff1113e965dc26b1ca711091cbab87ac75c1405cd50160a3597d653bec681",
+   "size": 316
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/01/XSLOT12_SAV.BUP",
+   "sha256": "52ff33a554c8ae826c91096b746872cb09c5b7a0bd2c663039fd3882b7506676",
+   "size": 104
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/03/SLOTSAVE_03.BUP",
+   "sha256": "ca70aedf3e5290b74ecb4ca91d31b423dcb3053c8f093c1a116635c67e44a3b6",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/OWN_0000001.BUP",
+   "sha256": "029770e58e5da06ffa31be541d5eee762c7228c9d714c00712b9cbd81b834c0c",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/SCORCHER_01.BUP",
+   "sha256": "4e1a383bac3fc298277732048b126c30e77660975fdd049d0a02c97f8ace1445",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/SCORCHER_02.BUP",
+   "sha256": "10b4fae95f64dcede52f8676997006bb16962fee3be5b596c27438c982516f22",
+   "size": 264
+  },
+  {
+   "path": "aether/SAVES/MK-81214[J]/SCORCHER_03.BUP",
+   "sha256": "82ae14de02c72f45f1bff0cb1a6c2f9e69fd8e89c4624b4b32fbf8bb70078344",
+   "size": 184
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/01/XSLOT12_SAV.BUP",
+   "sha256": "52ff33a554c8ae826c91096b746872cb09c5b7a0bd2c663039fd3882b7506676",
+   "size": 104
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/03/SLOTSAVE_03.BUP",
+   "sha256": "ca70aedf3e5290b74ecb4ca91d31b423dcb3053c8f093c1a116635c67e44a3b6",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/BIGSAVE_002.BUP",
+   "sha256": "92d83d101b83a71636b68f4cb3bf5a8543b13a331fb725641e080c5c1e206f31",
+   "size": 32832
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CART/BIGSAVE_001.BUP",
+   "sha256": "4f7b206760ea8e2fcf740f789f6edead60feb2b0873e0d3f8894911278116d9d",
+   "size": 32833
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SCORCHER_01.BUP",
+   "sha256": "4e1a383bac3fc298277732048b126c30e77660975fdd049d0a02c97f8ace1445",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SCORCHER_02.BUP",
+   "sha256": "10b4fae95f64dcede52f8676997006bb16962fee3be5b596c27438c982516f22",
+   "size": 264
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SCORCHER_03.BUP",
+   "sha256": "b266f1c7536051398108ab12b9b153cc3d62696a8b60138cf4996399c5378983",
+   "size": 184
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SGCNAME_ABC.BUP",
+   "sha256": "7bae7bc549abe460c8a9786eb767a9e3472aebfd01ac0f37ec81f48bfcb7b0ce",
+   "size": 144
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SWAGMAN_DAT.BUP",
+   "sha256": "6564cf6a9a5c6ec4856cd3fb1736806f001bcf2c2f3a8124dcaa56196774a6e1",
+   "size": 128
+  },
+  {
+   "path": "aether/SAVES/T-123/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-123/ABC_SAVE_01.BUP",
+   "sha256": "0811de809ce3bb7345e6aabefb9e99a0cd96f41fa922b9b98b2b387ec535d7a7",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[J]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[J]/SCORCHER_01.BUP",
+   "sha256": "f2e8a8e7f3d393f9a56731dbb9adc4f5e7156405c2495bb73ce8f4d8a17adcdc",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/03/SLOTSAVE_03.BUP",
+   "sha256": "f2f6d420de09deb220bd79f4732715c6ce3d202aae29a9cd108add7152cb4150",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/SCORCHER_01.BUP",
+   "sha256": "e4068eb18645044f514086ae5169686e38ed32d1f2df711f3207ee9234b91749",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/SCORCHER_01~1.BUP",
+   "sha256": "f2e8a8e7f3d393f9a56731dbb9adc4f5e7156405c2495bb73ce8f4d8a17adcdc",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/SCORCHER_03.BUP",
+   "sha256": "82ae14de02c72f45f1bff0cb1a6c2f9e69fd8e89c4624b4b32fbf8bb70078344",
+   "size": 184
+  },
+  {
+   "path": "satiator-saves/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/MK-81214/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/MK-81214/S2.BUP",
+   "sha256": "10b4fae95f64dcede52f8676997006bb16962fee3be5b596c27438c982516f22",
+   "size": 264
+  },
+  {
+   "path": "satiator-saves/MK-81214/SCORCHER_01.BUP",
+   "sha256": "4e1a383bac3fc298277732048b126c30e77660975fdd049d0a02c97f8ace1445",
+   "size": 364
+  },
+  {
+   "path": "satiator-saves/[SLOT03]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT03]/MK-81214/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT03]/MK-81214/SLOTSAVE_03.BUP",
+   "sha256": "ca70aedf3e5290b74ecb4ca91d31b423dcb3053c8f093c1a116635c67e44a3b6",
+   "size": 114
+  },
+  {
+   "path": "satiator-saves/[SLOT12]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT12]/MK-81214/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT12]/MK-81214/X.BUP",
+   "sha256": "52ff33a554c8ae826c91096b746872cb09c5b7a0bd2c663039fd3882b7506676",
+   "size": 104
+  },
+  {
+   "path": "satiator-saves/t-123/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-123/ABC_SAVE_01.BUP",
+   "sha256": "0811de809ce3bb7345e6aabefb9e99a0cd96f41fa922b9b98b2b387ec535d7a7",
+   "size": 124
+  }
+ ]
+}

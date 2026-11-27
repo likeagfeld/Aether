@@ -1,0 +1,25 @@
+{
+ "import_txt": null,
+ "log": [
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=0 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=0 skipped=0 rc=0",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=1 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=0 skipped=0 rc=0",
+  "caps tcap=912 kcap=2448",
+  "violations=0"
+ ],
+ "pgsbak_sha": "014189c",
+ "runs": [],
+ "tree": [
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/LAUNCHER.BIN",
+   "sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+   "size": 1
+  }
+ ]
+}

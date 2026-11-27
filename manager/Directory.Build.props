@@ -1,0 +1,25 @@
+<Project>
+  <!-- Aether Card Manager, GPL-3.0-or-later (derived from GD MENU Card Manager, sonik-br / ateam; design spec §8). -->
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Version>0.1</Version>
+    <Product>Aether Card Manager</Product>
+  </PropertyGroup>
+  <!-- The build identity (Core/Update/BuildInfo.cs): InformationalVersion "0.1+<UTC yyyyMMdd.HHmm>.<short sha>" and
+       whether this build is a pre-release, so the update check can tell two builds of one version apart.
+       package.ps1 passes all three (-p:AetherBuild, -p:AetherCommit, -p:AetherPrerelease) to match its version.json;
+       otherwise a Release build stamps the time now and a Debug build none (so it stays incremental), and the commit
+       is read from git (Directory.Build.targets). -->
+  <PropertyGroup>
+    <AetherBuild Condition="'$(AetherBuild)' == '' And '$(Configuration)' == 'Release'">$([System.DateTime]::UtcNow.ToString('yyyyMMdd.HHmm'))</AetherBuild>
+    <AetherPrerelease Condition="'$(AetherPrerelease)' == ''">true</AetherPrerelease>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <InformationalVersion>$(Version)+$(AetherBuild).$(AetherCommit)</InformationalVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyMetadata Include="AetherPrerelease" Value="$(AetherPrerelease)" />
+  </ItemGroup>
+</Project>

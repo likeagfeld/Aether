@@ -1,0 +1,2992 @@
+{
+ "omsat_pin": "f2a7d4b",
+ "pairs": [
+  {
+   "a": "delta7890/PANZER_ZWEI/PANDRA_ZWEI_01.BUP",
+   "a_wins": false,
+   "b": "delta7890/PANZER_ZWEI/PANDRA_ZWEI_02.BUP"
+  },
+  {
+   "a": "delta7890/PANZER_ZWEI/PANDRA_ZWEI_02.BUP",
+   "a_wins": true,
+   "b": "delta7890/PANZER_ZWEI/PANDRA_ZWEI_01.BUP"
+  },
+  {
+   "a": "privateye/POLICENAUTS/POLICE_END1.BUP",
+   "a_wins": true,
+   "b": "privateye/POLICENAUTS/POLICE_END2.BUP"
+  },
+  {
+   "a": "privateye/POLICENAUTS/POLICE_END2.BUP",
+   "a_wins": false,
+   "b": "privateye/POLICENAUTS/POLICE_END1.BUP"
+  },
+  {
+   "a": "privateye/POLICENAUTS/POLICE_END1.BUP",
+   "a_wins": true,
+   "b": "privateye/POLICENAUTS/POLICE_END3.BUP"
+  },
+  {
+   "a": "privateye/POLICENAUTS/POLICE_END3.BUP",
+   "a_wins": false,
+   "b": "privateye/POLICENAUTS/POLICE_END1.BUP"
+  },
+  {
+   "a": "privateye/POLICENAUTS/POLICE_END2.BUP",
+   "a_wins": false,
+   "b": "privateye/POLICENAUTS/POLICE_END3.BUP"
+  },
+  {
+   "a": "privateye/POLICENAUTS/POLICE_END3.BUP",
+   "a_wins": true,
+   "b": "privateye/POLICENAUTS/POLICE_END2.BUP"
+  },
+  {
+   "a": "vbt/20200620/DAYTONA__00.BUP",
+   "a_wins": true,
+   "b": "vbt/20200620/Daytona__01.BUP"
+  },
+  {
+   "a": "vbt/20200620/Daytona__01.BUP",
+   "a_wins": false,
+   "b": "vbt/20200620/DAYTONA__00.BUP"
+  }
+ ],
+ "rows": [
+  {
+   "blocks": 2,
+   "datasize": 268,
+   "date": 9688272,
+   "err": "",
+   "name": "BLASTWIND_0",
+   "ok": true,
+   "path": "Ark35/CART_001/BLASTWIND_0.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 17,
+   "date": 9455197,
+   "err": "",
+   "name": "DEZA2___SYS",
+   "ok": true,
+   "path": "Ark35/CART_001/DEZA2___SYS.BUP"
+  },
+  {
+   "blocks": 599,
+   "datasize": 149650,
+   "date": 9931737,
+   "err": "",
+   "name": "DEZA2____01",
+   "ok": true,
+   "path": "Ark35/CART_001/DEZA2____01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 448,
+   "date": 9355515,
+   "err": "",
+   "name": "DODONPACHIS",
+   "ok": true,
+   "path": "Ark35/CART_001/DODONPACHIS.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 192,
+   "date": 8943780,
+   "err": "",
+   "name": "NECRO_VER96",
+   "ok": true,
+   "path": "Ark35/CART_001/NECRO_VER96.BUP"
+  },
+  {
+   "blocks": 14,
+   "datasize": 3456,
+   "date": 10348386,
+   "err": "",
+   "name": "NIGHTS_XMAS",
+   "ok": true,
+   "path": "Ark35/CART_001/NIGHTS_XMAS.BUP"
+  },
+  {
+   "blocks": 8,
+   "datasize": 1856,
+   "date": 10348398,
+   "err": "",
+   "name": "NIGHTS___01",
+   "ok": true,
+   "path": "Ark35/CART_001/NIGHTS___01.BUP"
+  },
+  {
+   "blocks": 51,
+   "datasize": 12544,
+   "date": 9827392,
+   "err": "",
+   "name": "NIGHTS___02",
+   "ok": true,
+   "path": "Ark35/CART_001/NIGHTS___02.BUP"
+  },
+  {
+   "blocks": 8,
+   "datasize": 1868,
+   "date": 9774762,
+   "err": "",
+   "name": "RADIANT_S_G",
+   "ok": true,
+   "path": "Ark35/CART_001/RADIANT_S_G.BUP"
+  },
+  {
+   "blocks": 13,
+   "datasize": 3072,
+   "date": 9804532,
+   "err": "",
+   "name": "SN3_MATCH01",
+   "ok": true,
+   "path": "Ark35/CART_001/SN3_MATCH01.BUP"
+  },
+  {
+   "blocks": 7,
+   "datasize": 1578,
+   "date": 8999341,
+   "err": "",
+   "name": "SOQGUREN_01",
+   "ok": true,
+   "path": "Ark35/CART_001/SOQGUREN_01.BUP"
+  },
+  {
+   "blocks": 16,
+   "datasize": 3844,
+   "date": 8997341,
+   "err": "",
+   "name": "SOQGUREN_02",
+   "ok": true,
+   "path": "Ark35/CART_001/SOQGUREN_02.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 320,
+   "date": 9659002,
+   "err": "",
+   "name": "T_S_SPRITES",
+   "ok": true,
+   "path": "Ark35/CART_001/T_S_SPRITES.BUP"
+  },
+  {
+   "blocks": 34,
+   "datasize": 139244,
+   "date": 10473037,
+   "err": "",
+   "name": "DEZA2____01",
+   "ok": true,
+   "path": "Ark35/FDD1_001/DEZA2____01.BUP"
+  },
+  {
+   "blocks": 24,
+   "datasize": 95190,
+   "date": 10474274,
+   "err": "",
+   "name": "DEZA2____02",
+   "ok": true,
+   "path": "Ark35/FDD1_001/DEZA2____02.BUP"
+  },
+  {
+   "blocks": 40,
+   "datasize": 161261,
+   "date": 10471495,
+   "err": "",
+   "name": "DEZA2____03",
+   "ok": true,
+   "path": "Ark35/FDD1_001/DEZA2____03.BUP"
+  },
+  {
+   "blocks": 36,
+   "datasize": 146651,
+   "date": 9594239,
+   "err": "",
+   "name": "DEZA2____01",
+   "ok": true,
+   "path": "Ark35/FDD1_002/DEZA2____01.BUP"
+  },
+  {
+   "blocks": 38,
+   "datasize": 154316,
+   "date": 10110356,
+   "err": "",
+   "name": "DEZA2____03",
+   "ok": true,
+   "path": "Ark35/FDD1_002/DEZA2____03.BUP"
+  },
+  {
+   "blocks": 38,
+   "datasize": 153413,
+   "date": 10097515,
+   "err": "",
+   "name": "DEZA2____04",
+   "ok": true,
+   "path": "Ark35/FDD1_002/DEZA2____04.BUP"
+  },
+  {
+   "blocks": 38,
+   "datasize": 154316,
+   "date": 7845148,
+   "err": "",
+   "name": "DEZA2____05",
+   "ok": true,
+   "path": "Ark35/FDD1_002/DEZA2____05.BUP"
+  },
+  {
+   "blocks": 33,
+   "datasize": 1856,
+   "date": 22618923,
+   "err": "",
+   "name": "B_RANGERS__",
+   "ok": true,
+   "path": "Bo_Bayles/B_RANGERS__.BUP"
+  },
+  {
+   "blocks": 46,
+   "datasize": 2592,
+   "date": 22708661,
+   "err": "",
+   "name": "TUSK_BACKUP",
+   "ok": true,
+   "path": "Dan_Retrospectors/TUSK_BACKUP.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 2628,
+   "date": 9270613,
+   "err": "",
+   "name": "TOKIMEKI_01",
+   "ok": true,
+   "path": "Fallen92/TOKIMEKI_01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 52,
+   "date": 22271810,
+   "err": "",
+   "name": "TOKIMEKI_99",
+   "ok": true,
+   "path": "Fallen92/TOKIMEKI_99.BUP"
+  },
+  {
+   "blocks": 77,
+   "datasize": 4388,
+   "date": 22341075,
+   "err": "",
+   "name": "DRACULAX_01",
+   "ok": true,
+   "path": "Flupper/DRACULAX_01.BUP"
+  },
+  {
+   "blocks": 52,
+   "datasize": 12904,
+   "date": 8316399,
+   "err": "",
+   "name": "SFORCE31_01",
+   "ok": true,
+   "path": "Gosub/SF3-1_1.BUP"
+  },
+  {
+   "blocks": 52,
+   "datasize": 12904,
+   "date": 8288924,
+   "err": "",
+   "name": "SFORCE31_02",
+   "ok": true,
+   "path": "Gosub/SF3-1_2.BUP"
+  },
+  {
+   "blocks": 66,
+   "datasize": 16248,
+   "date": 18951235,
+   "err": "",
+   "name": "SFORCE32_01",
+   "ok": true,
+   "path": "Gosub/SF3-2_1.BUP"
+  },
+  {
+   "blocks": 66,
+   "datasize": 16248,
+   "date": 18951977,
+   "err": "",
+   "name": "SFORCE32_02",
+   "ok": true,
+   "path": "Gosub/SF3-2_2.BUP"
+  },
+  {
+   "blocks": 98,
+   "datasize": 24344,
+   "date": 19288039,
+   "err": "",
+   "name": "SFORCE33_01",
+   "ok": true,
+   "path": "Gosub/SF3-3_1.BUP"
+  },
+  {
+   "blocks": 98,
+   "datasize": 24344,
+   "date": 19288476,
+   "err": "",
+   "name": "SFORCE33_02",
+   "ok": true,
+   "path": "Gosub/SF3-3_2.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21990500,
+   "err": "",
+   "name": "SFORCE31_01",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_1Player/SFORCE31_01.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21990500,
+   "err": "",
+   "name": "SFORCE31_02",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_1Player/SFORCE31_02.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21990500,
+   "err": "",
+   "name": "SFORCE31_03",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_1Player/SFORCE31_03.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21990500,
+   "err": "",
+   "name": "SFORCE31_04",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_1Player/SFORCE31_04.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21991745,
+   "err": "",
+   "name": "SFORCE31_01",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_2Player/SFORCE31_01.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21990500,
+   "err": "",
+   "name": "SFORCE31_02",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_2Player/SFORCE31_02.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21990500,
+   "err": "",
+   "name": "SFORCE31_03",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_2Player/SFORCE31_03.BUP"
+  },
+  {
+   "blocks": 223,
+   "datasize": 12904,
+   "date": 21990500,
+   "err": "",
+   "name": "SFORCE31_04",
+   "ok": true,
+   "path": "Knight0fDragon/SF3_2Player/SFORCE31_04.BUP"
+  },
+  {
+   "blocks": 4,
+   "datasize": 176,
+   "date": 21899597,
+   "err": "",
+   "name": "BUL_SLA__01",
+   "ok": true,
+   "path": "Pimpeaux/BUL_SLA__01.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 224,
+   "date": 17,
+   "err": "",
+   "name": "CROCFISAVE1",
+   "ok": true,
+   "path": "Pimpeaux/CROCFISAVE1.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 69,
+   "date": 44303040,
+   "err": "",
+   "name": "L_SECTION__",
+   "ok": true,
+   "path": "Pimpeaux/L_SECTION__.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 449,
+   "date": 21975358,
+   "err": "",
+   "name": "PANDRA_ZWEI",
+   "ok": true,
+   "path": "Pimpeaux/PANDRA_ZWEI.BUP"
+  },
+  {
+   "blocks": 22,
+   "datasize": 1190,
+   "date": 93311801,
+   "err": "",
+   "name": "RAYMAN_NTS1",
+   "ok": true,
+   "path": "Pimpeaux/RAYMAN_NTS1.BUP"
+  },
+  {
+   "blocks": 99,
+   "datasize": 5708,
+   "date": 22306457,
+   "err": "",
+   "name": "SAKURA___01",
+   "ok": true,
+   "path": "Pimpeaux/SAKURA___01.BUP"
+  },
+  {
+   "blocks": 7,
+   "datasize": 336,
+   "date": 0,
+   "err": "",
+   "name": "SONICR___01",
+   "ok": true,
+   "path": "Pimpeaux/SONICR___01.BUP"
+  },
+  {
+   "blocks": 67,
+   "datasize": 4088,
+   "date": 21976816,
+   "err": "",
+   "name": "HOLY_ARK_02",
+   "ok": true,
+   "path": "Rikapso/HOLY_ARK_02.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568559,
+   "err": "",
+   "name": "IRONSTRM_00",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_00.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568561,
+   "err": "",
+   "name": "IRONSTRM_01",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_01.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568563,
+   "err": "",
+   "name": "IRONSTRM_02",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_02.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568565,
+   "err": "",
+   "name": "IRONSTRM_03",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_03.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568568,
+   "err": "",
+   "name": "IRONSTRM_04",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_04.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568570,
+   "err": "",
+   "name": "IRONSTRM_05",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_05.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568572,
+   "err": "",
+   "name": "IRONSTRM_06",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_06.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568574,
+   "err": "",
+   "name": "IRONSTRM_07",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_07.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568577,
+   "err": "",
+   "name": "IRONSTRM_08",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_08.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568579,
+   "err": "",
+   "name": "IRONSTRM_09",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_09.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568582,
+   "err": "",
+   "name": "IRONSTRM_10",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_10.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22568584,
+   "err": "",
+   "name": "IRONSTRM_11",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_11.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570027,
+   "err": "",
+   "name": "IRONSTRM_12",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_12.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570032,
+   "err": "",
+   "name": "IRONSTRM_13",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_13.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570035,
+   "err": "",
+   "name": "IRONSTRM_14",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_14.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570037,
+   "err": "",
+   "name": "IRONSTRM_15",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_15.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570040,
+   "err": "",
+   "name": "IRONSTRM_16",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_16.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570042,
+   "err": "",
+   "name": "IRONSTRM_17",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_17.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570045,
+   "err": "",
+   "name": "IRONSTRM_18",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_18.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570048,
+   "err": "",
+   "name": "IRONSTRM_19",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_19.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570050,
+   "err": "",
+   "name": "IRONSTRM_20",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_20.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570053,
+   "err": "",
+   "name": "IRONSTRM_21",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_21.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570056,
+   "err": "",
+   "name": "IRONSTRM_22",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_22.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570058,
+   "err": "",
+   "name": "IRONSTRM_23",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_23.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570061,
+   "err": "",
+   "name": "IRONSTRM_24",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_24.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570063,
+   "err": "",
+   "name": "IRONSTRM_25",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_25.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570066,
+   "err": "",
+   "name": "IRONSTRM_26",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_26.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570069,
+   "err": "",
+   "name": "IRONSTRM_27",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_27.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570071,
+   "err": "",
+   "name": "IRONSTRM_28",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_28.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570074,
+   "err": "",
+   "name": "IRONSTRM_29",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_29.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570076,
+   "err": "",
+   "name": "IRONSTRM_30",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_30.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570079,
+   "err": "",
+   "name": "IRONSTRM_31",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_31.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570087,
+   "err": "",
+   "name": "IRONSTRM_32",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_32.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570090,
+   "err": "",
+   "name": "IRONSTRM_33",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_33.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570093,
+   "err": "",
+   "name": "IRONSTRM_34",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_34.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570095,
+   "err": "",
+   "name": "IRONSTRM_35",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_35.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570098,
+   "err": "",
+   "name": "IRONSTRM_36",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_36.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570101,
+   "err": "",
+   "name": "IRONSTRM_37",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_37.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570103,
+   "err": "",
+   "name": "IRONSTRM_38",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_38.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570109,
+   "err": "",
+   "name": "IRONSTRM_39",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_39.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570112,
+   "err": "",
+   "name": "IRONSTRM_40",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_40.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570115,
+   "err": "",
+   "name": "IRONSTRM_41",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_41.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570119,
+   "err": "",
+   "name": "IRONSTRM_42",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_42.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570122,
+   "err": "",
+   "name": "IRONSTRM_43",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_43.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570126,
+   "err": "",
+   "name": "IRONSTRM_44",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_44.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570129,
+   "err": "",
+   "name": "IRONSTRM_45",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_45.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570132,
+   "err": "",
+   "name": "IRONSTRM_46",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_46.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570135,
+   "err": "",
+   "name": "IRONSTRM_47",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_47.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570138,
+   "err": "",
+   "name": "IRONSTRM_48",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_48.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570141,
+   "err": "",
+   "name": "IRONSTRM_49",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_49.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570189,
+   "err": "",
+   "name": "IRONSTRM_50",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_50.BUP"
+  },
+  {
+   "blocks": 80,
+   "datasize": 19964,
+   "date": 22570193,
+   "err": "",
+   "name": "IRONSTRM_51",
+   "ok": true,
+   "path": "RyanC/IRONSTRM_51.BUP"
+  },
+  {
+   "blocks": 77,
+   "datasize": 4388,
+   "date": 9298478,
+   "err": "",
+   "name": "DRACULAX_02",
+   "ok": true,
+   "path": "SaveGameCopier/DRACULAX.BUP"
+  },
+  {
+   "blocks": 249,
+   "datasize": 62464,
+   "date": 7477889,
+   "err": "",
+   "name": "SEGARALLY_1",
+   "ok": true,
+   "path": "SaveGameCopier/SEGARALL.BUP"
+  },
+  {
+   "blocks": 52,
+   "datasize": 12904,
+   "date": 8316399,
+   "err": "",
+   "name": "SFORCE31_01",
+   "ok": true,
+   "path": "SaveGameCopier/SFORCE31.BUP"
+  },
+  {
+   "blocks": 10,
+   "datasize": 544,
+   "date": 7364177,
+   "err": "",
+   "name": "BIOUDATA_01",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/BIOUDAT2.BUP"
+  },
+  {
+   "blocks": 4,
+   "datasize": 200,
+   "date": 7364160,
+   "err": "",
+   "name": "BIOUDATA_SS",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/BIOUDATA.BUP"
+  },
+  {
+   "blocks": 93,
+   "datasize": 5328,
+   "date": 21567603,
+   "err": "",
+   "name": "B_GAREGGA__",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/B_GAREGG.BUP"
+  },
+  {
+   "blocks": 54,
+   "datasize": 3056,
+   "date": 9571598,
+   "err": "",
+   "name": "GOIKEN__001",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/GOIKE001.BUP"
+  },
+  {
+   "blocks": 13,
+   "datasize": 712,
+   "date": 9721254,
+   "err": "",
+   "name": "GOIKEN__DAT",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/GOIKEDAT.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 1168,
+   "date": 9725423,
+   "err": "",
+   "name": "HOUSEOFDEAD",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/HOUSEOFD.BUP"
+  },
+  {
+   "blocks": 10,
+   "datasize": 498,
+   "date": 20900976,
+   "err": "",
+   "name": "SALAMANDER_",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/SALAMAND.BUP"
+  },
+  {
+   "blocks": 93,
+   "datasize": 5312,
+   "date": 12848946,
+   "err": "",
+   "name": "SFZERO3_001",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/SFZER001.BUP"
+  },
+  {
+   "blocks": 93,
+   "datasize": 5312,
+   "date": 12847942,
+   "err": "",
+   "name": "SFZERO3_002",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/SFZER002.BUP"
+  },
+  {
+   "blocks": 36,
+   "datasize": 2004,
+   "date": 11845647,
+   "err": "",
+   "name": "SF_ALPHA_00",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/SF_ALPH1.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 480,
+   "date": 11798860,
+   "err": "",
+   "name": "SF_ALPHA2_0",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/SF_ALPHA.BUP"
+  },
+  {
+   "blocks": 6,
+   "datasize": 280,
+   "date": 11806082,
+   "err": "",
+   "name": "SF_COLLE_02",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/SF_COL02.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 480,
+   "date": 11767193,
+   "err": "",
+   "name": "SF_COLLE_03",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/SF_COL03.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 144,
+   "date": 9570152,
+   "err": "",
+   "name": "ZENNICHI_01",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/ZENNIC01.BUP"
+  },
+  {
+   "blocks": 42,
+   "datasize": 2400,
+   "date": 9570167,
+   "err": "",
+   "name": "ZENNICHI_02",
+   "ok": true,
+   "path": "SaveGameCopier/ShinJohnpv/ZENNIC02.BUP"
+  },
+  {
+   "blocks": 43,
+   "datasize": 2463,
+   "date": 21663041,
+   "err": "",
+   "name": "DAYTONA__00",
+   "ok": true,
+   "path": "SaveGameCopier/Sixfortyfive/DAYTONA_.BUP"
+  },
+  {
+   "blocks": 73,
+   "datasize": 18144,
+   "date": 13169107,
+   "err": "",
+   "name": "DR_FORCE_00",
+   "ok": true,
+   "path": "SaveGameCopier/Sixfortyfive/DR_FORCE.BUP"
+  },
+  {
+   "blocks": 25,
+   "datasize": 1396,
+   "date": 21662892,
+   "err": "",
+   "name": "FIGHTERS_MM",
+   "ok": true,
+   "path": "SaveGameCopier/Sixfortyfive/FIGHTERS.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 1160,
+   "date": 21658007,
+   "err": "",
+   "name": "GUARDIAN_HE",
+   "ok": true,
+   "path": "SaveGameCopier/Sixfortyfive/GUARDIAN.BUP"
+  },
+  {
+   "blocks": 7,
+   "datasize": 336,
+   "date": 0,
+   "err": "",
+   "name": "SONICR___01",
+   "ok": true,
+   "path": "SaveGameCopier/Sixfortyfive/SONICR__.BUP"
+  },
+  {
+   "blocks": 137,
+   "datasize": 33988,
+   "date": 49161585,
+   "err": "",
+   "name": "TAMAGOTCHI_",
+   "ok": true,
+   "path": "SaveGameCopier/fafling/TAMAGOTC.BUP"
+  },
+  {
+   "blocks": 77,
+   "datasize": 4388,
+   "date": 9285313,
+   "err": "",
+   "name": "DRACULAX_01",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/DRACUL01.BUP"
+  },
+  {
+   "blocks": 77,
+   "datasize": 4388,
+   "date": 9298478,
+   "err": "",
+   "name": "DRACULAX_02",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/DRACUL02.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 144,
+   "date": 21654261,
+   "err": "",
+   "name": "FANTASYZONE",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/FANTASYZ.BUP"
+  },
+  {
+   "blocks": 13,
+   "datasize": 676,
+   "date": 21653699,
+   "err": "",
+   "name": "HARRIER_D01",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/HARRIE01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 32,
+   "date": 21653733,
+   "err": "",
+   "name": "KEIO2______",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/KEIO2___.BUP"
+  },
+  {
+   "blocks": 217,
+   "datasize": 12544,
+   "date": 9617549,
+   "err": "",
+   "name": "NIGHTS___02",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/NIGHTS02.BUP"
+  },
+  {
+   "blocks": 20,
+   "datasize": 1120,
+   "date": 21654537,
+   "err": "",
+   "name": "OUTRUN___01",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/OUTRUN01.BUP"
+  },
+  {
+   "blocks": 7,
+   "datasize": 320,
+   "date": 9620090,
+   "err": "",
+   "name": "POCKET_FIGH",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/POCKET_F.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 480,
+   "date": 9003045,
+   "err": "",
+   "name": "PZL_F_TURBO",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/PZL_F_TU.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 484,
+   "date": 21653197,
+   "err": "",
+   "name": "QUTENKAI000",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/QUTENKAI.BUP"
+  },
+  {
+   "blocks": 33,
+   "datasize": 1868,
+   "date": 21653736,
+   "err": "",
+   "name": "RADIANT_S_G",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/RADIANT_.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 238,
+   "date": 9060569,
+   "err": "",
+   "name": "SBOMBERMANF",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/SBOMBERM.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 472,
+   "date": 12813073,
+   "err": "",
+   "name": "SENGOKU_B__",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/SENGOKU_.BUP"
+  },
+  {
+   "blocks": 28,
+   "datasize": 1578,
+   "date": 8850253,
+   "err": "",
+   "name": "SOQGUREN_01",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/SOQGUREN.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 96,
+   "date": 9623727,
+   "err": "",
+   "name": "TENCHIRENSA",
+   "ok": true,
+   "path": "SaveGameCopier/ncc1701p/TENCHIRE.BUP"
+  },
+  {
+   "blocks": 25,
+   "datasize": 1396,
+   "date": 21776822,
+   "err": "",
+   "name": "FIGHTERS_MM",
+   "ok": true,
+   "path": "Tokugamer/FIGHTERS_MM.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 480,
+   "date": 21765232,
+   "err": "",
+   "name": "MSH_VS_SF__",
+   "ok": true,
+   "path": "Tokugamer/MSH_VS_SF__.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 4096,
+   "date": 9229881,
+   "err": "",
+   "name": "AQUAZONE_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/AQUAZONE_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1308,
+   "date": 44303040,
+   "err": "",
+   "name": "AQUAZONE_99",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/AQUAZONE_99.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 256,
+   "date": 9260098,
+   "err": "",
+   "name": "CYBERBOTS01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/CYBERBOTS01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 4033,
+   "date": 9068353,
+   "err": "",
+   "name": "DAYTONA96_0",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/DAYTONA96_0.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 46,
+   "date": 8954799,
+   "err": "",
+   "name": "DEVILDIC_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/DEVILDIC_01.BUP"
+  },
+  {
+   "blocks": 32,
+   "datasize": 127571,
+   "date": 9643551,
+   "err": "",
+   "name": "DEZA2____01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/DEZA2____01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1396,
+   "date": 9090133,
+   "err": "",
+   "name": "FIGHTERS_MM",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/FIGHTERS_MM.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 3088,
+   "date": 9088498,
+   "err": "",
+   "name": "FVIPER_MAST",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/FVIPER_MAST.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1104,
+   "date": 9088496,
+   "err": "",
+   "name": "FVIPER_RP00",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/FVIPER_RP00.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 578,
+   "date": 9088496,
+   "err": "",
+   "name": "FVIPER_RP01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/FVIPER_RP01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 576,
+   "date": 0,
+   "err": "",
+   "name": "GGRIFFON__1",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/GGRIFFON__1.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1160,
+   "date": 9074405,
+   "err": "",
+   "name": "GUARDIAN_HE",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/GUARDIAN_HE.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 608,
+   "date": 9110225,
+   "err": "",
+   "name": "HANACOLUMNS",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/HANACOLUMNS.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1088,
+   "date": 9112905,
+   "err": "",
+   "name": "JIKUUTANTEI",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/JIKUUTANTEI.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 32,
+   "date": 9088705,
+   "err": "",
+   "name": "KEIO2______",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/KEIO2______.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 224,
+   "date": 8975048,
+   "err": "",
+   "name": "K_O_F_96_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/K_O_F_96_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 4,
+   "date": 9088695,
+   "err": "",
+   "name": "LIME_V2__01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/LIME_V2__01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 8192,
+   "date": 9139381,
+   "err": "",
+   "name": "MEGAMIDS_00",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/MEGAMIDS_00.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 8192,
+   "date": 8880262,
+   "err": "",
+   "name": "MEGAMIDS_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/MEGAMIDS_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1704,
+   "date": 9088991,
+   "err": "",
+   "name": "PM2_DATA_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PM2_DATA_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1704,
+   "date": 9089107,
+   "err": "",
+   "name": "PM2_DATA_02",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PM2_DATA_02.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 20,
+   "date": 8737874,
+   "err": "",
+   "name": "PSYCHO_T001",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PSYCHO_T001.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1944,
+   "date": 9042746,
+   "err": "",
+   "name": "PURUMI2_000",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PURUMI2_000.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1944,
+   "date": 9042747,
+   "err": "",
+   "name": "PURUMI2_001",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PURUMI2_001.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 6,
+   "date": 9044290,
+   "err": "",
+   "name": "PURUMI2_006",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PURUMI2_006.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 352,
+   "date": 9068454,
+   "err": "",
+   "name": "PUYO_SUN_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PUYO_SUN_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1068,
+   "date": 9005476,
+   "err": "",
+   "name": "PUYO_TWO_00",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/PUYO_TWO_00.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 7292,
+   "date": 8963296,
+   "err": "",
+   "name": "RIGLORD__01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/RIGLORD__01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 5708,
+   "date": 9015297,
+   "err": "",
+   "name": "SAKURA___01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/SAKURA___01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 4512,
+   "date": 9271807,
+   "err": "",
+   "name": "SG_MASH_001",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/SG_MASH_001.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1408,
+   "date": 9257242,
+   "err": "",
+   "name": "SONICJAM_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/SONICJAM_01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 8192,
+   "date": 9081795,
+   "err": "",
+   "name": "SSSSSAVEDAT",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/SSSSSAVEDAT.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 3008,
+   "date": 9218576,
+   "err": "",
+   "name": "SSYUMEMI_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/SSYUMEMI_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 256,
+   "date": 8965095,
+   "err": "",
+   "name": "S_GUNDAM_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/S_GUNDAM_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 256,
+   "date": 8965137,
+   "err": "",
+   "name": "S_GUNDAM_02",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/S_GUNDAM_02.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 256,
+   "date": 9044344,
+   "err": "",
+   "name": "S_GUNDAM_03",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/S_GUNDAM_03.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1024,
+   "date": 8964941,
+   "err": "",
+   "name": "S_WISDOM_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/S_WISDOM_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1236,
+   "date": 9068761,
+   "err": "",
+   "name": "TERA_PHA_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/TERA_PHA_01.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 18368,
+   "date": 44303040,
+   "err": "",
+   "name": "TE_HYD_1DAT",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/TE_HYD_1DAT.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 696,
+   "date": 9219597,
+   "err": "",
+   "name": "THOR2SVDT_0",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/THOR2SVDT_0.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 148,
+   "date": 0,
+   "err": "",
+   "name": "THOR2SYSTEM",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/THOR2SYSTEM.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 1024,
+   "date": 31218737,
+   "err": "",
+   "name": "VFIGHTER_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VFIGHTER_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 164,
+   "date": 9069713,
+   "err": "",
+   "name": "VGOAL_WE_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VGOAL_WE_01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 6404,
+   "date": 9068491,
+   "err": "",
+   "name": "VGOAL_WE_02",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VGOAL_WE_02.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 9392,
+   "date": 9069762,
+   "err": "",
+   "name": "VGOAL_WE_03",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VGOAL_WE_03.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 684,
+   "date": 9069762,
+   "err": "",
+   "name": "VGOAL_WE_05",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VGOAL_WE_05.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 2112,
+   "date": 9091637,
+   "err": "",
+   "name": "VOICEREC___",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VOICEREC___.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 2384,
+   "date": 9137835,
+   "err": "",
+   "name": "VRRECORD_00",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VRRECORD_00.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 544,
+   "date": 9130293,
+   "err": "",
+   "name": "VRRECORD_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/VRRECORD_01.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 512,
+   "date": 9225810,
+   "err": "",
+   "name": "V_HUNTER_01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD1_001/V_HUNTER_01.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 5708,
+   "date": 9012654,
+   "err": "",
+   "name": "SAKURA___01",
+   "ok": true,
+   "path": "cafealpha/FDD_20211030/FDD2_001/SAKURA___01.BUP"
+  },
+  {
+   "blocks": 249,
+   "datasize": 62464,
+   "date": 7477889,
+   "err": "",
+   "name": "SEGARALLY_1",
+   "ok": true,
+   "path": "cafealpha/SegaRally/GHOST_20170204.BUP"
+  },
+  {
+   "blocks": 137,
+   "datasize": 33988,
+   "date": 49161585,
+   "err": "",
+   "name": "TAMAGOTCHI_",
+   "ok": true,
+   "path": "cafealpha/Tamagotchi/TAMAGOTCHI_.BUP"
+  },
+  {
+   "blocks": 4,
+   "datasize": 176,
+   "date": 21397565,
+   "err": "",
+   "name": "BUL_SLA__01",
+   "ok": true,
+   "path": "delta7890/BUL_SLA__01.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 256,
+   "date": 21667735,
+   "err": "",
+   "name": "CYBERBOTS01",
+   "ok": true,
+   "path": "delta7890/CYBERBOTS01.BUP"
+  },
+  {
+   "blocks": 39,
+   "datasize": 2208,
+   "date": 22260382,
+   "err": "",
+   "name": "LEYNOS2_DAT",
+   "ok": true,
+   "path": "delta7890/LEYNOS2_DAT.BUP"
+  },
+  {
+   "blocks": 7,
+   "datasize": 348,
+   "date": 22260382,
+   "err": "",
+   "name": "MEGAMAN_8__",
+   "ok": true,
+   "path": "delta7890/MEGAMAN_8__.BUP"
+  },
+  {
+   "blocks": 23,
+   "datasize": 1276,
+   "date": 21579619,
+   "err": "",
+   "name": "PANDRA_3_01",
+   "ok": true,
+   "path": "delta7890/PANZER_SAGA/01/PANDRA_3_01.BUP"
+  },
+  {
+   "blocks": 23,
+   "datasize": 1276,
+   "date": 21579008,
+   "err": "",
+   "name": "PANDRA_3_02",
+   "ok": true,
+   "path": "delta7890/PANZER_SAGA/01/PANDRA_3_02.BUP"
+  },
+  {
+   "blocks": 23,
+   "datasize": 1276,
+   "date": 21578887,
+   "err": "",
+   "name": "PANDRA_3_03",
+   "ok": true,
+   "path": "delta7890/PANZER_SAGA/01/PANDRA_3_03.BUP"
+  },
+  {
+   "blocks": 23,
+   "datasize": 1276,
+   "date": 21578684,
+   "err": "",
+   "name": "PANDRA_3_01",
+   "ok": true,
+   "path": "delta7890/PANZER_SAGA/02/PANDRA_3_01.BUP"
+  },
+  {
+   "blocks": 23,
+   "datasize": 1276,
+   "date": 21578505,
+   "err": "",
+   "name": "PANDRA_3_02",
+   "ok": true,
+   "path": "delta7890/PANZER_SAGA/02/PANDRA_3_02.BUP"
+  },
+  {
+   "blocks": 23,
+   "datasize": 1276,
+   "date": 21578430,
+   "err": "",
+   "name": "PANDRA_3_03",
+   "ok": true,
+   "path": "delta7890/PANZER_SAGA/02/PANDRA_3_03.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 449,
+   "date": 22260382,
+   "err": "",
+   "name": "PANDRA_ZWEI",
+   "ok": true,
+   "path": "delta7890/PANZER_ZWEI/PANDRA_ZWEI_01.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 449,
+   "date": 22260517,
+   "err": "",
+   "name": "PANDRA_ZWEI",
+   "ok": true,
+   "path": "delta7890/PANZER_ZWEI/PANDRA_ZWEI_02.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 52,
+   "date": 21710938,
+   "err": "",
+   "name": "STELLAR_DAT",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_DAT.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260398,
+   "err": "",
+   "name": "STELLAR_T01",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T01.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260410,
+   "err": "",
+   "name": "STELLAR_T02",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T02.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260411,
+   "err": "",
+   "name": "STELLAR_T03",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T03.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260413,
+   "err": "",
+   "name": "STELLAR_T04",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T04.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260414,
+   "err": "",
+   "name": "STELLAR_T05",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T05.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260415,
+   "err": "",
+   "name": "STELLAR_T06",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T06.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260418,
+   "err": "",
+   "name": "STELLAR_T07",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T07.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260419,
+   "err": "",
+   "name": "STELLAR_T08",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T08.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260421,
+   "err": "",
+   "name": "STELLAR_T09",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T09.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260422,
+   "err": "",
+   "name": "STELLAR_T10",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T10.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260424,
+   "err": "",
+   "name": "STELLAR_T11",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T11.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260425,
+   "err": "",
+   "name": "STELLAR_T12",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T12.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260426,
+   "err": "",
+   "name": "STELLAR_T13",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T13.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260427,
+   "err": "",
+   "name": "STELLAR_T14",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T14.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260428,
+   "err": "",
+   "name": "STELLAR_T15",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T15.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260429,
+   "err": "",
+   "name": "STELLAR_T16",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T16.BUP"
+  },
+  {
+   "blocks": 283,
+   "datasize": 16352,
+   "date": 22260430,
+   "err": "",
+   "name": "STELLAR_T17",
+   "ok": true,
+   "path": "delta7890/STELLAR_SS/STELLAR_T17.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 256,
+   "date": 22260383,
+   "err": "",
+   "name": "S_GUNDAM_01",
+   "ok": true,
+   "path": "delta7890/S_GUNDAM_01.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 256,
+   "date": 22260384,
+   "err": "",
+   "name": "S_GUNDAM_02",
+   "ok": true,
+   "path": "delta7890/S_GUNDAM_02.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 256,
+   "date": 22260384,
+   "err": "",
+   "name": "S_GUNDAM_03",
+   "ok": true,
+   "path": "delta7890/S_GUNDAM_03.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 104,
+   "date": 22260384,
+   "err": "",
+   "name": "TF_GP2___01",
+   "ok": true,
+   "path": "delta7890/TF_GP2___01.BUP"
+  },
+  {
+   "blocks": 34,
+   "datasize": 1888,
+   "date": 21623949,
+   "err": "",
+   "name": "T_FORCEV_00",
+   "ok": true,
+   "path": "delta7890/T_FORCEV_00.BUP"
+  },
+  {
+   "blocks": 18,
+   "datasize": 992,
+   "date": 22649234,
+   "err": "",
+   "name": "AB2SCORE_01",
+   "ok": true,
+   "path": "privateye/AB2SCORE_01.BUP"
+  },
+  {
+   "blocks": 6,
+   "datasize": 268,
+   "date": 22635378,
+   "err": "",
+   "name": "BLASTWIND_0",
+   "ok": true,
+   "path": "privateye/BLASTWIND_0.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 12,
+   "date": 21657583,
+   "err": "",
+   "name": "BOMBERSS_01",
+   "ok": true,
+   "path": "privateye/BOMBERSS_01.BUP"
+  },
+  {
+   "blocks": 4,
+   "datasize": 176,
+   "date": 22462240,
+   "err": "",
+   "name": "BUL_SLA__01",
+   "ok": true,
+   "path": "privateye/BUL_SLA__01.BUP"
+  },
+  {
+   "blocks": 93,
+   "datasize": 5328,
+   "date": 22461123,
+   "err": "",
+   "name": "B_GAREGGA__",
+   "ok": true,
+   "path": "privateye/B_GAREGGA__.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 28,
+   "date": 22609440,
+   "err": "",
+   "name": "CLOCK__DATA",
+   "ok": true,
+   "path": "privateye/CLOCK__DATA.BUP"
+  },
+  {
+   "blocks": 54,
+   "datasize": 3060,
+   "date": 22431698,
+   "err": "",
+   "name": "COTTON2_DAT",
+   "ok": true,
+   "path": "privateye/COTTON2_DAT.BUP"
+  },
+  {
+   "blocks": 29,
+   "datasize": 1624,
+   "date": 22431707,
+   "err": "",
+   "name": "COTTONBMDAT",
+   "ok": true,
+   "path": "privateye/COTTONBMDAT.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 70,
+   "date": 22434757,
+   "err": "",
+   "name": "DEATH_CRIMS",
+   "ok": true,
+   "path": "privateye/DEATH_CRIMS.BUP"
+  },
+  {
+   "blocks": 26,
+   "datasize": 1441,
+   "date": 22608866,
+   "err": "",
+   "name": "DOA_SS_FILE",
+   "ok": true,
+   "path": "privateye/DOA_SS_FILE.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 250,
+   "date": 22636746,
+   "err": "",
+   "name": "ELEVATOR_AC",
+   "ok": true,
+   "path": "privateye/ELEVATOR_AC.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 144,
+   "date": 22609162,
+   "err": "",
+   "name": "FANTASYZONE",
+   "ok": true,
+   "path": "privateye/FANTASYZONE.BUP"
+  },
+  {
+   "blocks": 54,
+   "datasize": 3088,
+   "date": 22278924,
+   "err": "",
+   "name": "FVIPER_MAST",
+   "ok": true,
+   "path": "privateye/FVIPER_MAST.BUP"
+  },
+  {
+   "blocks": 6,
+   "datasize": 288,
+   "date": 22334380,
+   "err": "",
+   "name": "GA_YUMIMI_R",
+   "ok": true,
+   "path": "privateye/GA_YUMIMI_R.BUP"
+  },
+  {
+   "blocks": 4,
+   "datasize": 202,
+   "date": 22432246,
+   "err": "",
+   "name": "GROOVE_ON_F",
+   "ok": true,
+   "path": "privateye/GROOVE_ON_F.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 1160,
+   "date": 22636300,
+   "err": "",
+   "name": "GUARDIAN_HE",
+   "ok": true,
+   "path": "privateye/GUARDIAN_HE.BUP"
+  },
+  {
+   "blocks": 72,
+   "datasize": 4096,
+   "date": 7364164,
+   "err": "",
+   "name": "HOLY_ARK_99",
+   "ok": true,
+   "path": "privateye/HOLY_ARK_99.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 260,
+   "date": 10736760,
+   "err": "",
+   "name": "HYPERDUEL_0",
+   "ok": true,
+   "path": "privateye/HYPERDUEL_0.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 32,
+   "date": 20164074,
+   "err": "",
+   "name": "KEIO2______",
+   "ok": true,
+   "path": "privateye/KEIO2______.BUP"
+  },
+  {
+   "blocks": 23,
+   "datasize": 1296,
+   "date": 22459085,
+   "err": "",
+   "name": "METALSLUG__",
+   "ok": true,
+   "path": "privateye/METALSLUG__.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 15,
+   "date": 14843433,
+   "err": "",
+   "name": "NINPEN_M_01",
+   "ok": true,
+   "path": "privateye/NINPEN_M_01.BUP"
+  },
+  {
+   "blocks": 20,
+   "datasize": 1120,
+   "date": 22261616,
+   "err": "",
+   "name": "OUTRUN___01",
+   "ok": true,
+   "path": "privateye/OUTRUN___01.BUP"
+  },
+  {
+   "blocks": 9,
+   "datasize": 449,
+   "date": 22263084,
+   "err": "",
+   "name": "PANDRA_ZWEI",
+   "ok": true,
+   "path": "privateye/PANDRA_ZWEI.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22335224,
+   "err": "",
+   "name": "POLICENA_01",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_01.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22336533,
+   "err": "",
+   "name": "POLICENA_02",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_02.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22336855,
+   "err": "",
+   "name": "POLICENA_03",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_03.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22337102,
+   "err": "",
+   "name": "POLICENA_04",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_04.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22337120,
+   "err": "",
+   "name": "POLICENA_05",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_05.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22338024,
+   "err": "",
+   "name": "POLICENA_06",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_06.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22338076,
+   "err": "",
+   "name": "POLICENA_07",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_07.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22338134,
+   "err": "",
+   "name": "POLICENA_08",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_08.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22338242,
+   "err": "",
+   "name": "POLICENA_09",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_09.BUP"
+  },
+  {
+   "blocks": 53,
+   "datasize": 3008,
+   "date": 22335682,
+   "err": "",
+   "name": "POLICENA_10",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICENA_10.BUP"
+  },
+  {
+   "blocks": 57,
+   "datasize": 3224,
+   "date": 22338519,
+   "err": "",
+   "name": "POLICENAUTS",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICE_END1.BUP"
+  },
+  {
+   "blocks": 57,
+   "datasize": 3224,
+   "date": 22338157,
+   "err": "",
+   "name": "POLICENAUTS",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICE_END2.BUP"
+  },
+  {
+   "blocks": 57,
+   "datasize": 3224,
+   "date": 22338488,
+   "err": "",
+   "name": "POLICENAUTS",
+   "ok": true,
+   "path": "privateye/POLICENAUTS/POLICE_END3.BUP"
+  },
+  {
+   "blocks": 7,
+   "datasize": 352,
+   "date": 22443390,
+   "err": "",
+   "name": "PUYO_SUN_01",
+   "ok": true,
+   "path": "privateye/PUYO_SUN_01.BUP"
+  },
+  {
+   "blocks": 19,
+   "datasize": 1056,
+   "date": 22279432,
+   "err": "",
+   "name": "RABBIT_DATA",
+   "ok": true,
+   "path": "privateye/RABBIT_DATA.BUP"
+  },
+  {
+   "blocks": 33,
+   "datasize": 1868,
+   "date": 22459670,
+   "err": "",
+   "name": "RADIANT_S_G",
+   "ok": true,
+   "path": "privateye/RADIANT_S_G.BUP"
+  },
+  {
+   "blocks": 99,
+   "datasize": 5708,
+   "date": 22385705,
+   "err": "",
+   "name": "SAKURA___01",
+   "ok": true,
+   "path": "privateye/SAKURA___01.BUP"
+  },
+  {
+   "blocks": 11,
+   "datasize": 608,
+   "date": 22636294,
+   "err": "",
+   "name": "SA_MEMSEL01",
+   "ok": true,
+   "path": "privateye/SA_MEMSEL01.BUP"
+  },
+  {
+   "blocks": 22,
+   "datasize": 1196,
+   "date": 22636566,
+   "err": "",
+   "name": "SA_MEMSEL02",
+   "ok": true,
+   "path": "privateye/SA_MEMSEL02.BUP"
+  },
+  {
+   "blocks": 5,
+   "datasize": 238,
+   "date": 22637577,
+   "err": "",
+   "name": "SBOMBERMANF",
+   "ok": true,
+   "path": "privateye/SBOMBERMANF.BUP"
+  },
+  {
+   "blocks": 79,
+   "datasize": 4512,
+   "date": 20188625,
+   "err": "",
+   "name": "SG_MASH_001",
+   "ok": true,
+   "path": "privateye/SG_MASH_001.BUP"
+  },
+  {
+   "blocks": 25,
+   "datasize": 1408,
+   "date": 20269370,
+   "err": "",
+   "name": "SONICJAM_01",
+   "ok": true,
+   "path": "privateye/SONICJAM_01.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 1156,
+   "date": 22261695,
+   "err": "",
+   "name": "STEEP_SL_99",
+   "ok": true,
+   "path": "privateye/STEEP_SL_99.BUP"
+  },
+  {
+   "blocks": 71,
+   "datasize": 4056,
+   "date": 22261563,
+   "err": "",
+   "name": "SWAGMAN.DAT",
+   "ok": true,
+   "path": "privateye/SWAGMAN_DAT.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 104,
+   "date": 22806165,
+   "err": "",
+   "name": "TF_GP2___01",
+   "ok": true,
+   "path": "privateye/TF_GP2___01.BUP"
+  },
+  {
+   "blocks": 34,
+   "datasize": 1888,
+   "date": 22635388,
+   "err": "",
+   "name": "T_FORCEV_00",
+   "ok": true,
+   "path": "privateye/T_FORCEV_00.BUP"
+  },
+  {
+   "blocks": 198,
+   "datasize": 11432,
+   "date": 22279456,
+   "err": "",
+   "name": "VFIGHTER2_X",
+   "ok": true,
+   "path": "privateye/VFIGHTER2_X.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 1208,
+   "date": 13414702,
+   "err": "",
+   "name": "ATHLETEKING",
+   "ok": true,
+   "path": "vbt/20200620/ATHLETEKING.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 4800,
+   "date": 12618444,
+   "err": "",
+   "name": "CHORO_QP001",
+   "ok": true,
+   "path": "vbt/20200620/CHORO_QP001.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 3737,
+   "date": 11885372,
+   "err": "",
+   "name": "DAYTONA96_0",
+   "ok": true,
+   "path": "vbt/20200620/DAYTONA96_0.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 2463,
+   "date": 13686860,
+   "err": "",
+   "name": "DAYTONA__00",
+   "ok": true,
+   "path": "vbt/20200620/DAYTONA__00.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 44,
+   "date": 13462629,
+   "err": "",
+   "name": "DORONBO_KAN",
+   "ok": true,
+   "path": "vbt/20200620/DORONBO_KAN.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 2463,
+   "date": 13493891,
+   "err": "",
+   "name": "DAYTONA__00",
+   "ok": true,
+   "path": "vbt/20200620/Daytona__01.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 1692,
+   "date": 7374204,
+   "err": "",
+   "name": "HANGONGP_02",
+   "ok": true,
+   "path": "vbt/20200620/HANGONGP_02.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 64,
+   "date": 13409140,
+   "err": "",
+   "name": "JUNGLE_PARK",
+   "ok": true,
+   "path": "vbt/20200620/JUNGLE_PARK.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 32,
+   "date": 13482440,
+   "err": "",
+   "name": "NMAKA_PZ_00",
+   "ok": true,
+   "path": "vbt/20200620/NMAKA_PZ_00.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 128,
+   "date": 13463571,
+   "err": "",
+   "name": "PB3_STATUS_",
+   "ok": true,
+   "path": "vbt/20200620/PB3_STATUS_.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 5056,
+   "date": 13382895,
+   "err": "",
+   "name": "SEGARALLY_0",
+   "ok": true,
+   "path": "vbt/20200620/SEGARALLY_0.BUP"
+  },
+  {
+   "blocks": 0,
+   "datasize": 14120,
+   "date": 13483816,
+   "err": "",
+   "name": "TOURINGC_01",
+   "ok": true,
+   "path": "vbt/20200620/TOURINGC_01.BUP"
+  },
+  {
+   "blocks": 28,
+   "datasize": 6848,
+   "date": 11360935,
+   "err": "",
+   "name": "BAROQUE___1",
+   "ok": true,
+   "path": "vbt/20210502/BAROQUE___1_000.BUP"
+  },
+  {
+   "blocks": 6,
+   "datasize": 1240,
+   "date": 10973861,
+   "err": "",
+   "name": "BAROQUE___9",
+   "ok": true,
+   "path": "vbt/20210502/BAROQUE___9_000.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 288,
+   "date": 11887916,
+   "err": "",
+   "name": "CAPGENE_002",
+   "ok": true,
+   "path": "vbt/20210502/CAPGENE_002_000.BUP"
+  },
+  {
+   "blocks": 20,
+   "datasize": 4800,
+   "date": 12618444,
+   "err": "",
+   "name": "CHORO_QP001",
+   "ok": true,
+   "path": "vbt/20210502/CHORO_QP001_000.BUP"
+  },
+  {
+   "blocks": 3,
+   "datasize": 480,
+   "date": 12618444,
+   "err": "",
+   "name": "CHORO_QP002",
+   "ok": true,
+   "path": "vbt/20210502/CHORO_QP002_000.BUP"
+  },
+  {
+   "blocks": 16,
+   "datasize": 3737,
+   "date": 7409029,
+   "err": "",
+   "name": "DAYTONA96_0",
+   "ok": true,
+   "path": "vbt/20210502/DAYTONA96_0_000.BUP"
+  },
+  {
+   "blocks": 247,
+   "datasize": 61713,
+   "date": 9351045,
+   "err": "",
+   "name": "DAYTONA96_1",
+   "ok": true,
+   "path": "vbt/20210502/DAYTONA96_1_000.BUP"
+  },
+  {
+   "blocks": 10,
+   "datasize": 2463,
+   "date": 7364197,
+   "err": "",
+   "name": "DAYTONA__00",
+   "ok": true,
+   "path": "vbt/20210502/DAYTONA__00_000.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 5184,
+   "date": 11427277,
+   "err": "",
+   "name": "DEEPFEAR_01",
+   "ok": true,
+   "path": "vbt/20210502/DEEPFEAR_01_000.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 5184,
+   "date": 9965964,
+   "err": "",
+   "name": "DEEPFEAR_02",
+   "ok": true,
+   "path": "vbt/20210502/DEEPFEAR_02_000.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 5184,
+   "date": 9885325,
+   "err": "",
+   "name": "DEEPFEAR_03",
+   "ok": true,
+   "path": "vbt/20210502/DEEPFEAR_03_000.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 5184,
+   "date": 9899238,
+   "err": "",
+   "name": "DEEPFEAR_04",
+   "ok": true,
+   "path": "vbt/20210502/DEEPFEAR_04_000.BUP"
+  },
+  {
+   "blocks": 6,
+   "datasize": 1441,
+   "date": 11568552,
+   "err": "",
+   "name": "DOA_SS_FILE",
+   "ok": true,
+   "path": "vbt/20210502/DOA_SS_FILE_000.BUP"
+  },
+  {
+   "blocks": 37,
+   "datasize": 9200,
+   "date": 14385526,
+   "err": "",
+   "name": "FANTSTEP_01",
+   "ok": true,
+   "path": "vbt/20210502/FANTSTEP_01_000.BUP"
+  },
+  {
+   "blocks": 14,
+   "datasize": 3336,
+   "date": 11217218,
+   "err": "",
+   "name": "GT24_BU_SYS",
+   "ok": true,
+   "path": "vbt/20210502/GT24_BU_SYS_000.BUP"
+  },
+  {
+   "blocks": 7,
+   "datasize": 1692,
+   "date": 7374204,
+   "err": "",
+   "name": "HANGONGP_02",
+   "ok": true,
+   "path": "vbt/20210502/HANGONGP_02_000.BUP"
+  },
+  {
+   "blocks": 17,
+   "datasize": 4096,
+   "date": 9278628,
+   "err": "",
+   "name": "HOLY_ARK_01",
+   "ok": true,
+   "path": "vbt/20210502/HOLY_ARK_01_000.BUP"
+  },
+  {
+   "blocks": 17,
+   "datasize": 4096,
+   "date": 9260555,
+   "err": "",
+   "name": "HOLY_ARK_02",
+   "ok": true,
+   "path": "vbt/20210502/HOLY_ARK_02_000.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 15,
+   "date": 11885611,
+   "err": "",
+   "name": "NINPEN_M_01",
+   "ok": true,
+   "path": "vbt/20210502/NINPEN_M_01_000.BUP"
+  },
+  {
+   "blocks": 1,
+   "datasize": 32,
+   "date": 14003700,
+   "err": "",
+   "name": "NMAKA_PZ_00",
+   "ok": true,
+   "path": "vbt/20210502/NMAKA_PZ_00_000.BUP"
+  },
+  {
+   "blocks": 6,
+   "datasize": 1276,
+   "date": 9694812,
+   "err": "",
+   "name": "PANDRA_3_01",
+   "ok": true,
+   "path": "vbt/20210502/PANDRA_3_01_000.BUP"
+  },
+  {
+   "blocks": 6,
+   "datasize": 1276,
+   "date": 9745274,
+   "err": "",
+   "name": "PANDRA_3_03",
+   "ok": true,
+   "path": "vbt/20210502/PANDRA_3_03_000.BUP"
+  },
+  {
+   "blocks": 18,
+   "datasize": 4284,
+   "date": 13998965,
+   "err": "",
+   "name": "RAYEARTH_00",
+   "ok": true,
+   "path": "vbt/20210502/RAYEARTH_00_000.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 5056,
+   "date": 7364222,
+   "err": "",
+   "name": "SEGARALLY_0",
+   "ok": true,
+   "path": "vbt/20210502/SEGARALLY_0_000.BUP"
+  },
+  {
+   "blocks": 250,
+   "datasize": 62464,
+   "date": 14000715,
+   "err": "",
+   "name": "SEGARALLY_1",
+   "ok": true,
+   "path": "vbt/20210502/SEGARALLY_1_000.BUP"
+  },
+  {
+   "blocks": 52,
+   "datasize": 12904,
+   "date": 11538045,
+   "err": "",
+   "name": "SFORCE31_01",
+   "ok": true,
+   "path": "vbt/20210502/SFORCE31_01_000.BUP"
+  },
+  {
+   "blocks": 2,
+   "datasize": 320,
+   "date": 11886437,
+   "err": "",
+   "name": "SYUTOKOU_01",
+   "ok": true,
+   "path": "vbt/20210502/SYUTOKOU_01_000.BUP"
+  },
+  {
+   "blocks": 25,
+   "datasize": 6084,
+   "date": 11365537,
+   "err": "",
+   "name": "TG2_DATA_00",
+   "ok": true,
+   "path": "vbt/20210502/TG2_DATA_00_000.BUP"
+  },
+  {
+   "blocks": 14,
+   "datasize": 3452,
+   "date": 9060216,
+   "err": "",
+   "name": "TOMBRAIDER_",
+   "ok": true,
+   "path": "vbt/20210502/TOMBRAIDER__000.BUP"
+  },
+  {
+   "blocks": 57,
+   "datasize": 14120,
+   "date": 21041484,
+   "err": "",
+   "name": "TOURINGC_01",
+   "ok": true,
+   "path": "vbt/20210502/TOURINGC_01_000.BUP"
+  },
+  {
+   "blocks": 242,
+   "datasize": 60228,
+   "date": 9724054,
+   "err": "",
+   "name": "TOURINGC_03",
+   "ok": true,
+   "path": "vbt/20210502/TOURINGC_03_000.BUP"
+  },
+  {
+   "blocks": 242,
+   "datasize": 60228,
+   "date": 9762928,
+   "err": "",
+   "name": "TOURINGC_04",
+   "ok": true,
+   "path": "vbt/20210502/TOURINGC_04_000.BUP"
+  },
+  {
+   "blocks": 242,
+   "datasize": 60228,
+   "date": 9522380,
+   "err": "",
+   "name": "TOURINGC_05",
+   "ok": true,
+   "path": "vbt/20210502/TOURINGC_05_000.BUP"
+  },
+  {
+   "blocks": 242,
+   "datasize": 60228,
+   "date": 13746108,
+   "err": "",
+   "name": "TOURINGC_07",
+   "ok": true,
+   "path": "vbt/20210502/TOURINGC_07_000.BUP"
+  },
+  {
+   "blocks": 14,
+   "datasize": 3324,
+   "date": 7374264,
+   "err": "",
+   "name": "WANGANDH_01",
+   "ok": true,
+   "path": "vbt/20210502/WANGANDH_01_000.BUP"
+  },
+  {
+   "blocks": 21,
+   "datasize": 5190,
+   "date": 11362944,
+   "err": "",
+   "name": "ZAPSNOW2_00",
+   "ok": true,
+   "path": "vbt/20210502/ZAPSNOW2_00_000.BUP"
+  }
+ ],
+ "source": "omsat.bupfile over contract/fixtures/kai_bup_headers.json (mkcases.py --bup-corpus)"
+}

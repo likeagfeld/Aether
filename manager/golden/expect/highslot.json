@@ -1,0 +1,258 @@
+{
+ "import_txt": "kai=0 rings=0 present=4 skipped=0 conflicts=0 older=0 cart_only=0 alternates=0\n",
+ "pgsbak_sha": "f2a7d4b",
+ "runs": [
+  {
+   "cart": 0,
+   "conflicts": 0,
+   "kai": 1,
+   "older": 0,
+   "present": 0,
+   "rc": 0,
+   "rings": 2,
+   "skipped": 0
+  },
+  {
+   "cart": 0,
+   "conflicts": 0,
+   "kai": 0,
+   "older": 0,
+   "present": 4,
+   "rc": 0,
+   "rings": 0,
+   "skipped": 0
+  }
+ ],
+ "tree": [
+  {
+   "path": "SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/LATEST/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/LATEST/GENSAVE_001.BUP",
+   "sha256": "9b95dbc6ff9c21d3c92a8443e81ffb833cffea9a9391813c752532265839c54a",
+   "size": 134
+  },
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/GENLIST.TXT",
+   "sha256": "824416a29db432cce2f8d4e2e090be0c59b8261f7302963c9d08c6bca6debc0e",
+   "size": 12
+  },
+  {
+   "path": "aether/SAVES/IMPORT.TXT",
+   "sha256": "d52f4db33ba04ff81f602087a30c04e526e52a52903fac965c98edecf648ff8d",
+   "size": 79
+  },
+  {
+   "path": "aether/SAVES/T-300/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-300/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-300/01/GAMEOPT_001.BUP",
+   "sha256": "3829bd5c2fafe05dc69d7c64f4e6c91061653e77715dd699b5e6e8e00270d755",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-300/01/GAMESAV_001.BUP",
+   "sha256": "889ed4167cd6fe870dd107453eba93ba08cb052696e4bf293826c9f9b537a66e",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-300/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-300/02/GAMEOPT_001.BUP",
+   "sha256": "3829bd5c2fafe05dc69d7c64f4e6c91061653e77715dd699b5e6e8e00270d755",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-300/02/GAMESAV_001.BUP",
+   "sha256": "a7194ac68009f335556e3f30198b5c5ff85d4b1cad4954e1b01b83ccbf5d9b51",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/01/GAMESAV_001.BUP",
+   "sha256": "b98e43e5bcac7ff3ae7b4d9a811537fcc69829e7fada5fbe5e244379e871d230",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/02/GAMESAV_001.BUP",
+   "sha256": "0173f5f795e21d930bccd62c8efdcf42953e42cb2a918e1bfa5f3a8cf9752ff2",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/03/GAMESAV_001.BUP",
+   "sha256": "a84f43dd31046c28fbd1e0a22b32b6ced479fdfd4668d8500ac334be33b0d1b8",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/04/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/04/GAMESAV_001.BUP",
+   "sha256": "3fc9c4a8d7d091c169e9fa841ae3804b4303b344633b94c884203d7490238671",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/05/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/05/GAMESAV_001.BUP",
+   "sha256": "0221d4379869cdccbec4a94d5b2fbeb2166f09ae0ce6845f2d8e9add94ddedf2",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/06/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/06/GAMESAV_001.BUP",
+   "sha256": "1902cf6ebbdc7b412cbe8ef4b3a3660de9fac92a62530f692326152246b0d61f",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/07/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/07/GAMESAV_001.BUP",
+   "sha256": "46f6d307104f1ac6e06fec1837ce58be76c6517ca65c5af87eafafc893873024",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/08/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/08/GAMESAV_001.BUP",
+   "sha256": "a59aa66b1eb3a7afd0df3fb74d88ff42d1e13d5d020a3f64bf9fcc419732da7e",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/09/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/09/GAMESAV_001.BUP",
+   "sha256": "8a6d5cf2e2f2d441a1016363b0a650bdd2a0d9ffe34bb8b449876ec6b05ecd88",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/ALT/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-301/ALT/GAMESAV_001.BUP",
+   "sha256": "efadb38bfbe0c95d19b48f0e54993d3de042c4cf21ecffe247980d8ce7712413",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/T-301/GAMESAV_001.BUP",
+   "sha256": "418b49e2789934e52ac9f251ad6ba79cc66c0c1c5a90834d3f53819147ece126",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/_GENERAL/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_GENERAL/GENSAVE_001.BUP",
+   "sha256": "9b95dbc6ff9c21d3c92a8443e81ffb833cffea9a9391813c752532265839c54a",
+   "size": 134
+  },
+  {
+   "path": "satiator-saves/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT17]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT17]/T-301/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT17]/T-301/GAMESAV_001.BUP",
+   "sha256": "efadb38bfbe0c95d19b48f0e54993d3de042c4cf21ecffe247980d8ce7712413",
+   "size": 124
+  },
+  {
+   "path": "satiator-saves/[SLOT18]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT18]/T-300/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT18]/T-300/GAMEOPT_001.BUP",
+   "sha256": "3829bd5c2fafe05dc69d7c64f4e6c91061653e77715dd699b5e6e8e00270d755",
+   "size": 94
+  },
+  {
+   "path": "satiator-saves/[SLOT18]/T-300/GAMESAV_001.BUP",
+   "sha256": "a7194ac68009f335556e3f30198b5c5ff85d4b1cad4954e1b01b83ccbf5d9b51",
+   "size": 124
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "omsat_pin": "f2a7d4b",
+ "dates": {
+  "610-6342": 19951201,
+  "GS-9001": 19950402,
+  "NOPE-1": 19990101,
+  "T-4507G": 19971218,
+  "T-8113H": 19960115
+ },
+ "filled": 3,
+ "len": 487,
+ "sha256": "78425c2eaa91b7ed190a14588e2e2c1c61460fd0336191c3d76e6b011db37076",
+ "source": "omsat.gamesdb.fill_dates (mkcases.py --gamesdb-fill)"
+}

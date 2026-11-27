@@ -1,0 +1,5054 @@
+{
+  "counts": {
+    "exact": 334,
+    "fuzzy": 65,
+    "unmatched": 48,
+    "products": 519,
+    "jhl_only": 1,
+    "igr_conflict": 337,
+    "collisions": 7,
+    "collisions_unresolved": 2
+  },
+  "games": [
+    {
+      "kai_name": "Advanced World War",
+      "products": [
+        "GS-9087"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Airs Adventure",
+      "products": [
+        "T-20301G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Albert Odyssey: Legend of Eldean - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Albert Odyssey: Legend of Eldean - USA",
+      "products": [
+        "T-12705H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "All Japan Pro Wrestling Featuring Virtua",
+      "products": [
+        "GS-9158"
+      ],
+      "how": "fuzzy:0.75",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "All Star Baseball '97 Featuring Frank Thomas",
+      "products": [
+        "T-8150H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Alone in the Dark 2 - JPN",
+      "products": [
+        "T-10602G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Alone in the Dark 2 - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Arcade Gears Vol. 1: Pu.Li.Ru.La",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Arcade Gears Vol. 2: Gun Frontier",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Arcade Gears Vol. 3: Wonder 3",
+      "products": [
+        "T-26107G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 11
+    },
+    {
+      "kai_name": "Arcana Strikes",
+      "products": [
+        "T-10311G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Area 51",
+      "products": [
+        "193476",
+        "T-18613G",
+        "T-25408H-50",
+        "T-9705H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Assault Suit Leynos 2",
+      "products": [
+        "T-2501G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "ASTAL - USA",
+      "products": [
+        "81019"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "ASTAL - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Astra Superstars",
+      "products": [
+        "T-1521G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Asuka 120%: Burning Festival Limited",
+      "products": [
+        "T-16708G"
+      ],
+      "how": "fuzzy:0.83",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Athlete Kings",
+      "products": [
+        "MK81115-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Baroque",
+      "products": [
+        "T-33901G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Bases Loaded '96",
+      "products": [
+        "T-5703H"
+      ],
+      "how": "fuzzy:0.68",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Batsugun",
+      "products": [
+        "T-20605G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Battle Arena Toshinden Remix - USA",
+      "products": [
+        "81029"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Battle Arena Toshinden URA - USA",
+      "products": [],
+      "how": "fuzzy:0.89",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Battle Garegga",
+      "products": [
+        "T-10627G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Battle Monsters - EUR/USA",
+      "products": [
+        "T-8137H",
+        "T-8137H-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "BATTLE MONSTERS - JPN",
+      "products": [
+        "T-18701G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "BATTLE STATIONS",
+      "products": [
+        "T-5021H",
+        "T-5021H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Black Dawn",
+      "products": [
+        "191X69",
+        "T-7013G",
+        "T-7027H",
+        "T-7027H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Blast Wind",
+      "products": [
+        "T-1810G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Blue Seed",
+      "products": [
+        "GS-9014"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Bomberman Wars",
+      "products": [
+        "T-14320G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Bottom Of The 9th",
+      "products": [
+        "T-9505H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Bubble Symphony",
+      "products": [
+        "T-19905G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Bug! - USA",
+      "products": [
+        "81004"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Bug Too!",
+      "products": [
+        "193336",
+        "81040",
+        "MK81040-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Bulk Slash",
+      "products": [
+        "T-14310G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Burning Rangers - EUR/JPN/USA/Demo/Prototypes",
+      "products": [
+        "81803",
+        "GS-9174",
+        "MK81803-50"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 40
+    },
+    {
+      "kai_name": "Burning Rangers - Flash SegaSaturn Vol. 25",
+      "products": [],
+      "how": "fuzzy:0.56",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 30
+    },
+    {
+      "kai_name": "Burning Rangers - Sega Flash Vol. 7",
+      "products": [
+        "191566"
+      ],
+      "how": "fuzzy:0.64",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 35
+    },
+    {
+      "kai_name": "Bust-A-Move 2: Arcade Edition",
+      "products": [
+        "T-8132H",
+        "T-8132H-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Bust-A-Move 3 - EUR/USA",
+      "products": [
+        "T-31103H",
+        "T-8155H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Bust-A-Move 3 - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Capcom Generations Vol. 2",
+      "products": [
+        "T-1233G"
+      ],
+      "how": "fuzzy:0.60",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "Capcom Generations Vol. 5",
+      "products": [
+        "T-1236G"
+      ],
+      "how": "fuzzy:0.59",
+      "location": "060FE000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Casper",
+      "products": [
+        "T-12503G",
+        "T-12512H",
+        "T-12512H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Castlevania: Symphony of the Night",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Center Ring Boxing",
+      "products": [
+        "T-6005H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Chaos Seed",
+      "products": [
+        "T-30902G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Choro Q Park",
+      "products": [
+        "T-10314G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Christmas NiGHTS into Dreams - EUR/USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "0607BA00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 11
+    },
+    {
+      "kai_name": "Christmas NiGHTS into Dreams - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "0607BA00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Clockwork Knight: Pepperouchau no Fukubukuro",
+      "products": [
+        "GS-9074"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 20
+    },
+    {
+      "kai_name": "Clockwork Knight 2 - USA",
+      "products": [
+        "81036"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Clockwork Knight 2 - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Code R",
+      "products": [
+        "T-23502G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "College Slam",
+      "products": [
+        "T-8111H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Command & Conquer - EUR/FRA/GER/USA",
+      "products": [
+        "T-7028H",
+        "T-7028H-09",
+        "T-7028H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Convenience Store 2",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Corpse Killer: Graveyard Edition",
+      "products": [
+        "T-16201H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Cotton 2",
+      "products": [
+        "T-9904G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Cotton Boomerang",
+      "products": [
+        "T-9906G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Courier Crisis",
+      "products": [
+        "MK81099-50",
+        "T-18010G",
+        "T-25415H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Creature Shock: Special Edition - USA",
+      "products": [
+        "T-1304H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "CrimeWave - USA",
+      "products": [
+        "T-8807H"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Criticom",
+      "products": [
+        "T-2302H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Croc: Legend of the Gobbos",
+      "products": [
+        "T-16105H",
+        "T-5029H-05",
+        "T-5029H-06",
+        "T-5029H-09",
+        "T-5029H-18"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Crow: City Of Angels",
+      "products": [
+        "T-8123G",
+        "T-8124H",
+        "T-8124H-18",
+        "T-8124H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Crows: The Battle Action for Sega Saturn",
+      "products": [
+        "T-16806G"
+      ],
+      "how": "fuzzy:0.99",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Crusader: No Remorse",
+      "products": [
+        "191X30",
+        "T-5014H",
+        "T-5014H-09",
+        "T-5014H-18",
+        "T-5014H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Crypt Killer",
+      "products": [
+        "T-9509H",
+        "T-9509H-05",
+        "T-9509H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Cyberbots: Full Metal Madness",
+      "products": [
+        "T-1217G"
+      ],
+      "how": "fuzzy:0.98",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Cyber Speedway - USA",
+      "products": [
+        "81205"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Cyber Troopers Virtual On - EUR/KOR",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Cyber Troopers Virtual On - JPN",
+      "products": [
+        "GS-9099"
+      ],
+      "how": "fuzzy:0.58",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Cyber Troopers Virtual On - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "CYBERIA - USA",
+      "products": [
+        "T-12508H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "CYBERSLED - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "D - USA",
+      "products": [
+        "T-8106H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Darius Gaiden - EUR/USA",
+      "products": [
+        "T-8123H",
+        "T-8123H-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 11
+    },
+    {
+      "kai_name": "Dark Legend - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Dark Legend - USA",
+      "products": [
+        "T-1305H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Darklight Conflict",
+      "products": [
+        "191XX5",
+        "T-5022H",
+        "T-5022H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Dark Savior - JPN",
+      "products": [
+        "T-22101G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Dark Savior - USA",
+      "products": [
+        "81304"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "DAYTONA USA - EUR",
+      "products": [
+        "MK81200-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Daytona USA - JPN",
+      "products": [
+        "GS-9013"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Daytona USA - USA",
+      "products": [
+        "81200"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 16
+    },
+    {
+      "kai_name": "Daytona USA: Championship Circuit Edition",
+      "products": [
+        "193596",
+        "81213",
+        "MK81213-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 13
+    },
+    {
+      "kai_name": "Deadalus - JPN",
+      "products": [
+        "GS-9008"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Dead or Alive",
+      "products": [
+        "T-3603G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 15
+    },
+    {
+      "kai_name": "Death Crimson",
+      "products": [
+        "T-23202G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Deep Fear",
+      "products": [
+        "GS-9189",
+        "MK81804-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Defcon 5",
+      "products": [
+        "T-1301H",
+        "T-24101G",
+        "T-25401H-09",
+        "T-25401H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Densha de Go! EX",
+      "products": [
+        "T-10317G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Detana Twinbee Yahoo! Deluxe Pack",
+      "products": [
+        "T-9505G"
+      ],
+      "how": "fuzzy:0.97",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Die Hard Arcade - EUR",
+      "products": [
+        "MK81057-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Die Hard Arcade - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Die Hard Arcade - USA",
+      "products": [
+        "81057"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Die Hard Trilogy - EUR",
+      "products": [
+        "T-16103H-09",
+        "T-16103H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Die Hard Trilogy - USA",
+      "products": [
+        "T-16103H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "DIGITAL PINBALL: LAST GLADIATORS - EUR",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Digital Pinball: Last Gladiators - JPN",
+      "products": [
+        "T-18901G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Digital Pinball: Last Gladiators - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "DoDonPachi",
+      "products": [
+        "T-14419G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Doom - EUR",
+      "products": [
+        "T-25406H-50",
+        "T-25406H-51"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Doom - JPN",
+      "products": [
+        "T-18610G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Doom - USA",
+      "products": [
+        "T-25405H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 21
+    },
+    {
+      "kai_name": "Double Switch",
+      "products": [
+        "T-16207H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Dragon Ball Z: Shin Butoden",
+      "products": [
+        "T-13302G"
+      ],
+      "how": "fuzzy:0.96",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Dragon Ball Z: The Legend",
+      "products": [
+        "T-13301H-06"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Dragon Force - EUR/USA",
+      "products": [
+        "MK81382-50",
+        "T-12703H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Dragon Force - JPN",
+      "products": [
+        "GS-9028"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Dragon Force II",
+      "products": [
+        "GS-9184"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "DragonHeart: Fire & Steel",
+      "products": [
+        "T-8117H",
+        "T-8117H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Dragon Master Silk",
+      "products": [
+        "T-19503G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Dungeon Master Nexus",
+      "products": [
+        "T-9111G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Dungeons & Dragons Collection",
+      "products": [
+        "T-1224G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Earthworm Jim 2",
+      "products": [
+        "T-10304G",
+        "T-13203H",
+        "T-7019H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Elevator Action Returns",
+      "products": [
+        "T-19903G"
+      ],
+      "how": "fuzzy:0.98",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Enemy Zero - EUR/USA",
+      "products": [
+        "81076",
+        "MK81076-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Enemy Zero - JPN",
+      "products": [
+        "T-30001G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "EVE: The Lost One",
+      "products": [
+        "T-15035G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Exhumed / PowerSlave - EUR",
+      "products": [
+        "81084-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Exhumed / PowerSlave - USA",
+      "products": [
+        "T-13205H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "F1 Challenge - EUR",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "F1 Challenge - USA",
+      "products": [
+        "MK-81206"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 15
+    },
+    {
+      "kai_name": "Falcom Classics",
+      "products": [
+        "T-31502G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 18
+    },
+    {
+      "kai_name": "Farland Saga",
+      "products": [
+        "T-32507G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Farland Story",
+      "products": [
+        "T-32505G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Fighters Megamix - EUR",
+      "products": [
+        "MK81073-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Fighters Megamix - JPN",
+      "products": [
+        "GS-9126"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Fighters Megamix - USA",
+      "products": [
+        "81073"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Fighting Vipers - EUR",
+      "products": [
+        "MK81041-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Fighting Vipers [v1.010] - JPN",
+      "products": [],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Fighting Vipers [v1.013] - JPN",
+      "products": [],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Fighting Vipers - USA",
+      "products": [
+        "81041"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "Fire Pro Gaiden: Blazing Tornado",
+      "products": [
+        "T-4302G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Fire Pro Wrestling S: 6Men Scramble",
+      "products": [
+        "T-4308G"
+      ],
+      "how": "fuzzy:0.99",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Fist of the Northstar",
+      "products": [
+        "T-20601G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Formula Karts: Special Edition",
+      "products": [
+        "MK81282-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Frank Thomas Big Hurt Baseball - EUR",
+      "products": [
+        "T-8138H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Frank Thomas Big Hurt Baseball - USA",
+      "products": [
+        "T-8138H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "G-Vector",
+      "products": [
+        "T-30603G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Gal Act Heroism",
+      "products": [
+        "T-5204G"
+      ],
+      "how": "fuzzy:0.70",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Galaxy Fight - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Galaxy Fight - USA",
+      "products": [
+        "T-1504H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Gale Racer - JPN",
+      "products": [
+        "GS-9003"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Game Tengoku: The Game Paradise!",
+      "products": [
+        "T-5712G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Garou Densetsu 3: Road to the Final Victory",
+      "products": [
+        "T-3102G"
+      ],
+      "how": "fuzzy:0.60",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Gekirindan",
+      "products": [
+        "T-7008G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Ghen War - USA",
+      "products": [
+        "81001"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Golden Axe: The Duel",
+      "products": [
+        "191X88",
+        "81045",
+        "GS-9041",
+        "MK81045-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Goiken Muyou: Anarchy in the Nippon",
+      "products": [
+        "T-28902G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Gokujou Parodius Da! Deluxe Pack [v1.002]",
+      "products": [
+        "T-9501G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Gradius Deluxe Pack",
+      "products": [
+        "T-9509G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Gran Chaser - JPN",
+      "products": [
+        "GS-9022"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Grandia",
+      "products": [
+        "T-4507G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "GREATEST NINE - JPN",
+      "products": [
+        "GS-9086"
+      ],
+      "how": "fuzzy:0.90",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Grid Runner",
+      "products": [
+        "191166",
+        "T-7009G",
+        "T-7025H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Groove On Fight",
+      "products": [
+        "T-14411G"
+      ],
+      "how": "fuzzy:0.58",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 20
+    },
+    {
+      "kai_name": "GT24",
+      "products": [
+        "T-5714G"
+      ],
+      "how": "fuzzy:0.89",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "GUARDIAN HEROES - EUR",
+      "products": [
+        "MK81035-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Guardian Heroes - JPN",
+      "products": [
+        "GS-9031"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "GUARDIAN HEROES - USA",
+      "products": [
+        "81035"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 11
+    },
+    {
+      "kai_name": "Gulliver Boy",
+      "products": [
+        "T-14303G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Gunbird",
+      "products": [
+        "T-14402G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Gungriffon - EUR/USA",
+      "products": [
+        "81046",
+        "MK81046-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 14
+    },
+    {
+      "kai_name": "Gungriffon - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 11
+    },
+    {
+      "kai_name": "Gungriffon II",
+      "products": [
+        "T-4510G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Hang-On GP - EUR/JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Hang-On GP - USA",
+      "products": [
+        "81202"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Heir of Zendor: The Legend and The Land",
+      "products": [
+        "191496",
+        "T-7605H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Hexen",
+      "products": [
+        "T-25405H-50",
+        "T-25405H-51"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 15
+    },
+    {
+      "kai_name": "HI-OCTANE - EUR/USA",
+      "products": [
+        "T-5002H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "High School Terra Story",
+      "products": [
+        "T-19715G"
+      ],
+      "how": "fuzzy:0.98",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Himitsu Sentai Metamor V",
+      "products": [
+        "T-29005G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Horde",
+      "products": [
+        "T-15902G",
+        "T-15909H",
+        "T-15909H-09",
+        "T-15909H-18",
+        "T-15909H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "House of the Dead - EUR",
+      "products": [
+        "MK81802-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "House of the Dead - JPN",
+      "products": [
+        "GS-9173"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "House of the Dead - USA",
+      "products": [
+        "81802"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Hyper 3D Pinball",
+      "products": [
+        "191X47",
+        "T-7007G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Hyper Duel",
+      "products": [
+        "T-1809G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Idol Janshi Suchie-Pai Special",
+      "products": [
+        "T-5701G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Idol Janshi Suchie-Pai II",
+      "products": [
+        "T-5705G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Idol Mahjong Final Romance 2",
+      "products": [
+        "T-16702G"
+      ],
+      "how": "fuzzy:0.91",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Idol Mahjong Final Romance 4",
+      "products": [
+        "T-3003G"
+      ],
+      "how": "fuzzy:0.91",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Incredible Hulk: The Pantheon Saga",
+      "products": [
+        "T-7905H",
+        "T-7905H-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Independence Day - USA",
+      "products": [
+        "T-16104H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Initial D",
+      "products": [
+        "T-25503G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "In The Hunt - EUR/USA",
+      "products": [
+        "T-10001H",
+        "T-10001H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "In The Hunt - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "Iron Man and X-O Manowar in Heavy Metal - JPN",
+      "products": [
+        "T-8115G"
+      ],
+      "how": "fuzzy:0.95",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Iron Man and X-O Manowar in Heavy Metal - USA",
+      "products": [
+        "T-8119H"
+      ],
+      "how": "fuzzy:0.95",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Iron Storm - USA",
+      "products": [
+        "T-12701H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "J.League Go Go Goal!",
+      "products": [
+        "T-3602G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "J.League Jikkyou Honoo no Striker",
+      "products": [
+        "T-9528G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "J.League Pro Soccer Club",
+      "products": [
+        "GS-9034"
+      ],
+      "how": "fuzzy:0.80",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "J.League Pro Soccer Club 2",
+      "products": [
+        "GS-9168"
+      ],
+      "how": "fuzzy:0.81",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Jikkyo Oshaberi Parodius: Forever With Me",
+      "products": [
+        "T-9513G"
+      ],
+      "how": "fuzzy:0.99",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Johnny Bazookatone - USA",
+      "products": [
+        "T-7909H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Jung Rhythm",
+      "products": [
+        "T-16607G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Kakyuusei",
+      "products": [
+        "T-28002G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Keio Flying Squadron 2 - EUR",
+      "products": [
+        "T-6008H-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Keio Yugekitai - JPN",
+      "products": [
+        "T-6003G"
+      ],
+      "how": "fuzzy:0.64",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "KING OF BOXING - JPN",
+      "products": [
+        "T-6001G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "King of Fighters '96",
+      "products": [
+        "T-3108G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "King of Fighters '97",
+      "products": [
+        "T-3120G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Langrisser: Dramatic Edition",
+      "products": [
+        "T-2507G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Langrisser III",
+      "products": [
+        "T-2502G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Langrisser IV",
+      "products": [
+        "T-2506G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Langrisser V: The End of Legend",
+      "products": [
+        "T-2509G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Last Bronx - EUR",
+      "products": [
+        "MK81078-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Last Bronx - JPN",
+      "products": [
+        "GS-9152"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Last Bronx - USA",
+      "products": [
+        "81078"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 15
+    },
+    {
+      "kai_name": "Layer Section / Galactic Attack - JPN",
+      "products": [
+        "T-1112G"
+      ],
+      "how": "fuzzy:0.71",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Layer Section / Galactic Attack - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Layer Section II",
+      "products": [
+        "T-26409G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Legend of Heroes III: The Moonlight Witch",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Legend of Oasis - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Legend of Oasis - USA",
+      "products": [
+        "81302"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 14
+    },
+    {
+      "kai_name": "Legend of the Swordsmaster",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Linda Cube",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Loaded - USA",
+      "products": [
+        "T-12519H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Lost Vikings 2: Norse by Norsewest",
+      "products": [
+        "T-12521H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Lost World: Jurassic Park - EUR",
+      "products": [
+        "MK81065-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Lost World: Jurassic Park - JPN/USA",
+      "products": [
+        "81065",
+        "GS-9162"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Lovely Pop 2 in 1",
+      "products": [
+        "T-5801G"
+      ],
+      "how": "fuzzy:0.62",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Lunar: Silver Star Story",
+      "products": [
+        "T-27901G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Lunar 2: Eternal Blue",
+      "products": [
+        "T-27906G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Lupin the 3rd: The Sage of Pyramid",
+      "products": [
+        "T-2004G"
+      ],
+      "how": "fuzzy:0.67",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Madden NFL 97",
+      "products": [
+        "T-5010H",
+        "T-5018H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Madden NFL 98",
+      "products": [
+        "T-5024H",
+        "T-5024H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Mado Monogatari",
+      "products": [
+        "T-6607G"
+      ],
+      "how": "fuzzy:0.97",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "MAGIC CARPET - EUR",
+      "products": [
+        "T-5006H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Magic Carpet - USA",
+      "products": [
+        "T-5006H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Magic Knight Rayearth - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Magic Knight Rayearth - USA",
+      "products": [
+        "T-12706H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Magic School Lunar!",
+      "products": [
+        "T-27902G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Mahjong Taikai II Special",
+      "products": [
+        "T-7621G"
+      ],
+      "how": "fuzzy:0.90",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Manx TT SuperBike - EUR",
+      "products": [
+        "MK81210-50"
+      ],
+      "how": "fuzzy:0.97",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Manx TT SuperBike - JPN",
+      "products": [
+        "GS-9102"
+      ],
+      "how": "fuzzy:0.97",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Manx TT SuperBike - USA",
+      "products": [
+        "81210"
+      ],
+      "how": "fuzzy:0.97",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Marvel Super Heroes - EUR",
+      "products": [
+        "T-7032H-05",
+        "T-7032H-50",
+        "T-7032H-51"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Marvel Super Heroes - JPN",
+      "products": [
+        "T-1215G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 11
+    },
+    {
+      "kai_name": "Marvel Super Heroes - USA",
+      "products": [
+        "T-1214H"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Marvel Super Heroes vs. Street Fighter",
+      "products": [
+        "T-1239G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Mass Destruction",
+      "products": [
+        "MK81089-50",
+        "T-18007H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Maximum Force",
+      "products": [
+        "T-25417H-50",
+        "T-9707H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Mega Man 8 - JPN",
+      "products": [
+        "T-1214G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 11
+    },
+    {
+      "kai_name": "Mega Man 8 - USA",
+      "products": [
+        "T-1216H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 22
+    },
+    {
+      "kai_name": "MEGA MAN X3 - EUR/JPN",
+      "products": [
+        "T-7029H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 18
+    },
+    {
+      "kai_name": "Mega Man X4 - JPN",
+      "products": [
+        "T-1221G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 19
+    },
+    {
+      "kai_name": "Mega Man X4 - USA",
+      "products": [
+        "T-1219H"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 16
+    },
+    {
+      "kai_name": "Metal Black",
+      "products": [
+        "T-19902G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Metal Slug [v1.002]",
+      "products": [],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Metal Slug [v1.005]",
+      "products": [],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Minnesota Fats: Pool Legend",
+      "products": [
+        "T-1302H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Mobile Suit Gundam",
+      "products": [
+        "T-13303G"
+      ],
+      "how": "fuzzy:0.59",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Mobile Suit Gundam: Gihren's Greed",
+      "products": [
+        "T-13330G"
+      ],
+      "how": "fuzzy:0.59",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Mobile Suit Gundam Side Story Vol. 1",
+      "products": [
+        "T-13307G"
+      ],
+      "how": "fuzzy:0.53",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Mobile Suit Gundam Side Story Vol. 3",
+      "products": [
+        "T-13313G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Mobile Suit Zeta Gundam Vol. 1",
+      "products": [
+        "T-13315G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Mobile Suit Zeta Gundam Vol. 2",
+      "products": [
+        "T-13320G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Mortal Kombat Trilogy",
+      "products": [
+        "191X42",
+        "T-25414H-50",
+        "T-9704H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Mystaria: The Realms of Lore - EUR/USA",
+      "products": [
+        "81300",
+        "MK81300-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Mystaria: The Realms of Lore - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "NBA Action",
+      "products": [
+        "81103",
+        "MK81103-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Neon Genesis Evangelion: 2nd Impression",
+      "products": [
+        "GS-9129"
+      ],
+      "how": "fuzzy:0.79",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "NFL Quarterback Club '96 - USA",
+      "products": [
+        "T-8109H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "NFL Quarterback Club '97 - USA",
+      "products": [
+        "T-8136H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "NHL '97",
+      "products": [
+        "T-10620G",
+        "T-5016H",
+        "T-5016H-18",
+        "T-5016H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "NHL All-Star Hockey",
+      "products": [
+        "81102",
+        "MK81102-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "NHL Powerplay '96",
+      "products": [
+        "T-7012G",
+        "T-7013H"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "NiGHTS into Dreams",
+      "products": [
+        "193226",
+        "81020",
+        "GS-9046",
+        "MK81020-50"
+      ],
+      "how": "exact",
+      "location": "06072000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 16
+    },
+    {
+      "kai_name": "NiGHTS into Dreams Demo - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06072000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Off-World Interceptor Extreme - USA",
+      "products": [
+        "T-15908H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Ojousama wo Nerae!!",
+      "products": [
+        "T-38101G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Pandemonium! - EUR",
+      "products": [
+        "MK81090-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Pandemonium! - USA",
+      "products": [
+        "T-15914H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Pandemonium! - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Panzer Dragoon - EUR",
+      "products": [
+        "MK81009-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Panzer Dragoon - JPN",
+      "products": [
+        "GS-9015"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Panzer Dragoon - USA",
+      "products": [
+        "81009"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Panzer Dragoon Demo - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Pretty Fighter X",
+      "products": [
+        "T-15001G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Princess Crown",
+      "products": [
+        "T-14418G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Pro Yakyuu Team mo Tsukurou!",
+      "products": [
+        "GS-9165"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Puzzle & Action: Treasure Hunt",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Puzzle Bobble 2X - JPN",
+      "products": [
+        "T-1106G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Quake - USA",
+      "products": [
+        "81066"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Rabbit",
+      "products": [
+        "T-10610G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Race Drivin' - JPN",
+      "products": [
+        "T-4802G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Radiant Silvergun",
+      "products": [
+        "T-32902G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Rayman - EUR",
+      "products": [
+        "T-17701H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Rayman - JPN/USA",
+      "products": [
+        "T-17701G",
+        "T-17701H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Real Bout Fatal Fury",
+      "products": [
+        "T-3105G"
+      ],
+      "how": "fuzzy:0.59",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Real Bout Fatal Fury Special [v1.001]",
+      "products": [
+        "T-3117G"
+      ],
+      "how": "fuzzy:0.70",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Resident Evil - EUR",
+      "products": [
+        "MK81092-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Resident Evil - JPN/USA",
+      "products": [
+        "T-1221H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Revolution X - USA",
+      "products": [
+        "T-8107H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Riglord Saga 2",
+      "products": [
+        "GS-9084"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Rise 2: Resurrection",
+      "products": [
+        "T-8104G"
+      ],
+      "how": "fuzzy:0.66",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Road & Track Presents: The Need for Speed",
+      "products": [
+        "193246",
+        "T-5009H",
+        "T-5009H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 17
+    },
+    {
+      "kai_name": "Road Rash",
+      "products": [
+        "193176",
+        "T-10609G",
+        "T-5008H",
+        "T-5008H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Robo Pit - EUR/USA",
+      "products": [
+        "T-10002H",
+        "T-10002H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Robo Pit - JPN",
+      "products": [
+        "T-16603G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Robotica",
+      "products": [
+        "T-8104H"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Romance of the Three Kingdoms IV: Wall of Fire - USA",
+      "products": [
+        "T-7601H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Ronde",
+      "products": [
+        "T-14415G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Sakura Taisen: Hanagumi Taisen Columns",
+      "products": [
+        "GS-9138"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Salamander Deluxe Pack Plus",
+      "products": [
+        "T-9520G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Samurai Shodown III: Blades of Blood",
+      "products": [
+        "T-3106G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Samurai Shodown IV: Amakusa's Revenge",
+      "products": [
+        "T-3116G"
+      ],
+      "how": "fuzzy:0.64",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Samurai Shodown RPG",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": true,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Saturn Bomberman - EUR",
+      "products": [
+        "MK81070-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Saturn Bomberman - JPN",
+      "products": [
+        "T-14302G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Saturn Bomberman Fight!!",
+      "products": [
+        "T-14321G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Saturn Save Data Manager",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Savaki",
+      "products": [
+        "T-5208G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SD Gundam G Century S",
+      "products": [
+        "T-13324G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Sega Ages: After Burner II",
+      "products": [
+        "GS-9109"
+      ],
+      "how": "fuzzy:0.75",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Sega Ages: Fantasy Zone",
+      "products": [
+        "GS-9136"
+      ],
+      "how": "fuzzy:0.71",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Sega Ages: Phantasy Star Collection",
+      "products": [
+        "GS-9186"
+      ],
+      "how": "fuzzy:0.83",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 14
+    },
+    {
+      "kai_name": "Sega Ages: Power Drift",
+      "products": [
+        "GS-9181"
+      ],
+      "how": "fuzzy:0.69",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Sega Ages: Space Harrier",
+      "products": [
+        "GS-9108"
+      ],
+      "how": "fuzzy:0.72",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Sega Rally Championship - EUR/JPN",
+      "products": [
+        "GS-9047",
+        "MK81207-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Sega Rally Championship - USA",
+      "products": [
+        "80012",
+        "81207"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Sega Touring Car Championship - USA",
+      "products": [
+        "81216"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Sengoku Blade",
+      "products": [
+        "T-14410G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Sexy Parodius",
+      "products": [
+        "T-9514G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Shellshock - USA",
+      "products": [
+        "T-7901H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Shienryu",
+      "products": [
+        "T-29102G"
+      ],
+      "how": "fuzzy:0.94",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Shin-Oh-Ken / Ragnagard",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Shining Force III - EUR/USA/JPN [v2.005]",
+      "products": [
+        "81383",
+        "MK81383-50"
+      ],
+      "how": "fuzzy:0.74",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 28
+    },
+    {
+      "kai_name": "Shining Force III sc1 - JPN [v1.006]",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 18
+    },
+    {
+      "kai_name": "Shining Force III sc2 - JPN [v1.003]",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 15
+    },
+    {
+      "kai_name": "Shining Force III sc3 - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 14
+    },
+    {
+      "kai_name": "Shining The Holy Ark - EUR/USA",
+      "products": [
+        "81306",
+        "MK81306-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Shining The Holy Ark - JPN",
+      "products": [
+        "T-33101G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Shining Wisdom - JPN",
+      "products": [
+        "GS-9057"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 16
+    },
+    {
+      "kai_name": "Shinobi X - EUR/USA",
+      "products": [
+        "MK81082-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Shinobi X - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Shinrei Jusatsushi Taromaru",
+      "products": [
+        "T-4804G"
+      ],
+      "how": "fuzzy:0.98",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Shippuu Mahou Daisakusen: Kingdom Grand Prix",
+      "products": [
+        "T-18506G"
+      ],
+      "how": "fuzzy:0.72",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "SimCity 2000 - EUR",
+      "products": [
+        "MK81580-50"
+      ],
+      "how": "fuzzy:0.96",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "SimCity 2000 - JPN",
+      "products": [
+        "GS-9027"
+      ],
+      "how": "fuzzy:0.96",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "SimCity 2000 - USA",
+      "products": [
+        "T-12601H"
+      ],
+      "how": "fuzzy:0.96",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Skull Fang",
+      "products": [
+        "T-1311G"
+      ],
+      "how": "fuzzy:0.61",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Sky Target - USA",
+      "products": [
+        "81051"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Slam Dunk: I Love Basketball",
+      "products": [
+        "T-13301G"
+      ],
+      "how": "fuzzy:0.75",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Slam 'n Jam '96 featuring Magic & Kareem",
+      "products": [
+        "191X84",
+        "T-15902H-50",
+        "T-15905G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Sokko Seitokai: Sonic Council",
+      "products": [
+        "T-20611G"
+      ],
+      "how": "fuzzy:0.65",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Solar Eclipse - USA",
+      "products": [
+        "T-15911H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Sol Divide: Sword of Darkness",
+      "products": [
+        "T-14423G"
+      ],
+      "how": "fuzzy:0.53",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Solo Crisis",
+      "products": [
+        "T-23501G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Sonic 3D Blast - USA",
+      "products": [
+        "81062"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 13
+    },
+    {
+      "kai_name": "Sonic 3D: Flickies' Island - EUR",
+      "products": [
+        "MK81062-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Sonic 3D: Flickies' Island - JPN",
+      "products": [
+        "GS-9143"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "Sonic Jam",
+      "products": [
+        "191276",
+        "81079",
+        "GS-9147",
+        "MK81079-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 25
+    },
+    {
+      "kai_name": "Sonic Jam - Sega Flash Vol. 5",
+      "products": [
+        "GS-9200"
+      ],
+      "how": "fuzzy:0.55",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Sonic R",
+      "products": [
+        "191306",
+        "81800",
+        "GS-9170",
+        "MK81800-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Sonic Wings Special",
+      "products": [
+        "T-26402G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Soviet Strike",
+      "products": [
+        "191X44",
+        "T-10621G",
+        "T-5013H",
+        "T-5013H-09",
+        "T-5013H-18",
+        "T-5013H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Stakes Winner 2",
+      "products": [
+        "T-3115G"
+      ],
+      "how": "fuzzy:0.61",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Star Fighter",
+      "products": [
+        "T-8135H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "Steamgear Mash",
+      "products": [
+        "T-10301G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Steam-Heart's",
+      "products": [
+        "T-32502G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Steep Slope Sliders - EUR/USA",
+      "products": [
+        "81128",
+        "MK81128-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Stellar Assault SS",
+      "products": [
+        "T-4403G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Street Fighter: The Movie - EUR/USA",
+      "products": [
+        "T-8105H",
+        "T-8105H-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Street Fighter Collection (Disc 1) - JPN",
+      "products": [
+        "T-1223G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "Street Fighter Zero",
+      "products": [
+        "193286",
+        "T-1206G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 16
+    },
+    {
+      "kai_name": "Strikers 1945",
+      "products": [
+        "T-14407G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Strikers 1945 II",
+      "products": [
+        "T-20402G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Super Adventure Rockman",
+      "products": [
+        "T-1241G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Super Dimension Fortress Macross: Do You Remember Love?",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "Super Puzzle Fighter II Turbo - EUR/USA",
+      "products": [
+        "T-1215H",
+        "T-7030H-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Super Puzzle Fighter II Turbo - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Super Real Mahjong P7",
+      "products": [
+        "T-16509G"
+      ],
+      "how": "fuzzy:0.88",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Super Tempo",
+      "products": [
+        "T-26413G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Sword & Sorcery",
+      "products": [
+        "T-5202G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Tamagotchi Park",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Tempest 2000",
+      "products": [
+        "T-12516H",
+        "T-12516H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Terra Phantastica",
+      "products": [
+        "GS-9054"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Tetris Plus",
+      "products": [
+        "T-5704H",
+        "T-5704H-50",
+        "T-5708G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Theme Park - EUR/USA",
+      "products": [
+        "T-5001H",
+        "T-5001H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "THEME PARK - JPN",
+      "products": [
+        "T-10605G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Three Dirty Dwarves - JPN/USA",
+      "products": [
+        "14002",
+        "GS-9137"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Thunder Force V",
+      "products": [
+        "T-1811G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Thunder Force Gold Pack 1",
+      "products": [
+        "T-1807G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Thunder Force Gold Pack 2",
+      "products": [
+        "T-1808G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Touge King the Spirits 2",
+      "products": [
+        "T-14412G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Toushinden S [v1.000] - JPN",
+      "products": [
+        "GS-9078"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Toushinden URA - JPN",
+      "products": [
+        "T-10305G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Tokimeki Memorial Selection: Fujisaki Shiori",
+      "products": [
+        "T-9517G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Tomb Raider - EUR",
+      "products": [
+        "MK81086-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Tomb Raider - USA",
+      "products": [
+        "T-7910H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 26
+    },
+    {
+      "kai_name": "Touryuu Densetsu Elan Doree",
+      "products": [
+        "T-38202G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Tour Party",
+      "products": [
+        "T-10312G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Ultimate Mortal Kombat 3 - USA",
+      "products": [
+        "T-9701H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 17
+    },
+    {
+      "kai_name": "Vampire Hunter: Darkstalkers' Revenge - JPN",
+      "products": [
+        "T-1202G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 29
+    },
+    {
+      "kai_name": "Vampire Hunter: Darkstalkers' Revenge - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "Vampire Savior: The Lord of Vampire",
+      "products": [
+        "T-1228G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Vandal Hearts",
+      "products": [
+        "T-9526G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VICTORY BOXING - EUR",
+      "products": [
+        "T-6005H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Victory Goal",
+      "products": [
+        "GS-9002"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "VIRTUA COP - EUR",
+      "products": [
+        "MK81015-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Virtua Cop - JPN",
+      "products": [
+        "GS-9060"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Virtua Cop - USA",
+      "products": [
+        "81015"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "Virtua Cop 2 - JPN",
+      "products": [
+        "GS-9097"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Virtua Cop 2 - USA",
+      "products": [
+        "81043"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER REMIX - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Virtua Fighter 2",
+      "products": [
+        "193066",
+        "81014",
+        "GS-9079",
+        "MK81014-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 19
+    },
+    {
+      "kai_name": "Virtua Fighter Kids - JPN",
+      "products": [
+        "GS-9098"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Virtua Fighter Kids - USA",
+      "products": [
+        "81049"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "Virtual Hydlide - JPN",
+      "products": [
+        "GS-9012"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Virtua Racing - USA",
+      "products": [
+        "T-4801H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Virus",
+      "products": [
+        "T-14304G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VR Soccer",
+      "products": [
+        "T-12517H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Wachenroder",
+      "products": [
+        "GS-9183"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Waku Waku 7",
+      "products": [
+        "T-1516G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Waku Waku Puyo Puyo Dungeon",
+      "products": [
+        "T-6606G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 12
+    },
+    {
+      "kai_name": "Wangan Dead Heat - JPN",
+      "products": [
+        "T-9102G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Warriors of Fate",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Whizz",
+      "products": [
+        "T-36102G",
+        "T-9514H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Willy Wombat",
+      "products": [
+        "T-14306G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "Wing Arms - EUR",
+      "products": [
+        "MK81024-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Wing Arms - JPN",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "Wing Arms - USA",
+      "products": [
+        "81024"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "Winning Post 2",
+      "products": [
+        "T-7612G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Winning Post 2 Final '97",
+      "products": [
+        "T-7647G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Winning Post 3",
+      "products": [
+        "T-7660G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Wipeout 2097 - EUR",
+      "products": [
+        "T-11308H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Wipeout XL - JPN",
+      "products": [
+        "T-18619G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "Wolf Fang SS: Kuuga 2001",
+      "products": [
+        "T-26105G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "World Series Baseball",
+      "products": [
+        "81109",
+        "MK81109-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "World Series Baseball II",
+      "products": [
+        "81113",
+        "GS-9120",
+        "MK81113-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "World Series Baseball '98 - USA",
+      "products": [
+        "81127"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "WWF In Your House",
+      "products": [
+        "T-8120G",
+        "T-8126H",
+        "T-8126H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "WWF WrestleMania: The Arcade Game - USA",
+      "products": [
+        "T-8112H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "X-Men: Children of the Atom - EUR/USA",
+      "products": [
+        "T-8108H",
+        "T-8108H-50"
+      ],
+      "how": "exact",
+      "location": "060C2800",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "X-Men: Children of the Atom - JPN",
+      "products": [
+        "T-1203G"
+      ],
+      "how": "exact",
+      "location": "060C2800",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "X-Men vs. Street Fighter",
+      "products": [
+        "T-1227G"
+      ],
+      "how": "exact",
+      "location": "06000B00",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Yakyuken Special: Konya wa 12-kaisen",
+      "products": [
+        "T-21901G"
+      ],
+      "how": "fuzzy:0.62",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Zap! Snowboarding Trix",
+      "products": [
+        "T-7502G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "Zero Divide: The Final Conflict",
+      "products": [
+        "T-31601G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    }
+  ],
+  "collisions": {
+    "81029": {
+      "claims": [
+        {
+          "kai_name": "Battle Arena Toshinden Remix - USA",
+          "how": "exact"
+        },
+        {
+          "kai_name": "Battle Arena Toshinden URA - USA",
+          "how": "fuzzy:0.89"
+        }
+      ],
+      "resolved": "Battle Arena Toshinden Remix - USA"
+    },
+    "81803": {
+      "claims": [
+        {
+          "kai_name": "Burning Rangers - EUR/JPN/USA/Demo/Prototypes",
+          "how": "exact"
+        },
+        {
+          "kai_name": "Burning Rangers - Flash SegaSaturn Vol. 25",
+          "how": "fuzzy:0.56"
+        },
+        {
+          "kai_name": "Burning Rangers - Sega Flash Vol. 7",
+          "how": "fuzzy:0.64"
+        }
+      ],
+      "resolved": "Burning Rangers - EUR/JPN/USA/Demo/Prototypes"
+    },
+    "GS-9174": {
+      "claims": [
+        {
+          "kai_name": "Burning Rangers - EUR/JPN/USA/Demo/Prototypes",
+          "how": "exact"
+        },
+        {
+          "kai_name": "Burning Rangers - Flash SegaSaturn Vol. 25",
+          "how": "fuzzy:0.56"
+        },
+        {
+          "kai_name": "Burning Rangers - Sega Flash Vol. 7",
+          "how": "fuzzy:0.64"
+        }
+      ],
+      "resolved": "Burning Rangers - EUR/JPN/USA/Demo/Prototypes"
+    },
+    "MK81803-50": {
+      "claims": [
+        {
+          "kai_name": "Burning Rangers - EUR/JPN/USA/Demo/Prototypes",
+          "how": "exact"
+        },
+        {
+          "kai_name": "Burning Rangers - Flash SegaSaturn Vol. 25",
+          "how": "fuzzy:0.56"
+        },
+        {
+          "kai_name": "Burning Rangers - Sega Flash Vol. 7",
+          "how": "fuzzy:0.64"
+        }
+      ],
+      "resolved": "Burning Rangers - EUR/JPN/USA/Demo/Prototypes"
+    },
+    "191566": {
+      "claims": [
+        {
+          "kai_name": "Burning Rangers - Flash SegaSaturn Vol. 25",
+          "how": "fuzzy:0.56"
+        },
+        {
+          "kai_name": "Burning Rangers - Sega Flash Vol. 7",
+          "how": "fuzzy:0.64"
+        }
+      ],
+      "resolved": "Burning Rangers - Sega Flash Vol. 7"
+    },
+    "GS-9101": {
+      "claims": [
+        {
+          "kai_name": "Fighting Vipers [v1.010] - JPN",
+          "how": "exact"
+        },
+        {
+          "kai_name": "Fighting Vipers [v1.013] - JPN",
+          "how": "exact"
+        }
+      ],
+      "resolved": null
+    },
+    "T-3111G": {
+      "claims": [
+        {
+          "kai_name": "Metal Slug [v1.002]",
+          "how": "exact"
+        },
+        {
+          "kai_name": "Metal Slug [v1.005]",
+          "how": "exact"
+        }
+      ],
+      "resolved": null
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "cases": [
+    {
+      "names": [
+        "Racing",
+        "RPG",
+        "openmenu",
+        "menu.bin",
+        "autoboot.iso",
+        "loose.iso"
+      ],
+      "expect": 2304390342
+    },
+    {
+      "names": [],
+      "expect": 0
+    },
+    {
+      "names": [
+        "b",
+        "A",
+        "System Volume Information",
+        ".Trashes",
+        "AutoBoot.cue",
+        "satiator-rings",
+        "Ä"
+      ],
+      "expect": 2848725281
+    },
+    {
+      "names": [
+        "Games",
+        "XBAND",
+        "menu.bin",
+        "REGION.TXT",
+        "ar_backup.bin",
+        "vibemenu"
+      ],
+      "expect": 3028346747
+    },
+    {
+      "names": [
+        "SAVES",
+        "Game1"
+      ],
+      "expect": 2788172937
+    },
+    {
+      "names": [
+        "Games",
+        "XBAND",
+        "aether",
+        "VIBEMENU"
+      ],
+      "expect": 3028346747
+    },
+    {
+      "names": [
+        "Games",
+        "XBAND",
+        "Aether"
+      ],
+      "expect": 3028346747
+    },
+    {
+      "names": [
+        "Game1",
+        "out.desc",
+        "OUT1.DESC",
+        "out9.desc",
+        "out0.desc",
+        "out10.desc"
+      ],
+      "expect": 3685891461
+    }
+  ]
+}

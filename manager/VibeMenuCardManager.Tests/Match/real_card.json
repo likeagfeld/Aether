@@ -1,0 +1,928 @@
+{
+ "source": "G:/SATIATOR BACKUP (the user's main card, read-only), 800 images, scanned 2026-11-24 with build/db/GAMES.DB (2,112 records); omsat.cardscan gives the same key for every image",
+ "matched": 732,
+ "entries": 800,
+ "non_exact_matches": [
+  {
+   "product": "12512H",
+   "area": "U",
+   "key": "T-12512H"
+  },
+  {
+   "product": "23201G",
+   "area": "J",
+   "key": "T-23201G"
+  },
+  {
+   "product": "610-6276",
+   "area": "J",
+   "key": "HSS-0128"
+  },
+  {
+   "product": "6106732",
+   "area": "J",
+   "key": "610-6732"
+  },
+  {
+   "product": "6106803",
+   "area": "J",
+   "key": "610-6803"
+  },
+  {
+   "product": "GM-81004",
+   "area": "U",
+   "key": "81004"
+  },
+  {
+   "product": "GS-9055 V1",
+   "area": "JT",
+   "key": "GS-9055"
+  },
+  {
+   "product": "MK-081066",
+   "area": "U",
+   "key": "81066"
+  },
+  {
+   "product": "MK-81001",
+   "area": "UT",
+   "key": "81001"
+  },
+  {
+   "product": "MK-81002",
+   "area": "U",
+   "key": "81102"
+  },
+  {
+   "product": "MK-81003",
+   "area": "U",
+   "key": "81003"
+  },
+  {
+   "product": "MK-81005",
+   "area": "BKUT",
+   "key": "81005"
+  },
+  {
+   "product": "MK-81007",
+   "area": "UT",
+   "key": "81007"
+  },
+  {
+   "product": "MK-81009",
+   "area": "J",
+   "key": "81009"
+  },
+  {
+   "product": "MK-81010",
+   "area": "UT",
+   "key": "81010"
+  },
+  {
+   "product": "MK-81012",
+   "area": "UTJ",
+   "key": "81012"
+  },
+  {
+   "product": "MK-81014",
+   "area": "U",
+   "key": "81014"
+  },
+  {
+   "product": "MK-81015",
+   "area": "TU",
+   "key": "81015"
+  },
+  {
+   "product": "MK-81016",
+   "area": "U",
+   "key": "81016"
+  },
+  {
+   "product": "MK-81019",
+   "area": "",
+   "key": "81019"
+  },
+  {
+   "product": "MK-81020",
+   "area": "JTU",
+   "key": "81020"
+  },
+  {
+   "product": "MK-81022",
+   "area": "JTU",
+   "key": "81022"
+  },
+  {
+   "product": "MK-81023",
+   "area": "U",
+   "key": "MK81083-50"
+  },
+  {
+   "product": "MK-81024",
+   "area": "JUT",
+   "key": "81024"
+  },
+  {
+   "product": "MK-81029V1",
+   "area": "JTU",
+   "key": "81029"
+  },
+  {
+   "product": "MK-81035",
+   "area": "UT",
+   "key": "81035"
+  },
+  {
+   "product": "MK-81036",
+   "area": "JTU",
+   "key": "81036"
+  },
+  {
+   "product": "MK-81040",
+   "area": "U",
+   "key": "81040"
+  },
+  {
+   "product": "MK-81041",
+   "area": "U",
+   "key": "81041"
+  },
+  {
+   "product": "MK-81042",
+   "area": "UTJ",
+   "key": "81042"
+  },
+  {
+   "product": "MK-81043",
+   "area": "UJT",
+   "key": "81043"
+  },
+  {
+   "product": "MK-81045",
+   "area": "UTJ",
+   "key": "81045"
+  },
+  {
+   "product": "MK-81046",
+   "area": "U",
+   "key": "81046"
+  },
+  {
+   "product": "MK-81049",
+   "area": "  U",
+   "key": "81049"
+  },
+  {
+   "product": "MK-81051",
+   "area": "UT",
+   "key": "81051"
+  },
+  {
+   "product": "MK-81054",
+   "area": "U",
+   "key": "81054"
+  },
+  {
+   "product": "MK-81057",
+   "area": "JTUBKAEL",
+   "key": "81057"
+  },
+  {
+   "product": "MK-81057",
+   "area": "U",
+   "key": "81057"
+  },
+  {
+   "product": "MK-81062",
+   "area": "U",
+   "key": "81062"
+  },
+  {
+   "product": "MK-81064",
+   "area": "U",
+   "key": "81064"
+  },
+  {
+   "product": "MK-81065",
+   "area": "UT",
+   "key": "81065"
+  },
+  {
+   "product": "MK-81067",
+   "area": "UJT",
+   "key": "81067"
+  },
+  {
+   "product": "MK-81070",
+   "area": "",
+   "key": "81070"
+  },
+  {
+   "product": "MK-81070",
+   "area": "U",
+   "key": "81070"
+  },
+  {
+   "product": "MK-81071",
+   "area": "JTUBKAEL",
+   "key": "81071"
+  },
+  {
+   "product": "MK-81071",
+   "area": "U",
+   "key": "81071"
+  },
+  {
+   "product": "MK-81072",
+   "area": "J",
+   "key": "81072"
+  },
+  {
+   "product": "MK-81072",
+   "area": "JTUBKAEL",
+   "key": "81072"
+  },
+  {
+   "product": "MK-81072",
+   "area": "U",
+   "key": "81072"
+  },
+  {
+   "product": "MK-81073",
+   "area": "U",
+   "key": "81073"
+  },
+  {
+   "product": "MK-81076",
+   "area": "JTU",
+   "key": "81076"
+  },
+  {
+   "product": "MK-81078",
+   "area": "",
+   "key": "81078"
+  },
+  {
+   "product": "MK-81078",
+   "area": "UT",
+   "key": "81078"
+  },
+  {
+   "product": "MK-81079",
+   "area": "U",
+   "key": "81079"
+  },
+  {
+   "product": "MK-81085",
+   "area": "E",
+   "key": "MK81085-50"
+  },
+  {
+   "product": "MK-81087",
+   "area": "E",
+   "key": "MK81087-50"
+  },
+  {
+   "product": "MK-81088",
+   "area": "E",
+   "key": "MK81088-50"
+  },
+  {
+   "product": "MK-8109150",
+   "area": "E",
+   "key": "MK81091-50"
+  },
+  {
+   "product": "MK-81093",
+   "area": "E",
+   "key": "MK81093-50"
+  },
+  {
+   "product": "MK-81101",
+   "area": "UKBT",
+   "key": "81101"
+  },
+  {
+   "product": "MK-81103",
+   "area": "TU",
+   "key": "81103"
+  },
+  {
+   "product": "MK-81105",
+   "area": "UT",
+   "key": "81105"
+  },
+  {
+   "product": "MK-81109",
+   "area": "U",
+   "key": "81109"
+  },
+  {
+   "product": "MK-81111",
+   "area": "U",
+   "key": "81111"
+  },
+  {
+   "product": "MK-81112",
+   "area": "UTJ",
+   "key": "81112"
+  },
+  {
+   "product": "MK-81113",
+   "area": "U",
+   "key": "81113"
+  },
+  {
+   "product": "MK-81115",
+   "area": "J",
+   "key": "81115"
+  },
+  {
+   "product": "MK-81122",
+   "area": "UTJ",
+   "key": "81122"
+  },
+  {
+   "product": "MK-81123",
+   "area": "U",
+   "key": "81123"
+  },
+  {
+   "product": "MK-81124",
+   "area": "UJT",
+   "key": "81124"
+  },
+  {
+   "product": "MK-81127",
+   "area": "U",
+   "key": "81127"
+  },
+  {
+   "product": "MK-81128",
+   "area": "U",
+   "key": "81128"
+  },
+  {
+   "product": "MK-81129",
+   "area": "J",
+   "key": "81129"
+  },
+  {
+   "product": "MK-81129",
+   "area": "JTUBKAEL",
+   "key": "81129"
+  },
+  {
+   "product": "MK-81180",
+   "area": "E",
+   "key": "MK81180-50"
+  },
+  {
+   "product": "MK-81181",
+   "area": "E",
+   "key": "MK81181-50"
+  },
+  {
+   "product": "MK-81200",
+   "area": "BKUT",
+   "key": "81200"
+  },
+  {
+   "product": "MK-81202",
+   "area": "UTJ",
+   "key": "81202"
+  },
+  {
+   "product": "MK-81204V1",
+   "area": "UT",
+   "key": "81205"
+  },
+  {
+   "product": "MK-81207",
+   "area": "UT",
+   "key": "81207"
+  },
+  {
+   "product": "MK-81210",
+   "area": "UJT",
+   "key": "81210"
+  },
+  {
+   "product": "MK-81213",
+   "area": "J",
+   "key": "81213"
+  },
+  {
+   "product": "MK-81214",
+   "area": "UT",
+   "key": "81214"
+  },
+  {
+   "product": "MK-81215",
+   "area": "J",
+   "key": "81215"
+  },
+  {
+   "product": "MK-81215",
+   "area": "U",
+   "key": "81215"
+  },
+  {
+   "product": "MK-81216",
+   "area": "J",
+   "key": "81216"
+  },
+  {
+   "product": "MK-81216",
+   "area": "U",
+   "key": "81216"
+  },
+  {
+   "product": "MK-81218",
+   "area": "J",
+   "key": "81218"
+  },
+  {
+   "product": "MK-81218",
+   "area": "JTUBKAEL",
+   "key": "81218"
+  },
+  {
+   "product": "MK-81218",
+   "area": "U",
+   "key": "81218"
+  },
+  {
+   "product": "MK-81282",
+   "area": "E",
+   "key": "MK81282-50"
+  },
+  {
+   "product": "MK-81300",
+   "area": "U",
+   "key": "81300"
+  },
+  {
+   "product": "MK-81302",
+   "area": "JTU",
+   "key": "81302"
+  },
+  {
+   "product": "MK-81303",
+   "area": "U",
+   "key": "81303"
+  },
+  {
+   "product": "MK-81304",
+   "area": "JTU",
+   "key": "81304"
+  },
+  {
+   "product": "MK-81306",
+   "area": "U",
+   "key": "81306"
+  },
+  {
+   "product": "MK-81307",
+   "area": "",
+   "key": "81307"
+  },
+  {
+   "product": "MK-81307",
+   "area": "J",
+   "key": "81307"
+  },
+  {
+   "product": "MK-81307",
+   "area": "JTUBKAEL",
+   "key": "81307"
+  },
+  {
+   "product": "MK-81307",
+   "area": "U",
+   "key": "81307"
+  },
+  {
+   "product": "MK-81501",
+   "area": "UTJ",
+   "key": "81501"
+  },
+  {
+   "product": "MK-81800",
+   "area": "U",
+   "key": "81800"
+  },
+  {
+   "product": "MK-81801",
+   "area": "E",
+   "key": "MK81801-50"
+  },
+  {
+   "product": "MK-81802",
+   "area": "U",
+   "key": "81802"
+  },
+  {
+   "product": "MK-81803",
+   "area": "",
+   "key": "81803"
+  },
+  {
+   "product": "MK-81804",
+   "area": "E",
+   "key": "MK81804-50"
+  },
+  {
+   "product": "SEGAVIEWER",
+   "area": "ET",
+   "key": "MK81681-50"
+  },
+  {
+   "product": "SG-7103",
+   "area": "",
+   "key": "GS-7103"
+  },
+  {
+   "product": "SG-7103",
+   "area": "T",
+   "key": "GS-7103"
+  },
+  {
+   "product": "T-01304H",
+   "area": "U",
+   "key": "T-1304H"
+  },
+  {
+   "product": "T-07004H",
+   "area": "U",
+   "key": "T-7004H"
+  },
+  {
+   "product": "T-07013H",
+   "area": "U",
+   "key": "T-7013H"
+  },
+  {
+   "product": "T-07904H",
+   "area": "U",
+   "key": "T-7904H"
+  },
+  {
+   "product": "T-10001G",
+   "area": "U",
+   "key": "T-10001H"
+  },
+  {
+   "product": "T-11302H",
+   "area": "E",
+   "key": "T-11302H-50"
+  },
+  {
+   "product": "T-11303H",
+   "area": "E",
+   "key": "T-11303H-50"
+  },
+  {
+   "product": "T-11304H",
+   "area": "E",
+   "key": "T-11304H-50"
+  },
+  {
+   "product": "T-11305H",
+   "area": "E",
+   "key": "T-11305H-50"
+  },
+  {
+   "product": "T-11308H-5",
+   "area": "E",
+   "key": "T-11308H-50"
+  },
+  {
+   "product": "T-11502H-5",
+   "area": "E",
+   "key": "T-11502H-50"
+  },
+  {
+   "product": "T-11506H50",
+   "area": "E",
+   "key": "T-11506H-50"
+  },
+  {
+   "product": "T-12003H50",
+   "area": "E",
+   "key": "T-12003H-50"
+  },
+  {
+   "product": "T-12305H",
+   "area": "E",
+   "key": "T-12305H-50"
+  },
+  {
+   "product": "T-12511H",
+   "area": "E",
+   "key": "T-12511H-50"
+  },
+  {
+   "product": "T-13001",
+   "area": "UE",
+   "key": "T-13001H"
+  },
+  {
+   "product": "T-13301H",
+   "area": "E",
+   "key": "T-13301H-06"
+  },
+  {
+   "product": "T-13301H",
+   "area": "U",
+   "key": "T-13301H-06"
+  },
+  {
+   "product": "T-1502H",
+   "area": "E",
+   "key": "T-1502H-50"
+  },
+  {
+   "product": "T-15102H",
+   "area": "E",
+   "key": "T-15102H-50"
+  },
+  {
+   "product": "T-159028H",
+   "area": "U",
+   "key": "T-15902H"
+  },
+  {
+   "product": "T-15909H50",
+   "area": "U",
+   "key": "T-15909H"
+  },
+  {
+   "product": "T-17702H",
+   "area": "E",
+   "key": "T-17702H-50"
+  },
+  {
+   "product": "T-18601H",
+   "area": "U",
+   "key": "81211"
+  },
+  {
+   "product": "T-20604G V",
+   "area": "J",
+   "key": "T-20604G"
+  },
+  {
+   "product": "T-21901G V",
+   "area": "J",
+   "key": "T-21901G"
+  },
+  {
+   "product": "T-25411450",
+   "area": "E",
+   "key": "T-25411H-50"
+  },
+  {
+   "product": "T-25412H-5",
+   "area": "E",
+   "key": "T-25412H-50"
+  },
+  {
+   "product": "T-29002G V",
+   "area": "J",
+   "key": "T-29002G"
+  },
+  {
+   "product": "T-30401H",
+   "area": "J",
+   "key": "14002"
+  },
+  {
+   "product": "T-30401H",
+   "area": "JTUBKAEL",
+   "key": "14002"
+  },
+  {
+   "product": "T-30403H",
+   "area": "JTUE",
+   "key": "14003"
+  },
+  {
+   "product": "T-319-01H",
+   "area": "U",
+   "key": "80118D"
+  },
+  {
+   "product": "T-319-01H",
+   "area": "UT",
+   "key": "80118D"
+  },
+  {
+   "product": "T-8114-H",
+   "area": "U",
+   "key": "T-8114H"
+  },
+  {
+   "product": "T-9515H-50",
+   "area": "E",
+   "key": "T-9514H-50"
+  }
+ ],
+ "retail_unmatched": [
+  {
+   "path": "Playboy - Karaoke Collection Volume 1 (Japan)/Playboy - Karaoke Collection Volume 1 (Japan).cue",
+   "product": "T-2305G",
+   "area": "J"
+  },
+  {
+   "path": "Playboy - Karaoke Collection Volume 2 (Japan) (2M)/Playboy - Karaoke Collection Volume 2 (Japan) (2M).cue",
+   "product": "T-2305G",
+   "area": "J"
+  },
+  {
+   "path": "Shining Force III - Scenario 1 - The Titan of Aspia [T-En by Shining Force III Translation Project v24]/Shining Force III - Scenario 1 - The Titan of Aspia (English v24).cue",
+   "product": "SF3TRANS",
+   "area": "JTUBKAEL"
+  },
+  {
+   "path": "Shining Force III - Scenario 2 - Target Child of God [T-En by Shining Force III Translation Project v24]/Shining Force III - Scenario 2 - Target Godchild (English v24).cue",
+   "product": "SF3TRANS",
+   "area": "JTUBKAEL"
+  },
+  {
+   "path": "Shining Force III - Scenario 3 - Bulzome Rising [T-En by Shining Force III Translation Project v24]/Shining Force III - Scenario 3 - Bulzome Rising (English v24).cue",
+   "product": "SF3TRANS",
+   "area": "JTUBKAEL"
+  },
+  {
+   "path": "Shining Force III Premium Disc [T-En by Shining Force III Translation Project v24]/Shining Force III Premium Disc (English v24).cue",
+   "product": "SF3TRANS",
+   "area": "JTUBKAEL"
+  }
+ ],
+ "keys_without_box_tga": [
+  "14002",
+  "610-6732",
+  "610-6803",
+  "81070",
+  "81073",
+  "81111",
+  "81307",
+  "GS-7111",
+  "GS-9003",
+  "GS-9023",
+  "GS-9036",
+  "GS-9037",
+  "GS-9055",
+  "GS-9062",
+  "GS-9064",
+  "GS-9065",
+  "GS-9066",
+  "GS-9067",
+  "GS-9068",
+  "GS-9069",
+  "GS-9070",
+  "GS-9071",
+  "GS-9072",
+  "GS-9073",
+  "GS-9083",
+  "GS-9086",
+  "GS-9088",
+  "GS-9104",
+  "GS-9133",
+  "GS-9138",
+  "GS-9158",
+  "GS-9182",
+  "GS-9184",
+  "GS-9196",
+  "GS-9204",
+  "HSS-0128",
+  "T-10307G",
+  "T-10616G",
+  "T-10618G",
+  "T-10626G",
+  "T-1106G",
+  "T-11402G",
+  "T-11403G",
+  "T-1204G",
+  "T-1207G",
+  "T-1244G",
+  "T-12518H",
+  "T-1304G",
+  "T-1305G",
+  "T-1312G",
+  "T-1313G",
+  "T-1314G",
+  "T-13301G",
+  "T-13304G",
+  "T-13306G",
+  "T-13309G",
+  "T-13312G",
+  "T-14321G",
+  "T-14404G",
+  "T-14409G",
+  "T-15005G",
+  "T-15015G",
+  "T-1508G",
+  "T-16602G",
+  "T-16607G",
+  "T-16608G",
+  "T-16612G",
+  "T-16802G",
+  "T-17001G",
+  "T-17703G",
+  "T-1803G",
+  "T-1805G",
+  "T-1809G",
+  "T-18506G",
+  "T-18707G",
+  "T-18715G",
+  "T-18902G",
+  "T-18903G",
+  "T-19902G",
+  "T-20003G",
+  "T-2002G",
+  "T-20501G",
+  "T-20611G",
+  "T-20902G",
+  "T-21004G",
+  "T-21504G",
+  "T-21901G",
+  "T-21904G",
+  "T-22204G",
+  "T-22403G",
+  "T-23201G",
+  "T-23202G",
+  "T-25001G",
+  "T-26102G",
+  "T-26112G",
+  "T-26406G",
+  "T-26414G",
+  "T-27101G",
+  "T-27302G",
+  "T-27901G",
+  "T-27904G",
+  "T-28902G",
+  "T-30302G",
+  "T-30303G",
+  "T-30304G",
+  "T-30305G",
+  "T-30306G",
+  "T-3103G",
+  "T-3113G",
+  "T-31503G",
+  "T-31504G",
+  "T-32102G",
+  "T-32103G",
+  "T-32105G",
+  "T-34605G",
+  "T-35102G",
+  "T-35502G",
+  "T-36001G",
+  "T-3601G",
+  "T-3602G",
+  "T-36501G",
+  "T-37301G",
+  "T-38201G",
+  "T-38202G",
+  "T-38601G",
+  "T-4302G",
+  "T-4303G",
+  "T-4308G",
+  "T-4318G",
+  "T-4403G",
+  "T-4507G",
+  "T-4511G",
+  "T-4801G",
+  "T-5023H",
+  "T-5208G",
+  "T-6011G",
+  "T-6701G",
+  "T-7010G",
+  "T-7306G",
+  "T-7602G",
+  "T-7603G",
+  "T-7604G",
+  "T-7902H",
+  "T-8103G",
+  "T-9103G",
+  "T-9526G",
+  "T-9528G",
+  "T-9904G"
+ ],
+ "no_cover_even_with_the_pack": [
+  {
+   "path": "Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan) (1M)/Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan) (1M).cue",
+   "key": "610-6732"
+  },
+  {
+   "path": "Gale Racer (Japan) (En,Ja) (1A)/Gale Racer (Japan) (En,Ja) (1A).cue",
+   "key": "GS-9003"
+  },
+  {
+   "path": "SegaSaturn FDD Operator (Japan) [T-En by TrekkiesUnite118 v1.0]/SegaSaturn FDD Operator (Japan) [T-En by TrekkiesUnite118 v1.0].cue",
+   "key": "HSS-0128"
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "import_txt": "kai=0\n",
+ "log": [
+  "say TIDY: T-00001[U]",
+  "say TIDY: T-00002[U]",
+  "say TIDY: T-00003[U]",
+  "say TIDY: _GENERAL",
+  "say TIDY: T-00001[U]/01",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=0 files=15 bytes=4926 bups=10 bkps=5 folders=0 slots=5 skipped=2 rc=0",
+  "say TIDY: T-00001[U]",
+  "say TIDY: T-00002[U]",
+  "say TIDY: T-00003[U]",
+  "say TIDY: _GENERAL",
+  "say TIDY: T-00001[U]/01",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=1 files=15 bytes=4926 bups=10 bkps=5 folders=6 slots=5 skipped=2 rc=0",
+  "say TIDY: T-00001[U]",
+  "say TIDY: T-00002[U]",
+  "say TIDY: T-00003[U]",
+  "say TIDY: _GENERAL",
+  "say TIDY: T-00001[U]/01",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=0 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=5 skipped=2 rc=0",
+  "say TIDY: T-00001[U]",
+  "say TIDY: T-00002[U]",
+  "say TIDY: T-00003[U]",
+  "say TIDY: _GENERAL",
+  "say TIDY: T-00001[U]/01",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=1 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=5 skipped=2 rc=0",
+  "caps tcap=912 kcap=2448",
+  "violations=0"
+ ],
+ "pgsbak_sha": "014189c",
+ "runs": [],
+ "tree": [
+  {
+   "path": "SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-00001[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-00001[U]/B_CFG.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  },
+  {
+   "path": "satiator-saves/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/T-00001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/T-00001/B_CFG.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  },
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/IMPORT.TXT",
+   "sha256": "41c82910b7b983d020a2a5a88df7e45831b677a7d1c6001507a0eb2d13410898",
+   "size": 6
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/01/G000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/01/G000/G00001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/01/G000/G00001/DONE.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/01/G000/G00001/S1_SAV.BUP",
+   "sha256": "8ddd45aa010e4a0e1d62d98324c6fc274944b60b762ddc069805b31027fc9a42",
+   "size": 104
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/ABCDEFGHIJKLMNOP.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/A_SAV~1.BUP",
+   "sha256": "cae3cc05c9e94707f75540972825ee27356b3f376f555d2fd7239de7eda61e4e",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/CART/B_CFG.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00001/A_SAV.BUP",
+   "sha256": "150c374b14d7d9df00260652c2f8babfed8374a9a718551e77f4c743f16d9017",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00001/DONE.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00003/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00003/A_SAV.BUP",
+   "sha256": "b4393e0f2179cc528b3b57a7245b4bf95be3a5a742593e2b0d3aae94989c46fd",
+   "size": 374
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00003/B_CFG.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00003/DONE.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00004/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00004/A_SAV.BUP",
+   "sha256": "7dc1ad6a379840d4500068a9e3f74073f56065a4fd8bb1d4ea03d053ccc1d7b5",
+   "size": 384
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/JUNK.BUP",
+   "sha256": "94f690b16d3e8a9c265184e3a64a468444e69afb04bcdbc83093f827c70b5ae5",
+   "size": 5
+  },
+  {
+   "path": "aether/SAVES/T-00002[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00002[U]/G001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00002[U]/G001/G00100/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00002[U]/G001/G00100/C_SAV.BUP",
+   "sha256": "4507847366efed6c639a8bf65c383d19c424a54002d467fd5e4f0b9b96aec911",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/T-00002[U]/G001/G00100/DONE.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00097/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00097/BAD.BUP",
+   "sha256": "82fcfd5215175da9e65ca7c4fb927a1fb0e61f09d54987c368e8e16ebd9c2969",
+   "size": 70
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00098/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00098/SUB/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00098/SUB/X.TXT",
+   "sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+   "size": 1
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00099/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00099/DONE.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00003[U]/G000/G00099/D_SAV.BUP",
+   "sha256": "9e7bedbceb265310494d2f0b3f13162b2265d7d25e30652693e915fd24475601",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/T-00004[U]-LONG-NAME-XX/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00004[U]-LONG-NAME-XX/B_CFG.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  },
+  {
+   "path": "aether/SAVES/T-00004[U]-LONG-NAME-XX/G000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00004[U]-LONG-NAME-XX/G000/G00001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00004[U]-LONG-NAME-XX/G000/G00001/B_CFG.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/000/00004.BKP",
+   "sha256": "626b831f79f168a4d23e42608fe4bcc5c638f01f79456d0edeebc73b9f74ffd9",
+   "size": 462
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/000/00007.TMP",
+   "sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+   "size": 1
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/00002.BKP",
+   "sha256": "ad3ed7694466b592d0b7a2a5b6f6aac7e20bea38bcd66f014e729ae80f4ca7d2",
+   "size": 408
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/002/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/002/README",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/003/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/003/00300.BKP",
+   "sha256": "d5ca8b1357231482069ef2b1ea3bb9ba6639e1e57d60c797e15e16cdc12e8dbe",
+   "size": 280
+  },
+  {
+   "path": "aether/SAVES/_GENERAL/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_GENERAL/G000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_GENERAL/G000/G00001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_GENERAL/G000/G00001/DONE.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_GENERAL/G000/G00001/GENERAL_SAV.BUP",
+   "sha256": "43afd1b93d78cd503d7c5fc2aa55113361bd0bae580d089130e75c1eb24a3ae6",
+   "size": 104
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-00001[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-00001[U]/B_CFG.BUP",
+   "sha256": "f2bb1859ebdf24793de9edc3671de05c4d3acb00837ee383f3424771cd8b1676",
+   "size": 184
+  }
+ ]
+}

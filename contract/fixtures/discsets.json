@@ -1,0 +1,1029 @@
+{
+ "about": "contract/SPEC.md §5.4 multi-disc sets (tools/omsat/discsets.py): each case is one image, in LIBRARY.IDX order; set/alt are the flags bits 4-15 and 2 the card builders write. Real paths from the user's card (IP product and CD-n/m read from each image), then synthetic edge cases.",
+ "cases": [
+  {
+   "path": "Atlantis - The Lost Tales (Europe) (En,De,Es) (Disc 1)/Atlantis - The Lost Tales (Europe) (En,De,Es) (Disc 1).cue",
+   "product": "MK-8109150",
+   "disc": 1,
+   "total": 2,
+   "set": 1,
+   "alt": false
+  },
+  {
+   "path": "Atlantis - The Lost Tales (Europe) (En,De,Es) (Disc 2)/Atlantis - The Lost Tales (Europe) (En,De,Es) (Disc 2).cue",
+   "product": "MK-8109150",
+   "disc": 2,
+   "total": 2,
+   "set": 1,
+   "alt": false
+  },
+  {
+   "path": "Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 1)/Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 1).cue",
+   "product": "GS-9172",
+   "disc": 1,
+   "total": 2,
+   "set": 2,
+   "alt": false
+  },
+  {
+   "path": "Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 2)/Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 2).cue",
+   "product": "GS-9172",
+   "disc": 2,
+   "total": 2,
+   "set": 2,
+   "alt": false
+  },
+  {
+   "path": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1)/Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1).cue",
+   "product": "T-23403G",
+   "disc": 1,
+   "total": 2,
+   "set": 3,
+   "alt": false
+  },
+  {
+   "path": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 2)/Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 2).cue",
+   "product": "T-23403G",
+   "disc": 2,
+   "total": 2,
+   "set": 3,
+   "alt": false
+  },
+  {
+   "path": "Command & Conquer (USA) (Disc 1) (GDI Disc)/Command & Conquer (USA) (Disc 1) (GDI Disc).cue",
+   "product": "T-7028H",
+   "disc": 1,
+   "total": 2,
+   "set": 4,
+   "alt": false
+  },
+  {
+   "path": "Command & Conquer (USA) (Disc 2) (NOD Disc)/Command & Conquer (USA) (Disc 2) (NOD Disc).cue",
+   "product": "T-7028H",
+   "disc": 2,
+   "total": 2,
+   "set": 4,
+   "alt": false
+  },
+  {
+   "path": "Corpse Killer - Graveyard Edition (USA) (Disc 1) (R)/Corpse Killer - Graveyard Edition (USA) (Disc 1) (R).cue",
+   "product": "T-16201H",
+   "disc": 1,
+   "total": 2,
+   "set": 5,
+   "alt": false
+  },
+  {
+   "path": "Corpse Killer - Graveyard Edition (USA) (Disc 2)/Corpse Killer - Graveyard Edition (USA) (Disc 2).cue",
+   "product": "T-16201H",
+   "disc": 2,
+   "total": 2,
+   "set": 5,
+   "alt": false
+  },
+  {
+   "path": "Creature Shock - Special Edition (USA) (Disc 1)/Creature Shock - Special Edition (USA) (Disc 1).cue",
+   "product": "T-01304H",
+   "disc": 1,
+   "total": 2,
+   "set": 6,
+   "alt": false
+  },
+  {
+   "path": "Creature Shock - Special Edition (USA) (Disc 2)/Creature Shock - Special Edition (USA) (Disc 2).cue",
+   "product": "T-01304H",
+   "disc": 2,
+   "total": 2,
+   "set": 6,
+   "alt": false
+  },
+  {
+   "path": "D (USA) (Disc I)/D (USA) (Disc I).cue",
+   "product": "T-8106H",
+   "disc": 1,
+   "total": 2,
+   "set": 7,
+   "alt": false
+  },
+  {
+   "path": "D (USA) (Disc II)/D (USA) (Disc II).cue",
+   "product": "T-8106H",
+   "disc": 2,
+   "total": 2,
+   "set": 7,
+   "alt": false
+  },
+  {
+   "path": "Deep Fear (Europe) (Disc 1)/Deep Fear (Europe) (Disc 1).cue",
+   "product": "MK-81804",
+   "disc": 1,
+   "total": 2,
+   "set": 8,
+   "alt": false
+  },
+  {
+   "path": "Deep Fear (Europe) (Disc 2)/Deep Fear (Europe) (Disc 2).cue",
+   "product": "MK-81804",
+   "disc": 2,
+   "total": 2,
+   "set": 8,
+   "alt": false
+  },
+  {
+   "path": "Double Switch (USA) (Disc 1)/Double Switch (USA) (Disc 1).cue",
+   "product": "T-16207H",
+   "disc": 1,
+   "total": 2,
+   "set": 9,
+   "alt": false
+  },
+  {
+   "path": "Double Switch (USA) (Disc 2)/Double Switch (USA) (Disc 2).cue",
+   "product": "T-16207H",
+   "disc": 2,
+   "total": 2,
+   "set": 9,
+   "alt": false
+  },
+  {
+   "path": "Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom)/Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom).cue",
+   "product": "T-1245G",
+   "disc": 1,
+   "total": 2,
+   "set": 10,
+   "alt": false
+  },
+  {
+   "path": "Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara)/Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara).cue",
+   "product": "T-1245G",
+   "disc": 2,
+   "total": 2,
+   "set": 10,
+   "alt": false
+  },
+  {
+   "path": "Dungeons & Dragons Collection - Tower of Doom (v1.0 + Arcade Soundtrack) - T-En/Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom).cue",
+   "product": "T-1245G",
+   "disc": 1,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Enemy Zero (USA) (Disc 0)/Enemy Zero (USA) (Disc 0).cue",
+   "product": "MK-81076",
+   "disc": 1,
+   "total": 4,
+   "set": 11,
+   "alt": false
+  },
+  {
+   "path": "Enemy Zero (USA) (Disc 1)/Enemy Zero (USA) (Disc 1).cue",
+   "product": "MK-81076",
+   "disc": 2,
+   "total": 4,
+   "set": 11,
+   "alt": false
+  },
+  {
+   "path": "Enemy Zero (USA) (Disc 2)/Enemy Zero (USA) (Disc 2).cue",
+   "product": "MK-81076",
+   "disc": 3,
+   "total": 4,
+   "set": 11,
+   "alt": false
+  },
+  {
+   "path": "Enemy Zero (USA) (Disc 3)/Enemy Zero (USA) (Disc 3).cue",
+   "product": "MK-81076",
+   "disc": 4,
+   "total": 4,
+   "set": 11,
+   "alt": false
+  },
+  {
+   "path": "Falcom Classics (Japan) (Disc 1) (Game Disc)/Falcom Classics (Japan) (Disc 1) (Game Disc).cue",
+   "product": "T-31503G",
+   "disc": 1,
+   "total": 2,
+   "set": 12,
+   "alt": false
+  },
+  {
+   "path": "Falcom Classics (Japan) (Disc 2) (Special CD)/Falcom Classics (Japan) (Disc 2) (Special CD).cue",
+   "product": "T-31503G",
+   "disc": 2,
+   "total": 2,
+   "set": 12,
+   "alt": false
+  },
+  {
+   "path": "Find Love 2 - Rhapsody (Japan) (Disc 1)/Find Love 2 - Rhapsody (Japan) (Disc 1).cue",
+   "product": "T-34605G",
+   "disc": 1,
+   "total": 2,
+   "set": 13,
+   "alt": false
+  },
+  {
+   "path": "Find Love 2 - Rhapsody (Japan) (Disc 2)/Find Love 2 - Rhapsody (Japan) (Disc 2).cue",
+   "product": "T-34605G",
+   "disc": 2,
+   "total": 2,
+   "set": 13,
+   "alt": false
+  },
+  {
+   "path": "Grandia (Japan) (Disc 1) (4M) [T-En by TrekkiesUnite118 v0.9.3 RC]/Grandia (Japan) (Disc 1) (4M) [T-En by TrekkiesUnite118 v0.9.3 RC].cue",
+   "product": "T-4507G",
+   "disc": 1,
+   "total": 2,
+   "set": 14,
+   "alt": false
+  },
+  {
+   "path": "Grandia (Japan) (Disc 2) (4M) [T-En by TrekkiesUnite118 v0.9.3 RC]/Grandia (Japan) (Disc 2) (4M) [T-En by TrekkiesUnite118 v0.9.3 RC].cue",
+   "product": "T-4507G",
+   "disc": 2,
+   "total": 2,
+   "set": 14,
+   "alt": false
+  },
+  {
+   "path": "Lunacy (USA) (Disc 1)/Lunacy (USA) (Disc 1).cue",
+   "product": "T-14403H",
+   "disc": 1,
+   "total": 2,
+   "set": 15,
+   "alt": false
+  },
+  {
+   "path": "Lunacy (USA) (Disc 2)/Lunacy (USA) (Disc 2).cue",
+   "product": "T-14403H",
+   "disc": 2,
+   "total": 2,
+   "set": 15,
+   "alt": false
+  },
+  {
+   "path": "Mr. Bones (USA) (Disc 1)/Mr. Bones (USA) (Disc 1).cue",
+   "product": "MK-81016",
+   "disc": 1,
+   "total": 2,
+   "set": 16,
+   "alt": false
+  },
+  {
+   "path": "Mr. Bones (USA) (Disc 2)/Mr. Bones (USA) (Disc 2).cue",
+   "product": "MK-81016",
+   "disc": 2,
+   "total": 2,
+   "set": 16,
+   "alt": false
+  },
+  {
+   "path": "Ousama Game (JP) (Disc 1)/Ousama Game (JP) (Ichigo) - CD1.cue",
+   "product": "T-21904G",
+   "disc": 1,
+   "total": 2,
+   "set": 17,
+   "alt": false
+  },
+  {
+   "path": "Ousama Game (JP) (Disc 2)/Ousama Game (JP) (Momo) - CD2.cue",
+   "product": "T-21904G",
+   "disc": 2,
+   "total": 2,
+   "set": 17,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA) (Disc 2)/Panzer Dragoon Saga (USA) (Disc 2).cue",
+   "product": "MK-81307",
+   "disc": 2,
+   "total": 4,
+   "set": 18,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA) (Disc 3)/Panzer Dragoon Saga (USA) (Disc 3).cue",
+   "product": "MK-81307",
+   "disc": 3,
+   "total": 4,
+   "set": 18,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA) (Disc 4)/Panzer Dragoon Saga (USA) (Disc 4).cue",
+   "product": "MK-81307",
+   "disc": 4,
+   "total": 4,
+   "set": 18,
+   "alt": false
+  },
+  {
+   "path": "Playboy - Karaoke Collection Volume 1 (Japan)/Playboy - Karaoke Collection Volume 1 (Japan).cue",
+   "product": "T-2305G",
+   "disc": 1,
+   "total": 2,
+   "set": 19,
+   "alt": false
+  },
+  {
+   "path": "Playboy - Karaoke Collection Volume 2 (Japan) (2M)/Playboy - Karaoke Collection Volume 2 (Japan) (2M).cue",
+   "product": "T-2305G",
+   "disc": 2,
+   "total": 2,
+   "set": 19,
+   "alt": false
+  },
+  {
+   "path": "Policenauts (Disc 1) (English v1.01) (AI Dub by Farkus)/POLICENAUTS_1.cue",
+   "product": "T-9510G",
+   "disc": 1,
+   "total": 3,
+   "set": 20,
+   "alt": true
+  },
+  {
+   "path": "Policenauts (Disc 1) (English v1.01)/POLICENAUTS_1.cue",
+   "product": "T-9510G",
+   "disc": 1,
+   "total": 3,
+   "set": 20,
+   "alt": false
+  },
+  {
+   "path": "Policenauts (Disc 2) (English v1.01)/POLICENAUTS_2.cue",
+   "product": "T-9510G",
+   "disc": 2,
+   "total": 3,
+   "set": 20,
+   "alt": false
+  },
+  {
+   "path": "Policenauts (Disc 3) (English v1.01)/POLICENAUTS_3.cue",
+   "product": "T-9510G",
+   "disc": 3,
+   "total": 3,
+   "set": 20,
+   "alt": false
+  },
+  {
+   "path": "Riven - The Sequel to Myst (Europe) (Disc 1)/Riven - The Sequel to Myst (Europe) (Disc 1).cue",
+   "product": "MK-81801",
+   "disc": 1,
+   "total": 4,
+   "set": 21,
+   "alt": false
+  },
+  {
+   "path": "Riven - The Sequel to Myst (Europe) (Disc 2)/Riven - The Sequel to Myst (Europe) (Disc 2).cue",
+   "product": "MK-81801",
+   "disc": 2,
+   "total": 4,
+   "set": 21,
+   "alt": false
+  },
+  {
+   "path": "Riven - The Sequel to Myst (Europe) (Disc 3)/Riven - The Sequel to Myst (Europe) (Disc 3).cue",
+   "product": "MK-81801",
+   "disc": 3,
+   "total": 4,
+   "set": 21,
+   "alt": false
+  },
+  {
+   "path": "Riven - The Sequel to Myst (Europe) (Disc 4)/Riven - The Sequel to Myst (Europe) (Disc 4).cue",
+   "product": "MK-81801",
+   "disc": 4,
+   "total": 4,
+   "set": 21,
+   "alt": false
+  },
+  {
+   "path": "Sacred Pools (Saturn) (Disk 1)/SACRED_POOLS_SATURN_DISK1.CUE",
+   "product": "SG0000000",
+   "disc": 1,
+   "total": 3,
+   "set": 22,
+   "alt": false
+  },
+  {
+   "path": "Sacred Pools (Saturn) (Disk 2)/SACRED_POOLS_SATURN_DISK2.CUE",
+   "product": "SG0000000",
+   "disc": 2,
+   "total": 3,
+   "set": 22,
+   "alt": false
+  },
+  {
+   "path": "Sacred Pools (Saturn) (Disk 3)/SACRED_POOLS_SATURN_DISK3.CUE",
+   "product": "SG0000000",
+   "disc": 3,
+   "total": 3,
+   "set": 22,
+   "alt": false
+  },
+  {
+   "path": "Sakura Wars (Japan) (Disc 1) [T-En by Sakura Wars Translation Project v1.00] [n]/Sakura Wars (Japan) (Disc 1) [T-En by Sakura Wars Translation Project v1.00] [n].cue",
+   "product": "GS-9037",
+   "disc": 1,
+   "total": 2,
+   "set": 23,
+   "alt": false
+  },
+  {
+   "path": "Sakura Wars (Japan) (Disc 2) [T-En by Sakura Wars Translation Project v1.00] [n]/Sakura Wars (Japan) (Disc 2) [T-En by Sakura Wars Translation Project v1.00] [n].cue",
+   "product": "GS-9037",
+   "disc": 2,
+   "total": 2,
+   "set": 23,
+   "alt": false
+  },
+  {
+   "path": "Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1)/Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1).cue",
+   "product": "T-14410G",
+   "disc": 1,
+   "total": 2,
+   "set": 24,
+   "alt": false
+  },
+  {
+   "path": "Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition)/Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition).cue",
+   "product": "T-14410G",
+   "disc": 2,
+   "total": 2,
+   "set": 24,
+   "alt": false
+  },
+  {
+   "path": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1) [T-En by In the Rose Garden v1.04]/Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1) [T-En by In the Rose Garden v1.04].cue",
+   "product": "GS-9182",
+   "disc": 1,
+   "total": 2,
+   "set": 25,
+   "alt": false
+  },
+  {
+   "path": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2) [T-En by In the Rose Garden v1.04]/Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2) [T-En by In the Rose Garden v1.04].cue",
+   "product": "GS-9182",
+   "disc": 2,
+   "total": 2,
+   "set": 25,
+   "alt": false
+  },
+  {
+   "path": "Street Fighter Collection (USA) (Disc 1)/Street Fighter Collection (USA) (Disc 1).cue",
+   "product": "T-1222H",
+   "disc": 1,
+   "total": 2,
+   "set": 26,
+   "alt": false
+  },
+  {
+   "path": "Street Fighter Collection (USA) (Disc 2)/Street Fighter Collection (USA) (Disc 2).cue",
+   "product": "T-1222H",
+   "disc": 2,
+   "total": 2,
+   "set": 26,
+   "alt": false
+  },
+  {
+   "path": "Street Fighter II Movie (Japan) (Disc 1)/Street Fighter II Movie (Japan) (Disc 1).cue",
+   "product": "T-1204G",
+   "disc": 1,
+   "total": 2,
+   "set": 27,
+   "alt": false
+  },
+  {
+   "path": "Street Fighter II Movie (Japan) (Disc 2)/Street Fighter II Movie (Japan) (Disc 2).cue",
+   "product": "T-1204G",
+   "disc": 2,
+   "total": 2,
+   "set": 27,
+   "alt": false
+  },
+  {
+   "path": "Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1)/Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1).cue",
+   "product": "T-5713G",
+   "disc": 1,
+   "total": 2,
+   "set": 28,
+   "alt": false
+  },
+  {
+   "path": "Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 2)/Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 2).cue",
+   "product": "T-5713G",
+   "disc": 2,
+   "total": 2,
+   "set": 28,
+   "alt": false
+  },
+  {
+   "path": "Thunder Storm & Road Blaster (Japan) (Disc 1) (Thunder Storm)/Thunder Storm & Road Blaster (Japan) (Disc 1) (Thunder Storm).cue",
+   "product": "T-20701G",
+   "disc": 2,
+   "total": 2,
+   "set": 29,
+   "alt": false
+  },
+  {
+   "path": "Thunder Storm & Road Blaster (Japan) (Disc 2) (Road Blaster)/Thunder Storm & Road Blaster (Japan) (Disc 2) (Road Blaster).cue",
+   "product": "T-20701G",
+   "disc": 1,
+   "total": 2,
+   "set": 29,
+   "alt": false
+  },
+  {
+   "path": "Time Gal & Ninja Hayate (Japan) (En,Ja) (Disc 1) (Time Gal)/Time Gal & Ninja Hayate (Japan) (En,Ja) (Disc 1) (Time Gal).cue",
+   "product": "T-20702G",
+   "disc": 1,
+   "total": 2,
+   "set": 30,
+   "alt": false
+  },
+  {
+   "path": "Time Gal & Ninja Hayate (Japan) (En,Ja) (Disc 2) (Ninja Hayate) (3M)/Time Gal & Ninja Hayate (Japan) (En,Ja) (Disc 2) (Ninja Hayate) (3M).cue",
+   "product": "T-20702G",
+   "disc": 2,
+   "total": 2,
+   "set": 30,
+   "alt": false
+  },
+  {
+   "path": "Twinkle Star Sprites (Japan) (Disc 1) (Game Disc)/Twinkle Star Sprites (Japan) (Disc 1) (Game Disc).cue",
+   "product": "T-37301G",
+   "disc": 1,
+   "total": 2,
+   "set": 31,
+   "alt": false
+  },
+  {
+   "path": "Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc)/Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc).cue",
+   "product": "T-37301G",
+   "disc": 2,
+   "total": 2,
+   "set": 31,
+   "alt": false
+  },
+  {
+   "path": "Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 1) (2M)/Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 1) (2M).cue",
+   "product": "T-1312G",
+   "disc": 1,
+   "total": 2,
+   "set": 32,
+   "alt": false
+  },
+  {
+   "path": "Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 2)/Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 2).cue",
+   "product": "T-1312G",
+   "disc": 2,
+   "total": 2,
+   "set": 32,
+   "alt": false
+  },
+  {
+   "path": "Wangan Dead Heat + Real Arrange (Japan) (Disc 1)/Wangan Dead Heat + Real Arrange (Japan) (Disc 1).cue",
+   "product": "T-9103G",
+   "disc": 1,
+   "total": 2,
+   "set": 33,
+   "alt": false
+  },
+  {
+   "path": "Wangan Dead Heat + Real Arrange (Japan) (Disc 2) (Addition)/Wangan Dead Heat + Real Arrange (Japan) (Disc 2) (Addition).cue",
+   "product": "T-9103G",
+   "disc": 2,
+   "total": 2,
+   "set": 33,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (Debug Menu)/Panzer Dragoon Saga (USA) (Disc 1)/Panzer Dragoon Saga (USA) (Disc 1).cue",
+   "product": "MK-81307",
+   "disc": 1,
+   "total": 4,
+   "set": 34,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (Debug Menu)/Panzer Dragoon Saga (USA) (Disc 2)/Panzer Dragoon Saga (USA) (Disc 2).cue",
+   "product": "MK-81307",
+   "disc": 2,
+   "total": 4,
+   "set": 34,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (Debug Menu)/Panzer Dragoon Saga (USA) (Disc 3)/Panzer Dragoon Saga (USA) (Disc 3).cue",
+   "product": "MK-81307",
+   "disc": 3,
+   "total": 4,
+   "set": 34,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (Debug Menu)/Panzer Dragoon Saga (USA) (Disc 4)/Panzer Dragoon Saga (USA) (Disc 4).cue",
+   "product": "MK-81307",
+   "disc": 4,
+   "total": 4,
+   "set": 34,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA - Debug)/Panzer Dragoon Saga (USA) (Disc 1)/Panzer Dragoon Saga (USA) (Disc 1).cue",
+   "product": "MK-81307",
+   "disc": 1,
+   "total": 4,
+   "set": 35,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA - Debug)/Panzer Dragoon Saga (USA) (Disc 2)/Panzer Dragoon Saga (USA) (Disc 2).cue",
+   "product": "MK-81307",
+   "disc": 2,
+   "total": 4,
+   "set": 35,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA - Debug)/Panzer Dragoon Saga (USA) (Disc 3)/Panzer Dragoon Saga (USA) (Disc 3).cue",
+   "product": "MK-81307",
+   "disc": 3,
+   "total": 4,
+   "set": 35,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA - Debug)/Panzer Dragoon Saga (USA) (Disc 4)/Panzer Dragoon Saga (USA) (Disc 4).cue",
+   "product": "MK-81307",
+   "disc": 4,
+   "total": 4,
+   "set": 35,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA) (Disc 1)/Panzer Dragoon Saga (USA) (Disc 1).cue",
+   "product": "MK-81307",
+   "disc": 1,
+   "total": 4,
+   "set": 18,
+   "alt": false
+  },
+  {
+   "path": "Panzer Dragoon Saga (USA) (Disc 1)/patched/Panzer Dragoon Saga (USA) (Disc 1).cue",
+   "product": "MK-81307",
+   "disc": 1,
+   "total": 4,
+   "set": 18,
+   "alt": true
+  },
+  {
+   "path": "PhantasM (JP) (Disc 1)/JP FILES/PhantasM (JP) - CD1.cue",
+   "product": "T-36001G",
+   "disc": 1,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 1)/PHANTASM_1.cue",
+   "product": "T-36001G",
+   "disc": 1,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 2)/JP FILES/PhantasM (JP) - CD2.cue",
+   "product": "T-36001G",
+   "disc": 2,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 2)/PHANTASM_2.cue",
+   "product": "T-36001G",
+   "disc": 2,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 3)/JP FILES/PhantasM (JP) - CD3.cue",
+   "product": "T-36001G",
+   "disc": 3,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 3)/PHANTASM_3.cue",
+   "product": "T-36001G",
+   "disc": 3,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 4)/JP FILES/PhantasM (JP) - CD4.cue",
+   "product": "T-36001G",
+   "disc": 4,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 4)/PHANTASM_4.cue",
+   "product": "T-36001G",
+   "disc": 4,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 5)/JP FILES/PhantasM (JP) - CD5.cue",
+   "product": "T-36001G",
+   "disc": 5,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 5)/PHANTASM_5.cue",
+   "product": "T-36001G",
+   "disc": 5,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 6)/JP FILES/PhantasM (JP) - CD6.cue",
+   "product": "T-36001G",
+   "disc": 6,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 6)/PHANTASM_6.cue",
+   "product": "T-36001G",
+   "disc": 6,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 7)/JP FILES/PhantasM (JP) - CD7.cue",
+   "product": "T-36001G",
+   "disc": 7,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 7)/PHANTASM_7.cue",
+   "product": "T-36001G",
+   "disc": 7,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 8)/JP FILES/PhantasM (JP) - CD8.cue",
+   "product": "T-36001G",
+   "disc": 8,
+   "total": 8,
+   "set": 36,
+   "alt": false
+  },
+  {
+   "path": "PhantasM (JP) (Disc 8)/PHANTASM_8.cue",
+   "product": "T-36001G",
+   "disc": 8,
+   "total": 8,
+   "set": 37,
+   "alt": false
+  },
+  {
+   "path": "!_NETLINK DRAGONS DREAM/Dragon's Dream (Japan).cue",
+   "product": "GS-7114",
+   "disc": 1,
+   "total": 1,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "!_NETLINK Sega Touring Car Championship (USA)/STC_GHOST_TEST.cue",
+   "product": "MK-81216",
+   "disc": 1,
+   "total": 1,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "!_Pseudo Saturn Kai - Flasher Utility/pskai_flasher_lite.cue",
+   "product": "T-042G",
+   "disc": 1,
+   "total": 1,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "!_Save Game Copier_!/game.cue",
+   "product": "SGC",
+   "disc": 1,
+   "total": 1,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "2do Aru Koto wa Sando R (Japan)/2do Aru Koto wa Sando R (Japan).cue",
+   "product": "T-6802G",
+   "disc": 1,
+   "total": 1,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "3D Baseball (USA)/3D Baseball (USA).cue",
+   "product": "T-15906H",
+   "disc": 1,
+   "total": 1,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "RPG/Grandia/disc1.cue",
+   "product": "T-4507G",
+   "disc": 1,
+   "total": 2,
+   "set": 38,
+   "alt": false
+  },
+  {
+   "path": "RPG/Grandia/disc2.cue",
+   "product": "T-4507G",
+   "disc": 2,
+   "total": 2,
+   "set": 38,
+   "alt": false
+  },
+  {
+   "path": "Homebrew/Alpha (Disc 1)/a.iso",
+   "product": "SG0000000",
+   "disc": 1,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Homebrew/Beta (Disc 2)/b.iso",
+   "product": "SG0000000",
+   "disc": 2,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Ten (Disc 1)/t.cue",
+   "product": "T-99901G",
+   "disc": 1,
+   "total": 10,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Ten (Disc 2)/t.cue",
+   "product": "T-99901G",
+   "disc": 2,
+   "total": 10,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Odd (Disc 3)/o.cue",
+   "product": "T-99902G",
+   "disc": 3,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Odd (Disc 1)/o.cue",
+   "product": "T-99902G",
+   "disc": 1,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Nocode (Disc 1)/n.cue",
+   "product": "",
+   "disc": 1,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Nocode (Disc 2)/n.cue",
+   "product": "",
+   "disc": 2,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Mag Vol. 1/m.iso",
+   "product": "t-99903g v1.000",
+   "disc": 1,
+   "total": 2,
+   "set": 39,
+   "alt": false
+  },
+  {
+   "path": "Mag Vol. 2/m.iso",
+   "product": "T-99903G",
+   "disc": 2,
+   "total": 2,
+   "set": 39,
+   "alt": false
+  },
+  {
+   "path": "Lone (Disc 1)/l.cue",
+   "product": "T-99904G",
+   "disc": 1,
+   "total": 3,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Disco Dancer (Disc 1)/x.cue",
+   "product": "T-99905G",
+   "disc": 1,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Discworld (Disc 2)/x.cue",
+   "product": "T-99905G",
+   "disc": 2,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "ゲーム (Disc 1)/a.cue",
+   "product": "T-99906G",
+   "disc": 1,
+   "total": 2,
+   "set": 40,
+   "alt": false
+  },
+  {
+   "path": "ゲーム (Disc 2)/a.cue",
+   "product": "T-99906G",
+   "disc": 2,
+   "total": 2,
+   "set": 40,
+   "alt": false
+  },
+  {
+   "path": "Full (Disc 1)/f.cue",
+   "product": "T-99907G",
+   "disc": 1,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "Full (Disc ２)/f.cue",
+   "product": "T-99907G",
+   "disc": 2,
+   "total": 2,
+   "set": 0,
+   "alt": false
+  },
+  {
+   "path": "😀 (Disc 1)/e.iso",
+   "product": "T-99908G",
+   "disc": 1,
+   "total": 2,
+   "set": 41,
+   "alt": false
+  },
+  {
+   "path": "😀 (Disc 2)/e.iso",
+   "product": "T-99908G",
+   "disc": 2,
+   "total": 2,
+   "set": 41,
+   "alt": false
+  }
+ ]
+}

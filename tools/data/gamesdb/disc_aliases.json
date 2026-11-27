@@ -1,0 +1,28 @@
+{
+ "source": "Task 18e. IP.BIN product numbers (0x20, ST-040-R4 §4.2) that differ from the catalogue number GAMES.DB keys the game by. 'measured' rows were read from the user's own discs on 2026-11-24 (System ID only); 'kai' rows come from PSKai v6.545 autoset.c IP dumps via tools/data/compat/loader_compat.json and are not checked against a disc. Each target is the GAMES.DB key whose title is the same game (Cover Project sheet or libretro DAT).",
+ "schema": "aliases: product (as the disc carries it), key (GAMES.DB key), title, evidence. same_disc_keep: key -> why that key is kept when the libretro DAT shows several keys are one disc (omsat.dbextra.collapse_same_disc).",
+ "aliases": [
+  {"product": "MK-81204", "key": "81205", "title": "Cyber Speedway (USA)", "evidence": "measured (IP 'MK-81204V1')"},
+  {"product": "MK-81002", "key": "81102", "title": "NHL All-Star Hockey (USA)", "evidence": "measured"},
+  {"product": "T-30403H", "key": "14003", "title": "Scud - The Disposable Assassin (USA)", "evidence": "measured; also kai"},
+  {"product": "MK-60691", "key": "14003", "title": "Scud - The Disposable Assassin", "evidence": "kai"},
+  {"product": "T-30401H", "key": "14002", "title": "Three Dirty Dwarves (USA)", "evidence": "measured"},
+  {"product": "T-18601H", "key": "81211", "title": "WipEout (USA)", "evidence": "measured; also kai"},
+  {"product": "T-10001G", "key": "T-10001H", "title": "In the Hunt (USA)", "evidence": "measured"},
+  {"product": "T-319-01H", "key": "80118D", "title": "Net Link Custom Web Browser Version 3.0 (PlanetWeb 1.135)", "evidence": "measured (IP title 'PlanetWeb Internet Browser v. 1.135')"},
+  {"product": "SEGAVIEWER", "key": "MK81681-50", "title": "Photo CD Operating System (Europe)", "evidence": "measured (IP title ends 'MK-81681')"},
+  {"product": "T-159028H", "key": "T-15902H", "title": "Slam 'n Jam '96 - Signature Edition (USA)", "evidence": "measured"},
+  {"product": "T-25411450", "key": "T-25411H-50", "title": "Trash It (Europe)", "evidence": "measured"},
+  {"product": "T-9515H-50", "key": "T-9514H-50", "title": "Whizz (Europe)", "evidence": "measured"},
+  {"product": "T-13301H", "key": "T-13301H-06", "title": "Dragon Ball Z - La Grande Legende des Boules de Cristal (France, Spain)", "evidence": "measured; the DAT lists both T-13301H-06 and T-13301H-09 for this one release"},
+  {"product": "SG-7103", "key": "GS-7103", "title": "Virtua Fighter Remix for SegaNet (Japan)", "evidence": "measured (NetLink-patched image)"},
+  {"product": "GM-81004", "key": "81004", "title": "Bug! (USA)", "evidence": "measured"},
+  {"product": "T-8120H-50", "key": "T-8151H-50", "title": "NBA Jam Extreme (Europe)", "evidence": "kai (area E)"},
+  {"product": "6106749", "key": "GS-9076", "title": "Azel - Panzer Dragoon RPG (Japan)", "evidence": "kai (area J)"},
+  {"product": "6106762", "key": "T-18807G", "title": "DJ Wars (Japan)", "evidence": "kai (area J)"},
+  {"product": "MK-81000", "key": "81010", "title": "Congo - The Movie (USA)", "evidence": "kai (IP title 'CONGO', area UT)"}
+ ],
+ "same_disc_keep": {
+  "81207": "measured: Sega Rally Championship (USA) carries 'MK-81207'; the DAT gives 80012 and 81207 the same track 1 (31,347,456 B, CRC E7A06577)"
+ }
+}

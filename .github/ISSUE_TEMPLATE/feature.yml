@@ -1,0 +1,407 @@
+name: Feature request
+description: "Something you'd like Aether or the Card Manager to do."
+title: "[Feature] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: wish
+    attributes:
+      label: What would you like?
+      placeholder: Let me sort the list by release year...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why? What problem does it solve?
+      placeholder: "With 700 games I can't find the ones from one year."
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where does it fit?
+      options:
+        - The menu on the console
+        - The Card Manager
+        - Both
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: An example or reference
+      placeholder: "Optional: another menu or app that does this, a sketch, a link"
+  - type: dropdown
+    id: saturn-model
+    attributes:
+      label: Saturn model
+      description: "Look at the console's shape (oval or round Power/Reset buttons) and the model number on the label underneath (e.g. MK-80000, HST-3200, HST-3220)."
+      options:
+        - Model 1 (oval buttons)
+        - Model 2 (round buttons)
+        - Japanese white
+        - Japanese grey
+        - Japanese skeleton
+        - Hi-Saturn (Hitachi)
+        - V-Saturn (Victor)
+        - Samsung Saturn
+        - Sega Saturn with a modded BIOS or region switch
+        - "I don't know"
+        - Other (describe)
+  - type: input
+    id: saturn-model-other
+    attributes:
+      label: Other model (describe)
+      description: Only when Saturn model is Other (describe).
+      placeholder: What it is
+  - type: input
+    id: model-number
+    attributes:
+      label: Model number from the label
+      description: "Your setup: console."
+      placeholder: e.g. HST-3220
+  - type: dropdown
+    id: console-region
+    attributes:
+      label: Console region
+      description: "Your setup: console."
+      options:
+        - Japan
+        - USA
+        - Europe
+        - Asia
+        - Brazil
+        - Korea
+        - "I don't know"
+  - type: dropdown
+    id: region-mod
+    attributes:
+      label: Region mod or switch
+      description: "Your setup: console."
+      options:
+        - None
+        - Region switch
+        - Modchip
+        - Modded BIOS
+        - "I don't know"
+  - type: dropdown
+    id: hz-switch
+    attributes:
+      label: 50/60 Hz switch
+      description: "Your setup: console."
+      options:
+        - None
+        - 50 Hz
+        - 60 Hz
+        - "I don't know"
+  - type: dropdown
+    id: battery
+    attributes:
+      label: Internal battery last changed
+      description: "Your setup: console health."
+      options:
+        - Never / original
+        - Within a year
+        - 1-3 years
+        - Over 3 years
+        - "I don't know"
+  - type: dropdown
+    id: clock-prompt
+    attributes:
+      label: Does the console ask you to set the clock at power on?
+      description: "Your setup: console health."
+      options:
+        - Yes
+        - No
+  - type: dropdown
+    id: psu
+    attributes:
+      label: Power supply
+      description: "Your setup: console health."
+      options:
+        - Original
+        - Original, recapped
+        - Aftermarket replacement PSU
+        - Step-down transformer only (Japanese console abroad)
+        - "I don't know"
+  - type: input
+    id: psu-name
+    attributes:
+      label: Replacement PSU (name or brand)
+      description: Only when Power supply is Aftermarket replacement PSU.
+      placeholder: e.g. a Saturn PSU replacement board
+  - type: checkboxes
+    id: mods
+    attributes:
+      label: Console mods
+      description: "Your setup: console mods."
+      options:
+        - label: None
+        - label: Recapped mainboard
+        - label: Region switch or modchip
+        - label: Modded BIOS / BIOS switch
+        - label: 50/60 Hz switch
+        - label: RGB/video mod
+        - label: Quiet or replacement fan
+        - label: Clock battery holder mod
+        - label: ODE other than Satiator also installed
+        - label: Controller port or expansion mods
+        - label: Other
+  - type: input
+    id: mods-video
+    attributes:
+      label: RGB/video mod (name it)
+      description: Only when Console mods is RGB/video mod.
+      placeholder: e.g. a built-in RGB or HDMI kit
+  - type: dropdown
+    id: mods-ode
+    attributes:
+      label: Other ODE installed
+      description: Only when Console mods is ODE other than Satiator also installed.
+      options:
+        - Fenrir
+        - Rhea/Phoebe
+        - MODE
+        - Other
+  - type: input
+    id: mods-other
+    attributes:
+      label: Other mods (describe)
+      description: Only when Console mods is Other.
+  - type: dropdown
+    id: cart
+    attributes:
+      label: Cartridge slot
+      description: "Your setup: cartridge slot."
+      options:
+        - None
+        - 1MB RAM
+        - 4MB RAM
+        - Backup memory cart
+        - Action Replay / Pro Action Replay
+        - NetLink modem
+        - Other (describe)
+  - type: input
+    id: cart-backup-size
+    attributes:
+      label: Backup memory cart size
+      description: Only when Cartridge slot is Backup memory cart.
+      placeholder: e.g. 4 Mbit
+  - type: dropdown
+    id: cart-ar
+    attributes:
+      label: Action Replay
+      description: Only when Cartridge slot is Action Replay / Pro Action Replay.
+      options:
+        - Stock
+        - Flashed with Pseudo Saturn Kai
+        - 4-in-1
+        - Other
+  - type: input
+    id: cart-other
+    attributes:
+      label: Other cartridge (describe)
+      description: Only when Cartridge slot is Other (describe).
+  - type: dropdown
+    id: port1
+    attributes:
+      label: Port 1
+      description: "Your setup: controller ports."
+      options:
+        - None
+        - Standard pad (Model 1 style)
+        - Standard pad (Model 2 / Japanese style)
+        - 3D Control Pad
+        - Arcade Racer
+        - Mission Stick
+        - Virtua Gun / Stunner
+        - Shuttle Mouse
+        - Keyboard (NetLink)
+        - Multitap (6 Player)
+        - Wireless pad
+        - Third-party pad
+        - USB adapter / other
+  - type: dropdown
+    id: port1-3d-mode
+    attributes:
+      label: "Port 1: 3D Control Pad mode switch"
+      description: Only when Port 1 is 3D Control Pad.
+      options:
+        - Analog (○)
+        - Digital (+)
+        - "I don't know"
+  - type: dropdown
+    id: port1-stick
+    attributes:
+      label: "Port 1: Mission Stick"
+      description: Only when Port 1 is Mission Stick.
+      options:
+        - Single
+        - Dual
+  - type: dropdown
+    id: port1-tap-count
+    attributes:
+      label: "Port 1: controllers on the multitap"
+      description: Only when Port 1 is Multitap (6 Player).
+      options:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+  - type: input
+    id: port1-tap-types
+    attributes:
+      label: "Port 1: the multitap's controllers"
+      description: Only when Port 1 is Multitap (6 Player).
+      placeholder: e.g. 4 standard pads, 1 3D Control Pad
+  - type: input
+    id: port1-name
+    attributes:
+      label: "Port 1: which one"
+      description: Only when Port 1 is Third-party pad or USB adapter / other.
+      placeholder: e.g. 8BitDo M30 2.4G, Retro-Bit
+  - type: dropdown
+    id: port2
+    attributes:
+      label: Port 2
+      description: "Your setup: controller ports."
+      options:
+        - None
+        - Standard pad (Model 1 style)
+        - Standard pad (Model 2 / Japanese style)
+        - 3D Control Pad
+        - Arcade Racer
+        - Mission Stick
+        - Virtua Gun / Stunner
+        - Shuttle Mouse
+        - Keyboard (NetLink)
+        - Multitap (6 Player)
+        - Wireless pad
+        - Third-party pad
+        - USB adapter / other
+  - type: dropdown
+    id: port2-3d-mode
+    attributes:
+      label: "Port 2: 3D Control Pad mode switch"
+      description: Only when Port 2 is 3D Control Pad.
+      options:
+        - Analog (○)
+        - Digital (+)
+        - "I don't know"
+  - type: dropdown
+    id: port2-stick
+    attributes:
+      label: "Port 2: Mission Stick"
+      description: Only when Port 2 is Mission Stick.
+      options:
+        - Single
+        - Dual
+  - type: dropdown
+    id: port2-tap-count
+    attributes:
+      label: "Port 2: controllers on the multitap"
+      description: Only when Port 2 is Multitap (6 Player).
+      options:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+  - type: input
+    id: port2-tap-types
+    attributes:
+      label: "Port 2: the multitap's controllers"
+      description: Only when Port 2 is Multitap (6 Player).
+      placeholder: e.g. 4 standard pads, 1 3D Control Pad
+  - type: input
+    id: port2-name
+    attributes:
+      label: "Port 2: which one"
+      description: Only when Port 2 is Third-party pad or USB adapter / other.
+      placeholder: e.g. 8BitDo M30 2.4G, Retro-Bit
+  - type: dropdown
+    id: link-cable
+    attributes:
+      label: Link cable (Taisen / Communication cable) connected
+      description: "Your setup: link and online."
+      options:
+        - Yes
+        - No
+  - type: dropdown
+    id: netlink
+    attributes:
+      label: Modem
+      description: "Your setup: link and online."
+      options:
+        - None
+        - JP XBAND Modem
+        - US NetLink Modem
+  - type: dropdown
+    id: video-cable
+    attributes:
+      label: Video cable
+      description: "Your setup: video."
+      options:
+        - Composite
+        - S-Video
+        - RGB SCART
+        - Component (via transcoder)
+        - Other
+  - type: dropdown
+    id: scaler
+    attributes:
+      label: Through an upscaler or scaler?
+      description: "Your setup: video."
+      options:
+        - None
+        - RetroTINK
+        - OSSC
+        - Framemeister
+        - Morph
+        - Other
+  - type: dropdown
+    id: display
+    attributes:
+      label: Display
+      description: "Your setup: video."
+      options:
+        - CRT
+        - Flat TV
+        - Monitor
+  - type: input
+    id: satiator-firmware
+    attributes:
+      label: Satiator firmware
+      description: "The version Aether's diagnostics page shows, e.g. FW163."
+      placeholder: e.g. FW163
+  - type: textarea
+    id: card
+    attributes:
+      label: SD card
+      description: Filled in by the Card Manager.
+      placeholder: Filled in from the open card
+  - type: input
+    id: aether-version
+    attributes:
+      label: Aether version
+      description: "Shown bottom-right on the startup screen, or in the Card Manager's report."
+    validations:
+      required: true
+  - type: input
+    id: card-manager-version
+    attributes:
+      label: Card Manager version
+      description: "Help > About in the Card Manager."
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: e.g. Windows 11 (X64)
+    validations:
+      required: true

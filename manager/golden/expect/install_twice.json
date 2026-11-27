@@ -1,0 +1,95 @@
+{
+ "omsat_pin": "f2a7d4b",
+ "reports": [
+  {
+   "backups": [],
+   "cheats": null,
+   "copied": [
+    "GAMES.DB",
+    "ART.PAK",
+    "LIBRARY.IDX",
+    "LAUNCHER.BIN",
+    "VRTILES.BIN",
+    "autoboot.iso"
+   ],
+   "leftovers": [],
+   "menu_bin_present": false,
+   "menu_bin_unchanged": true,
+   "old_openmenu_folder_untouched": false,
+   "warnings": []
+  },
+  {
+   "backups": [
+    "autoboot.iso.bak-20261122-120000"
+   ],
+   "cheats": null,
+   "copied": [
+    "GAMES.DB",
+    "ART.PAK",
+    "LIBRARY.IDX",
+    "LAUNCHER.BIN",
+    "VRTILES.BIN",
+    "autoboot.iso"
+   ],
+   "leftovers": [],
+   "menu_bin_present": false,
+   "menu_bin_unchanged": true,
+   "old_openmenu_folder_untouched": false,
+   "warnings": []
+  }
+ ],
+ "source": "omsat.install.install (mkinstall.py)",
+ "stamp": "20261122-120000",
+ "tree": [
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/ART.PAK",
+   "sha256": "ee99dd345d49db9210750a890639a2d13c457a1153aa5eb443bd6f45f644063f",
+   "size": 4096
+  },
+  {
+   "path": "aether/GAMES.DB",
+   "sha256": "e213dcef2f4e4219f60a0e42c0757fa92903bf3388a6350945878f44d2ff3ec8",
+   "size": 900
+  },
+  {
+   "path": "aether/LAUNCHER.BIN",
+   "sha256": "86ceb075b2fe5e0d50f1652597bd7591f11e1f597a59ca4baaa5cdde3cfb2a5a",
+   "size": 4396
+  },
+  {
+   "path": "aether/LIBRARY.IDX",
+   "sha256": "51792feb76e2b0d9ad46b48d1220a4c12547b7cbca78e2d75c284bd3e816193a",
+   "size": 333
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/VRTILES.BIN",
+   "sha256": "4d301a520fbcf21b16dcda791e4d9e7b28940baac2d8a24dc62935148eff3699",
+   "size": 700
+  },
+  {
+   "path": "autoboot.cue",
+   "sha256": "1fe7252aefa28d5e23031b5280100ef75410fe71826dba50639615f3f8b52b08",
+   "size": 17
+  },
+  {
+   "path": "autoboot.iso",
+   "sha256": "a67f20a44bea221c0d198f1840e4f0926d549bffe070112e791ead5a9e08b192",
+   "size": 5000
+  },
+  {
+   "path": "autoboot.iso.bak-20261122-120000",
+   "sha256": "a67f20a44bea221c0d198f1840e4f0926d549bffe070112e791ead5a9e08b192",
+   "size": 5000
+  }
+ ]
+}

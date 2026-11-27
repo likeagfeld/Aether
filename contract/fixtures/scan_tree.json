@@ -1,0 +1,211 @@
+{
+  "build_date": 20261117,
+  "tree": {
+    "": {
+      "dirs": [
+        "Racing",
+        "RPG",
+        "openmenu",
+        "Homebrew",
+        "Empty",
+        "Deep",
+        "satiator-rings-old"
+      ],
+      "files": [
+        "menu.bin",
+        "autoboot.iso",
+        "loose.iso"
+      ]
+    },
+    "satiator-rings-old": {
+      "dirs": [],
+      "files": [
+        "x.iso"
+      ]
+    },
+    "Racing": {
+      "dirs": [
+        "Daytona USA",
+        "Sega Rally"
+      ],
+      "files": []
+    },
+    "Racing/Daytona USA": {
+      "dirs": [],
+      "files": [
+        "daytona.cue",
+        "daytona.bin",
+        "Daytona.ISO",
+        "BOX.TGA"
+      ]
+    },
+    "Racing/Sega Rally": {
+      "dirs": [],
+      "files": [
+        "rally.iso"
+      ]
+    },
+    "RPG": {
+      "dirs": [
+        "Grandia"
+      ],
+      "files": []
+    },
+    "RPG/Grandia": {
+      "dirs": [],
+      "files": [
+        "disc1.cue",
+        "disc2.cue",
+        "disc1.bin",
+        "disc2.bin"
+      ]
+    },
+    "Homebrew": {
+      "dirs": [
+        "openmenu"
+      ],
+      "files": [
+        "a.iso",
+        "b.iso",
+        "autoboot.cue",
+        "BOX.TGA"
+      ]
+    },
+    "Homebrew/openmenu": {
+      "dirs": [],
+      "files": [
+        "game.iso"
+      ]
+    },
+    "Empty": {
+      "dirs": [],
+      "files": []
+    },
+    "openmenu": {
+      "dirs": [],
+      "files": [
+        "GAMES.DB"
+      ]
+    },
+    "Deep": {
+      "dirs": [
+        "L2"
+      ],
+      "files": []
+    },
+    "Deep/L2": {
+      "dirs": [
+        "L3"
+      ],
+      "files": []
+    },
+    "Deep/L2/L3": {
+      "dirs": [
+        "L4"
+      ],
+      "files": []
+    },
+    "Deep/L2/L3/L4": {
+      "dirs": [
+        "L5"
+      ],
+      "files": []
+    },
+    "Deep/L2/L3/L4/L5": {
+      "dirs": [
+        "L6"
+      ],
+      "files": []
+    },
+    "Deep/L2/L3/L4/L5/L6": {
+      "dirs": [
+        "L7"
+      ],
+      "files": []
+    },
+    "Deep/L2/L3/L4/L5/L6/L7": {
+      "dirs": [
+        "L8"
+      ],
+      "files": []
+    },
+    "Deep/L2/L3/L4/L5/L6/L7/L8": {
+      "dirs": [
+        "L9"
+      ],
+      "files": []
+    },
+    "Deep/L2/L3/L4/L5/L6/L7/L8/L9": {
+      "dirs": [],
+      "files": []
+    }
+  },
+  "cues": {
+    "Racing/Daytona USA/daytona.cue": [
+      "daytona.bin",
+      "daytona.iso"
+    ],
+    "RPG/Grandia/disc1.cue": [
+      "disc1.bin"
+    ],
+    "RPG/Grandia/disc2.cue": [
+      "disc2.bin"
+    ]
+  },
+  "sysids": {
+    "loose.iso": {
+      "product": "T-8113H",
+      "area": "U",
+      "device": "CD-1/1",
+      "title": "ALIEN TRILOGY"
+    },
+    "Racing/Daytona USA/daytona.cue": {
+      "product": "GS-9001",
+      "area": "JTUE",
+      "device": "CD-1/1",
+      "title": "DAYTONA USA"
+    },
+    "Racing/Sega Rally/rally.iso": {
+      "product": "GS-9047",
+      "area": "JTUE",
+      "device": "CD-1/1",
+      "title": "SEGA RALLY"
+    },
+    "RPG/Grandia/disc1.cue": {
+      "product": "T-4507G",
+      "area": "J",
+      "device": "CD-1/2",
+      "title": "GRANDIA"
+    },
+    "RPG/Grandia/disc2.cue": {
+      "product": "T-4507G",
+      "area": "J",
+      "device": "CD-2/2",
+      "title": "GRANDIA"
+    },
+    "Homebrew/a.iso": {
+      "product": "HB-0001",
+      "area": "JTUE",
+      "device": "CD-1/1",
+      "title": "A"
+    },
+    "Homebrew/b.iso": {
+      "product": "HB-0002",
+      "area": "JTUE",
+      "device": "CD-1/1",
+      "title": "B"
+    },
+    "Homebrew/autoboot.cue": {
+      "product": "HB-0003",
+      "area": "JTUE",
+      "device": "CD-1/1",
+      "title": "AUTOBOOT"
+    },
+    "Homebrew/openmenu/game.iso": {
+      "product": "HB-0004",
+      "area": "JTUE",
+      "device": "CD-1/1",
+      "title": "OPENMENU"
+    }
+  }
+}

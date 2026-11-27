@@ -1,0 +1,5 @@
+{
+ "source": "none found: to be measured on hardware",
+ "searched": "2026-11-20: PSKai v6.545 source tree (grep -i netlink|modem|xband: 0 hits in pseudosat_kai except one game-title comment in autoset.c; satcom_lib/iapetus/modem/netlink.h is a modem driver, no save names), PSKai main readme (NetLink 0, modem 0, XBAND 0 of 4,994 lines), a homebrew NetLink example (its only BUP name, NLTEST_LOG, is the homebrew's own debug log, not a retail NetLink setting), the XBAND patch ports (they wrap the BUP vectors 0x06000354/358 and name no shared save file).",
+ "patterns": []
+}

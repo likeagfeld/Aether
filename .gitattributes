@@ -1,0 +1,13 @@
+* text=auto eol=lf
+*.bin binary
+*.BIN binary
+*.pak binary
+*.db binary
+*.idx binary
+*.iso binary
+*.png binary
+*.tga binary
+*.xlsx binary
+*.mus binary
+*.MUS binary
+menu/launcher/kai/*.s -text

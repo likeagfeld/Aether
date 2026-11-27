@@ -1,0 +1,1335 @@
+{
+  "counts": {
+    "exact": 98,
+    "fuzzy": 13,
+    "unmatched": 11,
+    "products": 111,
+    "jhl_only": 1,
+    "igr_conflict": 92,
+    "collisions": 0,
+    "collisions_unresolved": 0
+  },
+  "games": [
+    {
+      "kai_name": "ASTAL - JAP",
+      "products": [
+        "GS-9019"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "BATTLE ARENA TOSHINDEN REMIX -  UK",
+      "products": [
+        "MK81029-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "BATTLE ARENA TOSHINDEN REMIX - USA",
+      "products": [
+        "81029"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "BATTLE MONSTERS - JAP",
+      "products": [
+        "T-18701G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "BIG HURT BASEBALL - USA",
+      "products": [
+        "T-8138H"
+      ],
+      "how": "fuzzy:0.72",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "BLUE SEED - JAP",
+      "products": [
+        "GS-9014"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 13
+    },
+    {
+      "kai_name": "BUG! - USA",
+      "products": [
+        "81004"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "CLASSMATE IF - JAP",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "CLOCKWORK KNIGHT -  UK",
+      "products": [
+        "MK81007-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "CLOCKWORK KNIGHT 2 - JAP",
+      "products": [
+        "GS-9029"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "CYBER SPEEDWAY - USA",
+      "products": [
+        "81205"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "CYBERSLED - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "DAYTONA USA -  UK",
+      "products": [
+        "MK81200-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "DAYTONA USA - JAP",
+      "products": [
+        "GS-9013"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "DEADALUS - JAP",
+      "products": [
+        "GS-9008"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "F1 CHALLENGE -  UK",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "GALACTIC ATTACK - USA",
+      "products": [
+        "T-8116H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "GALAXY FIGHT - USA",
+      "products": [
+        "T-1504H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "GEX - USA",
+      "products": [
+        "T-15904H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "GREATEST NINE - JAP",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "IDOL JANSI SUCHIE (PS) - JAP",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "IN THE HUNT - USA",
+      "products": [
+        "T-10001H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "IRON STORM - USA",
+      "products": [
+        "T-12701H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "JOHNNY BAZOOKATONE - USA",
+      "products": [
+        "T-7909H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "LAST GLADIATORS - JAP",
+      "products": [
+        "T-18901G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "LAYER SECTION - JAP",
+      "products": [
+        "T-1101G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "MAGIC CARPET -  UK",
+      "products": [
+        "T-5006H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "NIGHT WARRIORS - USA",
+      "products": [
+        "T-1208H"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "OUTLAWS OF THE LOST DYNASTY - JAP",
+      "products": [],
+      "how": "unmatched",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "PANZER DRAGOON - JAP",
+      "products": [
+        "GS-9015"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "PANZER DRAGOON -  UK",
+      "products": [
+        "MK81009-50"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "PANZER DRAGOON - USA",
+      "products": [
+        "81009"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "PANZER DRAGOON 2 - USA",
+      "products": [
+        "81022"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "PRETTY FIGHTER X - JAP",
+      "products": [
+        "T-15001G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "RACE DRIVIN - JAP",
+      "products": [
+        "T-4802G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "RAYMAN -  UK",
+      "products": [
+        "T-17701H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "ROBOTICA - USA",
+      "products": [
+        "T-8104H"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "SIM CITY 2000 -  UK",
+      "products": [
+        "MK81580-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "SKELETON WARRIORS - USA",
+      "products": [
+        "T-13204H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SLAM-N-JAM - USA",
+      "products": [
+        "T-15902H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SOLAR ECLIPSE - USA",
+      "products": [
+        "T-15911H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SWORD & SORCERY - JAP",
+      "products": [
+        "T-5202G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "VAMPIRE HUNTER - JAP",
+      "products": [
+        "T-1202G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SHINOBI - JAP",
+      "products": [
+        "GS-9010"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "STREET FIGHTER MOVIE - JAP",
+      "products": [
+        "T-1201G"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "SHINING WISDOM - JAP",
+      "products": [
+        "GS-9057"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 41
+    },
+    {
+      "kai_name": "SLAMDUNK - JAP",
+      "products": [
+        "T-13301G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER -  UK",
+      "products": [
+        "MK81005-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER - JAP",
+      "products": [
+        "GS-9001"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER - USA",
+      "products": [
+        "81005"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER REMIX - JAP",
+      "products": [
+        "GS-9039"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "GRAN CHASER - JAP",
+      "products": [
+        "GS-9022"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "MINISOTA FATS POOL LEGEND - USA",
+      "products": [
+        "T-1302H"
+      ],
+      "how": "fuzzy:0.94",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "NFL QUARTERBACK CLUB - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "NHL ALL-STAR HOCKEY - USA",
+      "products": [
+        "81102"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "OFF WORLD INTERCEPTOR EXT - USA",
+      "products": [
+        "T-15908H"
+      ],
+      "how": "fuzzy:0.93",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "PARODIUS - JAP",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "RAYMAN - USA",
+      "products": [
+        "T-17701H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SIM CITY 2000 - USA",
+      "products": [
+        "T-12601H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "STREET FIGHTER MOVIE - USA",
+      "products": [
+        "T-8105H"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "THEME PARK - USA",
+      "products": [
+        "T-5001H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VICTORY GOAL - JAP",
+      "products": [
+        "GS-9002"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "VIRTUAL HYDLIDE - JAP",
+      "products": [
+        "GS-9012"
+      ],
+      "how": "exact",
+      "location": "0602B308",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "VIRTUA RACING - USA",
+      "products": [
+        "T-4801H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "SHINOBI - USA",
+      "products": [
+        "T-2301H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "ROMANCE OF THE 3 KINGDOMS IV - USA",
+      "products": [
+        "T-7601H"
+      ],
+      "how": "fuzzy:0.74",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "CORPSE KILLER - USA",
+      "products": [
+        "T-16201H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "DAYTONA USA - USA",
+      "products": [
+        "81200"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "ASTAL - USA",
+      "products": [
+        "81019"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VIRTUA COP - USA",
+      "products": [
+        "81015"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "SEGA RALLY - USA",
+      "products": [
+        "81207"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "NBA JAM TE - USA",
+      "products": [
+        "T-8102H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "DARK LEGEND - USA",
+      "products": [
+        "T-1305H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER 2 - JAP",
+      "products": [
+        "GS-9079"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "VIRTUA COP - JAP",
+      "products": [
+        "GS-9060"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER 2 - USA",
+      "products": [
+        "81014"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "SHINOBI X -  UK",
+      "products": [
+        "MK81082-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "VICTORY BOXING -  UK",
+      "products": [
+        "T-6005H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "SEGA RALLY -  UK",
+      "products": [
+        "MK81207-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "DIGITAL PINBALL -  UK",
+      "products": [
+        "MK81680-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VIRTUA RACING -  UK",
+      "products": [
+        "T-4801H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VIRTUA COP -  UK",
+      "products": [
+        "MK81015-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER 2 -  UK",
+      "products": [
+        "MK81014-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 7
+    },
+    {
+      "kai_name": "NHL QUARTERBACK CLUB - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "VIRTUA FIGHTER REMIX - USA",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "MORTAL KOMBAT 2 - USA",
+      "products": [
+        "T-8103H"
+      ],
+      "how": "fuzzy:0.90",
+      "location": "06002800",
+      "jhl_only": true,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "HANG ON - USA",
+      "products": [
+        "81202"
+      ],
+      "how": "fuzzy:0.82",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "LAST GLADIATORS - USA",
+      "products": [
+        "T-4804H"
+      ],
+      "how": "fuzzy:0.65",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "THE HORDE - USA",
+      "products": [
+        "T-15909H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "CLOCKWORK KNIGHT 2 -  UK",
+      "products": [
+        "MK81021-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "HI-OCTANE - USA",
+      "products": [
+        "T-5002H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "CYBERIA - USA",
+      "products": [
+        "T-12508H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "WINGARMS - JAP",
+      "products": [
+        "GS-9038"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "WINGARMS -  UK",
+      "products": [
+        "MK81024-50"
+      ],
+      "how": "fuzzy:0.94",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "CLOCKWORK KNIGHT -  JAP",
+      "products": [
+        "GS-9004"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "CLOCKWORK KNIGHT -  USA",
+      "products": [
+        "81007"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "KAITEI DAISENSOU - JAP",
+      "products": [
+        "T-15006G"
+      ],
+      "how": "fuzzy:0.54",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 13
+    },
+    {
+      "kai_name": "D - USA",
+      "products": [
+        "T-8106H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "THEME PARK -  UK",
+      "products": [
+        "T-5001H-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 3
+    },
+    {
+      "kai_name": "DARIUS GAIDEN - USA",
+      "products": [
+        "T-8123H"
+      ],
+      "how": "exact",
+      "location": "060FF000",
+      "jhl_only": false,
+      "igr_conflict": false,
+      "num_cheats": 10
+    },
+    {
+      "kai_name": "BASES LOADED 96 - USA",
+      "products": [
+        "T-5703H"
+      ],
+      "how": "fuzzy:0.68",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "GHEN WAR - USA",
+      "products": [
+        "81001"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 6
+    },
+    {
+      "kai_name": "REVOLUTION X - USA",
+      "products": [
+        "T-8107H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "COLLEGE SLAM - USA",
+      "products": [
+        "T-8111H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "GUARDIAN HEROES -  UK",
+      "products": [
+        "MK81035-50"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 8
+    },
+    {
+      "kai_name": "2D0 ARUKOTOWA SANDOAHRU - JAP",
+      "products": [
+        "T-6802G"
+      ],
+      "how": "fuzzy:0.78",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "ALONE IN THE DARK 2 - JAP",
+      "products": [
+        "T-10602G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "HANG ON GP '95 - JAP",
+      "products": [
+        "GS-9032"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "THE KING OF BOXING - JAP",
+      "products": [
+        "T-6001G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "MEGAMAN X3 - JAP",
+      "products": [
+        "T-1210G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 9
+    },
+    {
+      "kai_name": "RED HEAT - JAP",
+      "products": [],
+      "how": "unmatched",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "ROAD RASH - USA",
+      "products": [
+        "T-5008H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "ROBO PIT - JAP",
+      "products": [
+        "T-16603G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SHELLSHOCK - USA",
+      "products": [
+        "T-7901H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 5
+    },
+    {
+      "kai_name": "SIM CITY 2000 - JAP",
+      "products": [
+        "GS-9027"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "STEAMGEAR MASH - JAP",
+      "products": [
+        "T-10301G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "SHINING WISDOM - USA",
+      "products": [
+        "T-12702H"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "THEME PARK - JAP",
+      "products": [
+        "T-10605G"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 1
+    },
+    {
+      "kai_name": "TOHSHINDEN S - JAP",
+      "products": [
+        "GS-9078"
+      ],
+      "how": "fuzzy:0.92",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "WINGARMS - USA",
+      "products": [
+        "81024"
+      ],
+      "how": "fuzzy:0.94",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    },
+    {
+      "kai_name": "WIPEOUT -  USA",
+      "products": [
+        "81211"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 2
+    },
+    {
+      "kai_name": "WORLD SERIES BASEBALL - USA",
+      "products": [
+        "81109"
+      ],
+      "how": "exact",
+      "location": "06002800",
+      "jhl_only": false,
+      "igr_conflict": true,
+      "num_cheats": 4
+    }
+  ],
+  "collisions": {}
+}

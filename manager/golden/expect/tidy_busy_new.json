@@ -1,0 +1,78 @@
+{
+ "import_txt": null,
+ "log": [
+  "tidy run=0 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=0 skipped=0 rc=-160",
+  "tidy run=1 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=0 skipped=0 rc=-160",
+  "caps tcap=912 kcap=2448",
+  "violations=0"
+ ],
+ "pgsbak_sha": "014189c",
+ "runs": [],
+ "tree": [
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/JOURNAL.TXT.NEW",
+   "sha256": "048d1610f57722ac3eb216dd2a67c3f1cfd112b4c1833a39e178e49e340095a5",
+   "size": 4
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/03/SLOTSAVE_03.BUP",
+   "sha256": "ca70aedf3e5290b74ecb4ca91d31b423dcb3053c8f093c1a116635c67e44a3b6",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SCORCHER_01.BUP",
+   "sha256": "a07ab5977b67c61ae73f6d304135271e6bffed708a36d7305b0d4011c265ee42",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SCORCHER_01~1.BUP",
+   "sha256": "a07ab5977b67c61ae73f6d304135271e6bffed708a36d7305b0d4011c265ee42",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/00001.BKP",
+   "sha256": "91b7e3a8d9611f8bc72bd616642ac987dfeb01029d4982fa5d21a780b31b6dc5",
+   "size": 460
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/00002.BKP",
+   "sha256": "993521b919447ecc45d6e4562aa2d611e975a188b0dc0247c595976c6c9e4f0a",
+   "size": 460
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/00003.BKP",
+   "sha256": "0f7caf05a1756999e5d6a588449321daa92ec7d4ec9dbdd814d65a115f3ba92e",
+   "size": 460
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/00004-20261122-120000.BKP",
+   "sha256": "39b4c7d22c3d8d176b0cc5e0b8a0e881ba654730b091ce3359762a3a2239a7a2",
+   "size": 212
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>AetherCardManager</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <!-- the Aether mark on its navy tile (assets/logo/aether_icon_1024.png; 16-48 px use the single-line mark),
+         packed to 16-256px, generated once (see the commit): sets the .exe's icon (Explorer, taskbar, Alt-Tab). -->
+    <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Avalonia" Version="12.1.6" />
+    <PackageReference Include="Avalonia.Desktop" Version="12.1.6" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="12.1.6" />
+  </ItemGroup>
+  <ItemGroup>
+    <AvaloniaResource Include="Assets\icon.ico" />
+    <AvaloniaResource Include="Assets\header_mark.png" />
+    <AvaloniaResource Include="Assets\about_lockup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VibeMenuCardManager.Core\VibeMenuCardManager.Core.csproj" />
+  </ItemGroup>
+
+  <!-- M-art-pack: in a dev build, copy the cover pack next to the exe (covers/COVERS.PAK, Core/Art/CoverPack.cs's
+       DefaultPath()) when build/coverpack/COVERS.PAK exists, so the app runs with it without any setup. Never
+       committed (build/ is gitignored, and it is 89 MB); packaging ships its own copy later. CoverPack.OpenDefault()
+       returns null, not an error, when the file is absent. -->
+  <Target Name="CopyCoverPackForDev" AfterTargets="Build"
+          Condition="Exists('$(MSBuildThisFileDirectory)..\..\build\coverpack\COVERS.PAK')">
+    <Copy SourceFiles="$(MSBuildThisFileDirectory)..\..\build\coverpack\COVERS.PAK"
+          DestinationFolder="$(OutDir)covers" SkipUnchangedFiles="true" />
+  </Target>
+</Project>

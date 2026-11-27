@@ -1,0 +1,42 @@
+[
+  {
+    "product_codes": ["MK-81045", "GS-9041", "MK81045-50"],
+    "title": "Golden Axe: The Duel",
+    "peripheral": "Sega 3D Control Pad (analog or digital mode); also reported with Virtua Stick and Mission Stick",
+    "symptom": "Drops to the BIOS CD player instead of booting the game when a 3D Control Pad is in port 1, even with the pad's switch set to digital mode. Standard digital pad boots fine.",
+    "warning_text": "Use a standard pad: the 3D pad sends it to the CD player",
+    "confidence": "confirmed",
+    "sources": [
+      "user hardware test, 2026-11-20 (Golden Axe: The Duel, USA, MK-81045, in Aether card testing)",
+      "https://groups.google.com/g/alt.games.video.sega-saturn/c/ocmeXmPcvBk",
+      "https://forum.fobby.net/index.php?goto=5676&t=msg",
+      "https://forum.fobby.net/index.php?start=0&t=msg&th=1695"
+    ]
+  },
+  {
+    "product_codes": ["T-2301H", "GS-9010", "MK81082-50"],
+    "title": "Shinobi Legions / Shin Shinobi Den / Shinobi-X",
+    "peripheral": "Sega 3D Control Pad (both digital and analog mode)",
+    "symptom": "Digital mode: boots the Sega license screen then drops back to the CD player menu. Analog mode: the game boots but no buttons or d-pad respond.",
+    "warning_text": "Use a standard pad: 3D pad breaks boot and controls",
+    "confidence": "multiple reports",
+    "sources": [
+      "https://racketboy.com/forum/viewtopic.php?f=1&t=47693",
+      "https://racketboy.com/forum/viewtopic.php?p=933000",
+      "https://segasaturngroup.proboards.com/thread/9371/saturn-3d-controller"
+    ]
+  },
+  {
+    "product_codes": ["T-1213H", "T-7026H-50"],
+    "title": "Street Fighter Alpha 2",
+    "peripheral": "Sega 3D Control Pad (both digital and analog mode)",
+    "symptom": "Reported digital mode: fails to boot properly. Reported analog mode: boots but no button response. Only one forum source found, and it is internally inconsistent about whether digital mode works; not independently verified.",
+    "warning_text": "3D pad may break boot/controls here (unverified report)",
+    "confidence": "single report",
+    "sources": [
+      "https://racketboy.com/forum/viewtopic.php?f=1&t=47693",
+      "https://racketboy.com/forum/viewtopic.php?p=933000",
+      "https://segaxtreme.net/threads/games-that-use-the-3d-controller.15617/"
+    ]
+  }
+]

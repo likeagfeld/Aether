@@ -1,0 +1,3923 @@
+{
+ "import_txt": "kai=147 rings=157 present=0 skipped=3 conflicts=0 older=4 cart_only=19 alternates=0\nskipped general-set-backup /SAVES/BRAM/_BACKUP/GENERAL_01.BUP\nskipped general-set-backup /satiator-saves/_BACKUP/GENERAL_02.BUP\nskipped reserved /satiator-saves/T-901/SAVRING.BUP\n",
+ "pgsbak_sha": "f2a7d4b",
+ "runs": [
+  {
+   "cart": 19,
+   "conflicts": 0,
+   "kai": 147,
+   "older": 4,
+   "present": 0,
+   "rc": 0,
+   "rings": 157,
+   "skipped": 3
+  }
+ ],
+ "tree": [
+  {
+   "path": "SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/BLASTWIND_0.BUP",
+   "sha256": "316d07e09aabfe84f58e878764505124b616e645bc3ab2e3c3f97c2d3dc11d10",
+   "size": 332
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/DEZA2___SYS.BUP",
+   "sha256": "9a542af3f60db2c33c98edb4214ccee42853b75b95e2e59306af664e752366b7",
+   "size": 81
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/DEZA2____01.BUP",
+   "sha256": "79d68094d2a9234f69c5acf1be2d859712d265349fd75b55493294054e6be963",
+   "size": 149714
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/DODONPACHIS.BUP",
+   "sha256": "5e8fb4b3efee28adc88b6e0275d5f9c333eca9041e1a1abf6dec758663985c62",
+   "size": 512
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/NECRO_VER96.BUP",
+   "sha256": "9e62332f8835181a5114ae2f1041edf18f6bc0e6510eaaaeb6e7f631bd4f3f53",
+   "size": 256
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/NIGHTS_XMAS.BUP",
+   "sha256": "d4702c2b6089e8fcd9a13dac838da8d6530cfa0166dc311d67c556075ee03cfb",
+   "size": 3520
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/NIGHTS___01.BUP",
+   "sha256": "1d76c45af22d6828a3f2d3841fcec4badac643b2128a830a25112287ce4436f1",
+   "size": 1920
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/NIGHTS___02.BUP",
+   "sha256": "124424a00ef74c72cc8b4a23784d3364c5a840d6e1aa9c3ebaebd7e2254bbc30",
+   "size": 12608
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/RADIANT_S_G.BUP",
+   "sha256": "714cf202b9c1183dc890b6054b47638259115b36fb2bb41e0dacf005203a7aa2",
+   "size": 1932
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/SLOT.TXT",
+   "sha256": "83d85abebd4de35979ae17b4d531b21f3194e9f576916d0fc7e1d6abeb3a0cf5",
+   "size": 6
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/SN3_MATCH01.BUP",
+   "sha256": "7fc715aae8306cab38b82a2487113d2ef1d4fa1975db015ff8a11196dc6b1caa",
+   "size": 3136
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/SOQGUREN_01.BUP",
+   "sha256": "46e5c30e6b00b76266a383dad8060d254db15d3a08f7f934b257fbe34f740f8c",
+   "size": 1642
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/SOQGUREN_02.BUP",
+   "sha256": "3fae5c6b50acd7e7e26a79074e3af76635a820aef2529c7460a9c94df0a5a0d8",
+   "size": 3908
+  },
+  {
+   "path": "SAVES/BRAM/T-000[JU]/T_S_SPRITES.BUP",
+   "sha256": "bd223f8a7991a71fb4c39113cdebc1c46afcbabe865ecf4c5e533243b24b3eee",
+   "size": 384
+  },
+  {
+   "path": "SAVES/BRAM/T-001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-001/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-001/02/DEZA2____01.BUP",
+   "sha256": "4040c4ad4861344a8e648e275ba223ac7717c8d30409d8af663e782614bde05b",
+   "size": 139308
+  },
+  {
+   "path": "SAVES/BRAM/T-001/02/DEZA2____02.BUP",
+   "sha256": "0b88559385b61008293a013f17603917a4da1d9fdafb278edfa17d599a41ada2",
+   "size": 95254
+  },
+  {
+   "path": "SAVES/BRAM/T-001/02/DEZA2____03.BUP",
+   "sha256": "6d8d39a28e5b1700e143b5f7ddffc8193fb24bc4cdf45d8483f584e1a9025927",
+   "size": 161325
+  },
+  {
+   "path": "SAVES/BRAM/T-004[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-004[JU]/TUSK_BACKUP.BUP",
+   "sha256": "00ab991bf1fdfa1b2555f8207827147be66400b44e50d0da18a8819bd5810d29",
+   "size": 2656
+  },
+  {
+   "path": "SAVES/BRAM/T-005/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-005/06/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-005/06/TOKIMEKI_01.BUP",
+   "sha256": "4bde05c065878200bf0a0e697f570cbcc2b0dc6fa312aae053030a937fc1e7be",
+   "size": 2692
+  },
+  {
+   "path": "SAVES/BRAM/T-005/06/TOKIMEKI_99.BUP",
+   "sha256": "26da14023ea7fc8575721c06435a1daa674bdf799c93f53163207d7686203443",
+   "size": 116
+  },
+  {
+   "path": "SAVES/BRAM/T-008[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-008[JU]/SFORCE31_01.BUP",
+   "sha256": "869e649e899b346ec47374e336c426b862484406905c99c7b422f6e7182da1f6",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-008[JU]/SFORCE31_02.BUP",
+   "sha256": "48bc776e1dc38e4e49ec90be0178d4b63bf8f7699b70fa9c49e54ff63d980c86",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-008[JU]/SFORCE31_03.BUP",
+   "sha256": "8f59698f3ce3eb174ebd35381af6148f070800afbdb9ce6e91e1ac522feccb69",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-008[JU]/SFORCE31_04.BUP",
+   "sha256": "7157be746aff86fbb4b518cfdfbf93bc278a7039495a7904af5cb701b1d6876d",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-009/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-009/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-009/01/SFORCE31_01.BUP",
+   "sha256": "d613810fab092ab4da2613a26a7fd2759abf605a9bc6fd44e4be8dd5eccca32c",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-009/01/SFORCE31_02.BUP",
+   "sha256": "48bc776e1dc38e4e49ec90be0178d4b63bf8f7699b70fa9c49e54ff63d980c86",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-009/01/SFORCE31_03.BUP",
+   "sha256": "8f59698f3ce3eb174ebd35381af6148f070800afbdb9ce6e91e1ac522feccb69",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-009/01/SFORCE31_04.BUP",
+   "sha256": "7157be746aff86fbb4b518cfdfbf93bc278a7039495a7904af5cb701b1d6876d",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_00.BUP",
+   "sha256": "c7e55b5215091d1f90c79a1906afa9b92eeb3712ae56b1f18883c3ecda7c07a5",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_01.BUP",
+   "sha256": "c994736f205de1bbb3bef9df0eb1d7881756523537ecde1a2daf4d90206d5ba5",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_02.BUP",
+   "sha256": "1a5edc838011c0b5337867c5c55418bbf7508fc659ed36b4a9ce2d341456c12e",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_03.BUP",
+   "sha256": "cef66ae32da113bed35fe0ae02cf102561f16018b267213585d1df7334ba3f26",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_04.BUP",
+   "sha256": "da04edd076d2eddf228d583225e64cdaa5ea9538dd23cf7f3f0c8e7b3e7b620c",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_05.BUP",
+   "sha256": "5421bd5045f96799ecc386056a59063c210bfc69f872858adb2b15bcba354edf",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_06.BUP",
+   "sha256": "3ca72020b985f4bd42348defc073912abae971692919c380c0742cab958f270b",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_07.BUP",
+   "sha256": "c2ff871369c90bf767ed194e9aa2025baf5d58ddf63641e2e0cf42d60846a141",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_08.BUP",
+   "sha256": "e23b2723612eae6354a97d059621710674d9525d5b36f9e69a44410520b88c94",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_09.BUP",
+   "sha256": "3bd8b52a6741793f49d9a761ee40c69e40745795ac941bacf2e494a715fe791f",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_10.BUP",
+   "sha256": "02f6c58fe5ef3466c1d3e456a120ab4f3305b896995de0871671f89293193c3e",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_11.BUP",
+   "sha256": "0662f21081e51a0836bbdf49b5e69b931e5363d02fe82f2693e27bceb3b69ead",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_12.BUP",
+   "sha256": "754862e18285feeac363899bd381f336ae3781eb846781cce93c56d7114ac6d2",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_13.BUP",
+   "sha256": "a6d6847ed354c54ae9f1b8da8ade62cb5ae321746fe3ec41a1e632a9963f7e83",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_14.BUP",
+   "sha256": "78c33eb0f0acb166dc7ef3a9ca2e4c1d22bd6486786e80d5e4c22abd83f62a43",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_15.BUP",
+   "sha256": "2e42f6a6e34a50eb5a338473f7b31abc24125668488a4b277c63f77eb43cb8cb",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_16.BUP",
+   "sha256": "747e860c0d822502f7616cc9877829a9b84dd24c3cf5462cb359896a8bc1f167",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_17.BUP",
+   "sha256": "339a351fb8458eb4b8dd4ae9567e57d21c916ede3fd8b766bd8d3c02e29c388b",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_18.BUP",
+   "sha256": "ea3206f2aa03507fda2f70ad84db8c4a1d2efa8e357399e9d3176afafb203727",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_19.BUP",
+   "sha256": "91a0abd0bf9f6f9cfff3e855fa583d97e3aea64fba8f5b683dbf0621207ed27f",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_20.BUP",
+   "sha256": "756328c63289189ddce2af66eba7c409049d5ef11b67f9685905274b03380596",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_21.BUP",
+   "sha256": "2b8bccf29876e9c73e6bb0b5f19c181ec5903a49213521db0aa33732d4188f74",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_22.BUP",
+   "sha256": "468a2eb449f66ec34fbc55467cfbb8418b7cb7fe08b983f1740053837acb586f",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_23.BUP",
+   "sha256": "5dc0668ac7d251191c090cd0dfa8de3529473042d7740ad5437d0f4342799d91",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_24.BUP",
+   "sha256": "f7b3e70638b3699c9355b56c6a51e0274f7d19647374cf9c5f649c64e69e7f71",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_25.BUP",
+   "sha256": "fe097b2acbd079e26c0d31e4bf43f2b21e8cb23483be3faf2392b85d7fd6ff68",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_26.BUP",
+   "sha256": "9d445df920d689aec4cadaecd5d4a26561e9726a0a279528503d5cec6769803f",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_27.BUP",
+   "sha256": "7bc11259c3c5cb06353cb550255f9e27075b9d12f9d4c5a5a5affb0e6109e634",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_28.BUP",
+   "sha256": "78d8c322f3ca67c8449a6749ffa4842440809b6137c0729cf168a7b66906ef65",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_29.BUP",
+   "sha256": "8f85554396990a2a9aed752a1175fc20a3a48368b6b293820919aa940b5cd96d",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_30.BUP",
+   "sha256": "26d6425c264bfbadb4b25446df2db1192d92faa36c88e965796d72405d0f1d60",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_31.BUP",
+   "sha256": "262bebc4bf53f71a790dc3b8812843f333086db4077c328280068d9f5d3c98dd",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_32.BUP",
+   "sha256": "b25eefec47bb4efa691deed0ef5aa8affa081d78bcd1b6e234c8137bfc6d2560",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_33.BUP",
+   "sha256": "996d2a6c3417594c7c3a9aa6b764574f83095eb91aa3b606cad83ef7e61230a3",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_34.BUP",
+   "sha256": "d9eb7840977f3664c1da97550ad1631c78d7d5c58e296cd9ea04a6407c786828",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_35.BUP",
+   "sha256": "34957a3d1598ae205d29c17350f551f4e95679d3aaf7d5f2f1e854c2d091a743",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_36.BUP",
+   "sha256": "63d287c92bb6ea4f8a21425362596567795469b058dc1235579dd78a5c4f3199",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_37.BUP",
+   "sha256": "99be3b6ddad3a7f1cc206d5fdf6098a25d732c5d0181155f793c1e9b302b8bf7",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_38.BUP",
+   "sha256": "124047ca263fe1fcd23d7fb2bce6a9f54b52bc1de26c5d2998d48f916120c101",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_39.BUP",
+   "sha256": "29cd0d9e47e84c52e158a931eea882e34b5ed33ac8f9a67379dd6f91e34bdf4c",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_40.BUP",
+   "sha256": "555b30d8fa7ac1f506787585521ad94e2331ef672a54728e305ae15a7eb72f27",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_41.BUP",
+   "sha256": "c26272723fbb4acb13477c2f4ec2ff5255cad4ad1f8ca5bdb679c64857ede02d",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_42.BUP",
+   "sha256": "6b36b17d6bb490edd220ba451dd4b147a42f923c1ba0a6ca39a5a76904e43e53",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_43.BUP",
+   "sha256": "b7b35104411f0fc04263bfbac8034b9360f5b4dd27f1fa6adba826f8f747dc2b",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_44.BUP",
+   "sha256": "e4cc41634ff96193e0688bae2955f98cd3c12c7f4c3cfc97bb4f8a001f0e8c57",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_45.BUP",
+   "sha256": "77ce0e653800d6a3ca93304727993fb08ae66b717b66a5bb3afe02620024bda4",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_46.BUP",
+   "sha256": "661e65e75f441be59c7f823bdacf9704113749a7f59752b33fa56cff1d16de00",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_47.BUP",
+   "sha256": "b7e05e4c14e0b2646e74bf72e267d212551c54ec9af4dfa89ff1ae9dc35f28e9",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_48.BUP",
+   "sha256": "d43ab131bc0a4571a0407b1dee45046fa2dc505d589840b7ba005481890516fb",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_49.BUP",
+   "sha256": "b203febd4e0acc2c6eda059482c1a86713bf4871721f73ec652ffca0dd931c92",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_50.BUP",
+   "sha256": "bb1670c0770b46d01e95fc8c7848e3438169a706732f49cc50739dfadc32caad",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-012[JU]/IRONSTRM_51.BUP",
+   "sha256": "2e8335a7adbe90055f31dc7748a4d36ff935c338bf54dac4ab6543d948f705b8",
+   "size": 20028
+  },
+  {
+   "path": "SAVES/BRAM/T-013/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-013/05/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-013/05/DRACULAX.BUP",
+   "sha256": "c4a6fa36b7b34b7cfe06d9fb23e6efd1407b8d51856b4cc7a3c10413d19c7568",
+   "size": 4452
+  },
+  {
+   "path": "SAVES/BRAM/T-013/05/SEGARALL.BUP",
+   "sha256": "a4fa39fdc9ffb5a03854ab691a228597dbe2c29139bdb161135ce8a055018072",
+   "size": 62528
+  },
+  {
+   "path": "SAVES/BRAM/T-013/05/SFORCE31.BUP",
+   "sha256": "bab110d0e128256f575e13acc627c44155859cc8f7d3fedd699c573d88395c3d",
+   "size": 12968
+  },
+  {
+   "path": "SAVES/BRAM/T-016[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-016[JU]/TAMAGOTC.BUP",
+   "sha256": "1ed5dc9219f770e31d7bd72d0df172fe7a374e0f34f4f8b74971605471836b76",
+   "size": 34052
+  },
+  {
+   "path": "SAVES/BRAM/T-017/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/DRACUL01.BUP",
+   "sha256": "75cb5e2973ae4f2a27d617783de0dbe23f5a36480a38c262f47f80bf04c80fb5",
+   "size": 4452
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/DRACUL02.BUP",
+   "sha256": "c4a6fa36b7b34b7cfe06d9fb23e6efd1407b8d51856b4cc7a3c10413d19c7568",
+   "size": 4452
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/FANTASYZ.BUP",
+   "sha256": "741d8dd2af6a38ae7a8a4547b00adaaf5a46eee4cd9db6aa4a125d1b21568d95",
+   "size": 208
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/HARRIE01.BUP",
+   "sha256": "0fce38080b6ed1c6a663bf27ecb42f167751c79651dfe143c59cf1078b67d647",
+   "size": 740
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/KEIO2___.BUP",
+   "sha256": "26e14bed1efa7edc77b66ce91d5d8f60692b4af81df4828cc821ffebdcf6443e",
+   "size": 96
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/NIGHTS02.BUP",
+   "sha256": "95aca3db439380486047ce3570532ef9b9d63ef13df70b2b98413959eab148a0",
+   "size": 12608
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/OUTRUN01.BUP",
+   "sha256": "8f016856f462c15a8a9ee7c4eb9fce12b0073881c08ce96c53c24561c7b68f0b",
+   "size": 1184
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/POCKET_F.BUP",
+   "sha256": "b5a256bed2915c284232563f7b82894b39a161db395f23d65f433473539faa5d",
+   "size": 384
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/PZL_F_TU.BUP",
+   "sha256": "8a74017bec39635beee1ac331cba61088d66339c5ab472add03b8fb507fec42e",
+   "size": 544
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/QUTENKAI.BUP",
+   "sha256": "359f77bb3fcb64bf6c193b8db4e77b1b8e86c4e8ad0500cb3d77d6e0eac099bb",
+   "size": 548
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/RADIANT_.BUP",
+   "sha256": "18d1b087a18afea8ced4422afec1bc1a52047f0318b3ea19d00ac211fcc810ec",
+   "size": 1932
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/SBOMBERM.BUP",
+   "sha256": "e1f101274b295af721994831d5d15c19e74b5f49fa3f6d1635198b8ce21fe25d",
+   "size": 302
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/SENGOKU_.BUP",
+   "sha256": "74ed0f37067acab4071cec244cab91dab37f86cb8f90df2e1113b5dd3eaaae6d",
+   "size": 536
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/SOQGUREN.BUP",
+   "sha256": "c493d416299ce6b85fcf853b5189601bbeed459ebdab2a380ca70601db6d291e",
+   "size": 1642
+  },
+  {
+   "path": "SAVES/BRAM/T-017/09/TENCHIRE.BUP",
+   "sha256": "1348ce378ba5a6ec0b842c5d9e52c311d0b7cfabe0eb068c21cac26411cb3674",
+   "size": 160
+  },
+  {
+   "path": "SAVES/BRAM/T-020[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-020[JU]/SAKURA___01.BUP",
+   "sha256": "20feac453a923f64f9d46ff127a53b469d9b11935cbd4235dc8ea19a4e5a48dd",
+   "size": 5772
+  },
+  {
+   "path": "SAVES/BRAM/T-021/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-021/04/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-021/04/GHOST_20170204.BUP",
+   "sha256": "a4fa39fdc9ffb5a03854ab691a228597dbe2c29139bdb161135ce8a055018072",
+   "size": 62528
+  },
+  {
+   "path": "SAVES/BRAM/T-024[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-024[JU]/PANDRA_3_01.BUP",
+   "sha256": "b06c7757228ee71628d38eb8c40a430a6065763e6d97f5b1e93c95026079ab74",
+   "size": 1340
+  },
+  {
+   "path": "SAVES/BRAM/T-024[JU]/PANDRA_3_02.BUP",
+   "sha256": "900cc06ae602d996186d3b202b962c0f082806b206f5c431f11e031f3adeab0b",
+   "size": 1340
+  },
+  {
+   "path": "SAVES/BRAM/T-024[JU]/PANDRA_3_03.BUP",
+   "sha256": "65fe72ed5fc00a308883eedf6ff4fc84d7b791fbfb8f8223f0fb2eda2138662e",
+   "size": 1340
+  },
+  {
+   "path": "SAVES/BRAM/T-025/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-025/08/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-025/08/PANDRA_3_01.BUP",
+   "sha256": "4851bbd70f7c07eb45af87194db54747303e27ea7cc1a8dfa756933a174545d8",
+   "size": 1340
+  },
+  {
+   "path": "SAVES/BRAM/T-025/08/PANDRA_3_02.BUP",
+   "sha256": "d7cdb6330bfbbe24e47dbeb1b84f42d5186b6c8211e26e1d2cf158e707814482",
+   "size": 1340
+  },
+  {
+   "path": "SAVES/BRAM/T-025/08/PANDRA_3_03.BUP",
+   "sha256": "a18b5749da7cbc1de63431a8253057ad50fd1f0624abb46ae8dc80a01e237ef3",
+   "size": 1340
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/AB2SCORE_01.BUP",
+   "sha256": "ea69bc4124276fe9c266b264f6204b325999f06fa2f456052ffdbdfd161c9e48",
+   "size": 1056
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/BLASTWIND_0.BUP",
+   "sha256": "b83aa8a0ae29ba8e947191d9bf9e7c1641164eab1312d0d2913ceadd5fa3f37c",
+   "size": 332
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/BOMBERSS_01.BUP",
+   "sha256": "41e4387f2646972e22edcedd2dcb953570fd33244ad984da4e2e28e5752419ea",
+   "size": 76
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/BUL_SLA__01.BUP",
+   "sha256": "7f06b2f0db419efd53a83faeaa5935bbd974526c1e26bcda604eb5d42d3b0cf3",
+   "size": 240
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/B_GAREGGA__.BUP",
+   "sha256": "5a7941fc942cdaf2992fa7d33e04ac937165fb680cdbf6d88c31ba509ae5f692",
+   "size": 5392
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/CLOCK__DATA.BUP",
+   "sha256": "de323bbd59d3021d6d3a25c594c45223ae007d6ed9eb5f6716017fac77477b57",
+   "size": 92
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/COTTON2_DAT.BUP",
+   "sha256": "3702f103425d672fe2f8b59e4b721d76037ad9808f942dcdd85190b62f1d776b",
+   "size": 3124
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/COTTONBMDAT.BUP",
+   "sha256": "141906ad569e4d91fc2a79785d99ec8e03e34e51757701ef092b37fb0f3aebc5",
+   "size": 1688
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/DEATH_CRIMS.BUP",
+   "sha256": "3d8ad6d78655e18c7eae3b5d9a8124c9e5a40a612a9540fc4b7559c996778103",
+   "size": 134
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/DOA_SS_FILE.BUP",
+   "sha256": "520e957a1a96f31b8cd100dc352f273facf10005f5c2350021c74b9364f620d4",
+   "size": 1505
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/ELEVATOR_AC.BUP",
+   "sha256": "6884f9aafb4f81255de10acec60ec9f527ffce90415415ac63ecb56229928c28",
+   "size": 314
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/FANTASYZONE.BUP",
+   "sha256": "0314d18197eb2c13b3be67f2127f184697eb294a4999c7345d6e1dfff35497fe",
+   "size": 208
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/FVIPER_MAST.BUP",
+   "sha256": "39319bd2997db0ee954bfda30a5b572bd377421f972f70f315e8750787668bdd",
+   "size": 3152
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/GA_YUMIMI_R.BUP",
+   "sha256": "20043128c74a19b9a6acf11a65dfc60f5edb0c5376fd25fcbf8da677887bf801",
+   "size": 352
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/GROOVE_ON_F.BUP",
+   "sha256": "580ea974656d53df2474ef699f03f60f85b2a152697e83e5b855affd1b67c207",
+   "size": 266
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/GUARDIAN_HE.BUP",
+   "sha256": "97fe0b6d5f1e1c30a2a34d77daa0a743241ea174674bef40a5c67bc206781546",
+   "size": 1224
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/HOLY_ARK_99.BUP",
+   "sha256": "6dd7d27c67c7d3af439c449915db96c2bebb661ba0fc0f444df3ad10ac23c18b",
+   "size": 4160
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/HYPERDUEL_0.BUP",
+   "sha256": "ea7ab15f0091104f2145029bb322550e173bff231d07af165227c5f97d3a5032",
+   "size": 324
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/KEIO2______.BUP",
+   "sha256": "754d7cd28f85aea1125ef8951a8550433ac7211bb22f6b6bcb3a798b51ccbfc7",
+   "size": 96
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/METALSLUG__.BUP",
+   "sha256": "b375976c1582e56bd1579ef95ac67af194be374f892bb425a639c63ede2f1e97",
+   "size": 1360
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/NINPEN_M_01.BUP",
+   "sha256": "3f7cfb11b75282f195c47ca98763abafd8b4c2cca2ab48033f14b99a642f95b6",
+   "size": 79
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/OUTRUN___01.BUP",
+   "sha256": "18008fd3054221e39f854b94377231a2ce8ecf578ab9c89867e34f83e075a596",
+   "size": 1184
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/PANDRA_ZWEI.BUP",
+   "sha256": "575e326b2bc0300cb277865a3e67490f22b7c7eb4e0ebfeeaca59caf83b31417",
+   "size": 513
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/PUYO_SUN_01.BUP",
+   "sha256": "49825fa6c1796a56a64b643b904cfee79895b561e1124457d528198ddece9a2e",
+   "size": 416
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/RABBIT_DATA.BUP",
+   "sha256": "79bd21296427677524b9288e6e04257472e1179d0dc3b522d9fd63e17dd1695f",
+   "size": 1120
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/RADIANT_S_G.BUP",
+   "sha256": "fe681211c1de9cbc320cad78c8257eb7de2fb0c7eb6b7a133fb0c598b07cfcfa",
+   "size": 1932
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/SAKURA___01.BUP",
+   "sha256": "4b1a4e46f2894c2c2ff8717daae7f1894772dd0b038acb44b32d2938c98eb381",
+   "size": 5772
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/SA_MEMSEL01.BUP",
+   "sha256": "e3fbe250bd9943a345c4cc25bbbea132655d694ca2d0d4b7775db0ce97a54bab",
+   "size": 672
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/SA_MEMSEL02.BUP",
+   "sha256": "70d269166e7414220b3e3578d336abc2cd117677a8c0172f18e17310399f98b0",
+   "size": 1260
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/SBOMBERMANF.BUP",
+   "sha256": "b15cd24d21b670844966d4b8179cfcbb16faae3bd07a793b3e04da2ea5032c0e",
+   "size": 302
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/SG_MASH_001.BUP",
+   "sha256": "85f9f54fe7396b6450fa8ab005d3d453aab7b8c49f7580104ce33926466f4b9d",
+   "size": 4576
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/SONICJAM_01.BUP",
+   "sha256": "0f474e20bd1bdd16eee2f25221f64b6b323fd112ae5dc883d900e76b4bae6a66",
+   "size": 1472
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/STEEP_SL_99.BUP",
+   "sha256": "71e9336cc20a6ba04069e49df8610edc4336625b9075d1e4873477e81d1b13f8",
+   "size": 1220
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/SWAGMAN_DAT.BUP",
+   "sha256": "cb642ea3e80b0d4551dd60ca0b6f2cd8afadb10dad40f1063089425c7393fefe",
+   "size": 4120
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/TF_GP2___01.BUP",
+   "sha256": "3219c425dd7bd7f9f723796610c1338ed4102508f286d287f4caf3e122d56300",
+   "size": 168
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/T_FORCEV_00.BUP",
+   "sha256": "2926856bab82cfa5a578cfffdfc97f6275979b140b949f0b0bca0f20c348bda7",
+   "size": 1952
+  },
+  {
+   "path": "SAVES/BRAM/T-028[JU]/VFIGHTER2_X.BUP",
+   "sha256": "6cd42060383bbaddb89fbfb6b76ab8acef217a7737143829674da01b2beb6a42",
+   "size": 11496
+  },
+  {
+   "path": "SAVES/BRAM/T-029/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_01.BUP",
+   "sha256": "9e0cb5278ec630c1cef7996a6ff0718e270106a3409363dc275c3d24e48cfb72",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_02.BUP",
+   "sha256": "0a1f4f0076246a61648ea13fed942a95c0ee344c37409c8366f772263be18cc5",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_03.BUP",
+   "sha256": "b833c5df2d342bbf8ec958db7821e97ae69dd502559278f3f86d15047897323c",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_04.BUP",
+   "sha256": "192c0c4b7f00c81bf34889f792a456d2074f7a59b355ec672e3d4784f0154c46",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_05.BUP",
+   "sha256": "ca4a3069bd662bd52d1be0779a2bcc55f56d33bc7235a82f6850065370922ecf",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_06.BUP",
+   "sha256": "8cdbf9cf025464e6ec2b95b3010c21c45563c4ef69997745641fd5edc9f0c1c5",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_07.BUP",
+   "sha256": "14ed1fdaed4638b918a6fffb1fa31d98f28a6167bf07637c93f9c107d5fed3d8",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_08.BUP",
+   "sha256": "747c90214a3aa9c3a6440543e8dde2c7e7fd7170f854ba6bac1caee538a14da1",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_09.BUP",
+   "sha256": "261482b35880a119e841cad076531ab59c04873f29a8aa4a31da9975e0162677",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICENA_10.BUP",
+   "sha256": "a8bef592dfcd9a8b58bd9f7a3a6e6cee61a710319106d89cc9a89720352c2a65",
+   "size": 3072
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICE_END1.BUP",
+   "sha256": "bcd555eadd006a8429113600f4d0f287c1e102925c3752a628a656ac3b64629a",
+   "size": 3288
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICE_END2.BUP",
+   "sha256": "e27fca14f0de4cb00588fa2a335772684ca9f6bda86a3e4a7cba8155d01ede96",
+   "size": 3288
+  },
+  {
+   "path": "SAVES/BRAM/T-029/03/POLICE_END3.BUP",
+   "sha256": "9b330a96ccc6abdb50c02f1ed3576da5fb6f1fb4a8b6689d784964e4d6fd5fbc",
+   "size": 3288
+  },
+  {
+   "path": "SAVES/BRAM/_BACKUP/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/_BACKUP/GENERAL_01.BUP",
+   "sha256": "009c2eeebe849c5b7f38db5cb3b0da72d6cf3e07d2191aedf6652e83c3f61979",
+   "size": 104
+  },
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/IMPORT.TXT",
+   "sha256": "e2db0164771b6d22ac98ea661001e22e93e7655cc7f0803219b13ad2fa1ec551",
+   "size": 263
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/BLASTWIND_0.BUP",
+   "sha256": "316d07e09aabfe84f58e878764505124b616e645bc3ab2e3c3f97c2d3dc11d10",
+   "size": 332
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/CART/DEZA2____01.BUP",
+   "sha256": "79d68094d2a9234f69c5acf1be2d859712d265349fd75b55493294054e6be963",
+   "size": 149714
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/DEZA2___SYS.BUP",
+   "sha256": "9a542af3f60db2c33c98edb4214ccee42853b75b95e2e59306af664e752366b7",
+   "size": 81
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/DODONPACHIS.BUP",
+   "sha256": "5e8fb4b3efee28adc88b6e0275d5f9c333eca9041e1a1abf6dec758663985c62",
+   "size": 512
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/NECRO_VER96.BUP",
+   "sha256": "9e62332f8835181a5114ae2f1041edf18f6bc0e6510eaaaeb6e7f631bd4f3f53",
+   "size": 256
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/NIGHTS_XMAS.BUP",
+   "sha256": "d4702c2b6089e8fcd9a13dac838da8d6530cfa0166dc311d67c556075ee03cfb",
+   "size": 3520
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/NIGHTS___01.BUP",
+   "sha256": "1d76c45af22d6828a3f2d3841fcec4badac643b2128a830a25112287ce4436f1",
+   "size": 1920
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/NIGHTS___02.BUP",
+   "sha256": "124424a00ef74c72cc8b4a23784d3364c5a840d6e1aa9c3ebaebd7e2254bbc30",
+   "size": 12608
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/RADIANT_S_G.BUP",
+   "sha256": "714cf202b9c1183dc890b6054b47638259115b36fb2bb41e0dacf005203a7aa2",
+   "size": 1932
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/SN3_MATCH01.BUP",
+   "sha256": "7fc715aae8306cab38b82a2487113d2ef1d4fa1975db015ff8a11196dc6b1caa",
+   "size": 3136
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/SOQGUREN_01.BUP",
+   "sha256": "46e5c30e6b00b76266a383dad8060d254db15d3a08f7f934b257fbe34f740f8c",
+   "size": 1642
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/SOQGUREN_02.BUP",
+   "sha256": "3fae5c6b50acd7e7e26a79074e3af76635a820aef2529c7460a9c94df0a5a0d8",
+   "size": 3908
+  },
+  {
+   "path": "aether/SAVES/T-000[JU]/T_S_SPRITES.BUP",
+   "sha256": "bd223f8a7991a71fb4c39113cdebc1c46afcbabe865ecf4c5e533243b24b3eee",
+   "size": 384
+  },
+  {
+   "path": "aether/SAVES/T-001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-001/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-001/02/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-001/02/CART/DEZA2____01.BUP",
+   "sha256": "4040c4ad4861344a8e648e275ba223ac7717c8d30409d8af663e782614bde05b",
+   "size": 139308
+  },
+  {
+   "path": "aether/SAVES/T-001/02/CART/DEZA2____02.BUP",
+   "sha256": "0b88559385b61008293a013f17603917a4da1d9fdafb278edfa17d599a41ada2",
+   "size": 95254
+  },
+  {
+   "path": "aether/SAVES/T-001/02/CART/DEZA2____03.BUP",
+   "sha256": "6d8d39a28e5b1700e143b5f7ddffc8193fb24bc4cdf45d8483f584e1a9025927",
+   "size": 161325
+  },
+  {
+   "path": "aether/SAVES/T-002/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-002/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-002/CART/DEZA2____01.BUP",
+   "sha256": "b5b9d1e70a1d6ca498d9917b99dc3524c585e55caa0d1560b900b69ce9c14f51",
+   "size": 146715
+  },
+  {
+   "path": "aether/SAVES/T-002/CART/DEZA2____03.BUP",
+   "sha256": "18b32053da3e17d54d3014f7afdc81b17db36fdf72983237a1c652301f845ea5",
+   "size": 154380
+  },
+  {
+   "path": "aether/SAVES/T-002/CART/DEZA2____04.BUP",
+   "sha256": "71d05a69e1720c17a3840b9238219f4304197903eed1c858567beaaa845876cf",
+   "size": 153477
+  },
+  {
+   "path": "aether/SAVES/T-002/CART/DEZA2____05.BUP",
+   "sha256": "d2a82f21c37e1ac3ef22bcde97a2debe0fd1c6a8d3c6a6890978a7e7bc17be05",
+   "size": 154380
+  },
+  {
+   "path": "aether/SAVES/T-003/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-003/04/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-003/04/B_RANGERS__.BUP",
+   "sha256": "9e99499c53ca5b31a2a393f0781d37a3e412e1582bda335a969d08448d1113af",
+   "size": 1920
+  },
+  {
+   "path": "aether/SAVES/T-004[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-004[JU]/TUSK_BACKUP.BUP",
+   "sha256": "00ab991bf1fdfa1b2555f8207827147be66400b44e50d0da18a8819bd5810d29",
+   "size": 2656
+  },
+  {
+   "path": "aether/SAVES/T-005/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-005/06/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-005/06/TOKIMEKI_01.BUP",
+   "sha256": "4bde05c065878200bf0a0e697f570cbcc2b0dc6fa312aae053030a937fc1e7be",
+   "size": 2692
+  },
+  {
+   "path": "aether/SAVES/T-005/06/TOKIMEKI_99.BUP",
+   "sha256": "26da14023ea7fc8575721c06435a1daa674bdf799c93f53163207d7686203443",
+   "size": 116
+  },
+  {
+   "path": "aether/SAVES/T-006/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-006/DRACULAX_01.BUP",
+   "sha256": "28fef25e399a3fdb39ab9dfa7924d20507cc0c33c67c656d86b1218afe62390d",
+   "size": 4452
+  },
+  {
+   "path": "aether/SAVES/T-007/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-007/08/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-007/08/SFORCE31_01.BUP",
+   "sha256": "bab110d0e128256f575e13acc627c44155859cc8f7d3fedd699c573d88395c3d",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-007/08/SFORCE31_02.BUP",
+   "sha256": "81ea4d006b6621bb22832ffc2c2798e4d11a5cf239c881f4cf0feb201caaef68",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-007/08/SFORCE32_01.BUP",
+   "sha256": "1ec4d0f38a9a5305d2a5f9ea656b9972c349e3345d108dad35d0af165fddb4e3",
+   "size": 16312
+  },
+  {
+   "path": "aether/SAVES/T-007/08/SFORCE32_02.BUP",
+   "sha256": "aa16eeb4dee7570efc1db812e75edb3f0f036c79c83596e3ac08833ad6c9b5f9",
+   "size": 16312
+  },
+  {
+   "path": "aether/SAVES/T-007/08/SFORCE33_01.BUP",
+   "sha256": "684cc5ec5f8772f4339b5474f89f5cd85498988d4b0ca8260a78e95bfe77b836",
+   "size": 24408
+  },
+  {
+   "path": "aether/SAVES/T-007/08/SFORCE33_02.BUP",
+   "sha256": "aea7f4e35d8480e38a2254027cbfe060c3e07ae63681748cad1d1b88b42116c2",
+   "size": 24408
+  },
+  {
+   "path": "aether/SAVES/T-008[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-008[JU]/SFORCE31_01.BUP",
+   "sha256": "869e649e899b346ec47374e336c426b862484406905c99c7b422f6e7182da1f6",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-008[JU]/SFORCE31_02.BUP",
+   "sha256": "48bc776e1dc38e4e49ec90be0178d4b63bf8f7699b70fa9c49e54ff63d980c86",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-008[JU]/SFORCE31_03.BUP",
+   "sha256": "8f59698f3ce3eb174ebd35381af6148f070800afbdb9ce6e91e1ac522feccb69",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-008[JU]/SFORCE31_04.BUP",
+   "sha256": "7157be746aff86fbb4b518cfdfbf93bc278a7039495a7904af5cb701b1d6876d",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-009/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-009/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-009/01/SFORCE31_01.BUP",
+   "sha256": "d613810fab092ab4da2613a26a7fd2759abf605a9bc6fd44e4be8dd5eccca32c",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-009/01/SFORCE31_02.BUP",
+   "sha256": "48bc776e1dc38e4e49ec90be0178d4b63bf8f7699b70fa9c49e54ff63d980c86",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-009/01/SFORCE31_03.BUP",
+   "sha256": "8f59698f3ce3eb174ebd35381af6148f070800afbdb9ce6e91e1ac522feccb69",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-009/01/SFORCE31_04.BUP",
+   "sha256": "7157be746aff86fbb4b518cfdfbf93bc278a7039495a7904af5cb701b1d6876d",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-010/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-010/BUL_SLA__01.BUP",
+   "sha256": "84e1bdeafcb67891a4e5315d6abb120a4139afb47d514061518d4c03d656ba83",
+   "size": 240
+  },
+  {
+   "path": "aether/SAVES/T-010/CROCFISAVE1.BUP",
+   "sha256": "e8231ba1b8da24af13635d249755d58503a9c02daa018dcee19ded5dd65c529c",
+   "size": 288
+  },
+  {
+   "path": "aether/SAVES/T-010/L_SECTION__.BUP",
+   "sha256": "485633489398ea030126534c61fdf1d4388106079a3727c3185a9674f5b85406",
+   "size": 133
+  },
+  {
+   "path": "aether/SAVES/T-010/PANDRA_ZWEI.BUP",
+   "sha256": "343f275c325ede6fde753017e9e431038f21aa07201be9017755b84057e6f90e",
+   "size": 513
+  },
+  {
+   "path": "aether/SAVES/T-010/RAYMAN_NTS1.BUP",
+   "sha256": "772585f63856276905b756c44dbdb4f5028a5c616b59b3fbf1f13572265b8c90",
+   "size": 1254
+  },
+  {
+   "path": "aether/SAVES/T-010/SAKURA___01.BUP",
+   "sha256": "2d91d0d2bb26fe5bf580b4d0dce0625433cd3afead1b4c3cde9ff02bf4868ec3",
+   "size": 5772
+  },
+  {
+   "path": "aether/SAVES/T-010/SONICR___01.BUP",
+   "sha256": "a1a82de932fe22848aa6810ae8db9907d827cc1b45bf020ae9b18c824f2dd354",
+   "size": 400
+  },
+  {
+   "path": "aether/SAVES/T-011/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-011/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-011/03/HOLY_ARK_02.BUP",
+   "sha256": "9810265f89b6bad744a0e7d8c8d9ad4124471fc2c9fd701048e4dd1e2af9b027",
+   "size": 4152
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_00.BUP",
+   "sha256": "c7e55b5215091d1f90c79a1906afa9b92eeb3712ae56b1f18883c3ecda7c07a5",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_01.BUP",
+   "sha256": "c994736f205de1bbb3bef9df0eb1d7881756523537ecde1a2daf4d90206d5ba5",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_02.BUP",
+   "sha256": "1a5edc838011c0b5337867c5c55418bbf7508fc659ed36b4a9ce2d341456c12e",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_03.BUP",
+   "sha256": "cef66ae32da113bed35fe0ae02cf102561f16018b267213585d1df7334ba3f26",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_04.BUP",
+   "sha256": "da04edd076d2eddf228d583225e64cdaa5ea9538dd23cf7f3f0c8e7b3e7b620c",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_05.BUP",
+   "sha256": "5421bd5045f96799ecc386056a59063c210bfc69f872858adb2b15bcba354edf",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_06.BUP",
+   "sha256": "3ca72020b985f4bd42348defc073912abae971692919c380c0742cab958f270b",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_07.BUP",
+   "sha256": "c2ff871369c90bf767ed194e9aa2025baf5d58ddf63641e2e0cf42d60846a141",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_08.BUP",
+   "sha256": "e23b2723612eae6354a97d059621710674d9525d5b36f9e69a44410520b88c94",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_09.BUP",
+   "sha256": "3bd8b52a6741793f49d9a761ee40c69e40745795ac941bacf2e494a715fe791f",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_10.BUP",
+   "sha256": "02f6c58fe5ef3466c1d3e456a120ab4f3305b896995de0871671f89293193c3e",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_11.BUP",
+   "sha256": "0662f21081e51a0836bbdf49b5e69b931e5363d02fe82f2693e27bceb3b69ead",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_12.BUP",
+   "sha256": "754862e18285feeac363899bd381f336ae3781eb846781cce93c56d7114ac6d2",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_13.BUP",
+   "sha256": "a6d6847ed354c54ae9f1b8da8ade62cb5ae321746fe3ec41a1e632a9963f7e83",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_14.BUP",
+   "sha256": "78c33eb0f0acb166dc7ef3a9ca2e4c1d22bd6486786e80d5e4c22abd83f62a43",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_15.BUP",
+   "sha256": "2e42f6a6e34a50eb5a338473f7b31abc24125668488a4b277c63f77eb43cb8cb",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_16.BUP",
+   "sha256": "747e860c0d822502f7616cc9877829a9b84dd24c3cf5462cb359896a8bc1f167",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_17.BUP",
+   "sha256": "339a351fb8458eb4b8dd4ae9567e57d21c916ede3fd8b766bd8d3c02e29c388b",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_18.BUP",
+   "sha256": "ea3206f2aa03507fda2f70ad84db8c4a1d2efa8e357399e9d3176afafb203727",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_19.BUP",
+   "sha256": "91a0abd0bf9f6f9cfff3e855fa583d97e3aea64fba8f5b683dbf0621207ed27f",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_20.BUP",
+   "sha256": "756328c63289189ddce2af66eba7c409049d5ef11b67f9685905274b03380596",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_21.BUP",
+   "sha256": "2b8bccf29876e9c73e6bb0b5f19c181ec5903a49213521db0aa33732d4188f74",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_22.BUP",
+   "sha256": "468a2eb449f66ec34fbc55467cfbb8418b7cb7fe08b983f1740053837acb586f",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_23.BUP",
+   "sha256": "5dc0668ac7d251191c090cd0dfa8de3529473042d7740ad5437d0f4342799d91",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_24.BUP",
+   "sha256": "f7b3e70638b3699c9355b56c6a51e0274f7d19647374cf9c5f649c64e69e7f71",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_25.BUP",
+   "sha256": "fe097b2acbd079e26c0d31e4bf43f2b21e8cb23483be3faf2392b85d7fd6ff68",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_26.BUP",
+   "sha256": "9d445df920d689aec4cadaecd5d4a26561e9726a0a279528503d5cec6769803f",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_27.BUP",
+   "sha256": "7bc11259c3c5cb06353cb550255f9e27075b9d12f9d4c5a5a5affb0e6109e634",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_28.BUP",
+   "sha256": "78d8c322f3ca67c8449a6749ffa4842440809b6137c0729cf168a7b66906ef65",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_29.BUP",
+   "sha256": "8f85554396990a2a9aed752a1175fc20a3a48368b6b293820919aa940b5cd96d",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_30.BUP",
+   "sha256": "26d6425c264bfbadb4b25446df2db1192d92faa36c88e965796d72405d0f1d60",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_31.BUP",
+   "sha256": "262bebc4bf53f71a790dc3b8812843f333086db4077c328280068d9f5d3c98dd",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_32.BUP",
+   "sha256": "b25eefec47bb4efa691deed0ef5aa8affa081d78bcd1b6e234c8137bfc6d2560",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_33.BUP",
+   "sha256": "996d2a6c3417594c7c3a9aa6b764574f83095eb91aa3b606cad83ef7e61230a3",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_34.BUP",
+   "sha256": "d9eb7840977f3664c1da97550ad1631c78d7d5c58e296cd9ea04a6407c786828",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_35.BUP",
+   "sha256": "34957a3d1598ae205d29c17350f551f4e95679d3aaf7d5f2f1e854c2d091a743",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_36.BUP",
+   "sha256": "63d287c92bb6ea4f8a21425362596567795469b058dc1235579dd78a5c4f3199",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_37.BUP",
+   "sha256": "99be3b6ddad3a7f1cc206d5fdf6098a25d732c5d0181155f793c1e9b302b8bf7",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_38.BUP",
+   "sha256": "124047ca263fe1fcd23d7fb2bce6a9f54b52bc1de26c5d2998d48f916120c101",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_39.BUP",
+   "sha256": "29cd0d9e47e84c52e158a931eea882e34b5ed33ac8f9a67379dd6f91e34bdf4c",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_40.BUP",
+   "sha256": "555b30d8fa7ac1f506787585521ad94e2331ef672a54728e305ae15a7eb72f27",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_41.BUP",
+   "sha256": "c26272723fbb4acb13477c2f4ec2ff5255cad4ad1f8ca5bdb679c64857ede02d",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_42.BUP",
+   "sha256": "6b36b17d6bb490edd220ba451dd4b147a42f923c1ba0a6ca39a5a76904e43e53",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_43.BUP",
+   "sha256": "b7b35104411f0fc04263bfbac8034b9360f5b4dd27f1fa6adba826f8f747dc2b",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_44.BUP",
+   "sha256": "e4cc41634ff96193e0688bae2955f98cd3c12c7f4c3cfc97bb4f8a001f0e8c57",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_45.BUP",
+   "sha256": "77ce0e653800d6a3ca93304727993fb08ae66b717b66a5bb3afe02620024bda4",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_46.BUP",
+   "sha256": "661e65e75f441be59c7f823bdacf9704113749a7f59752b33fa56cff1d16de00",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_47.BUP",
+   "sha256": "b7e05e4c14e0b2646e74bf72e267d212551c54ec9af4dfa89ff1ae9dc35f28e9",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_48.BUP",
+   "sha256": "d43ab131bc0a4571a0407b1dee45046fa2dc505d589840b7ba005481890516fb",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_49.BUP",
+   "sha256": "b203febd4e0acc2c6eda059482c1a86713bf4871721f73ec652ffca0dd931c92",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_50.BUP",
+   "sha256": "bb1670c0770b46d01e95fc8c7848e3438169a706732f49cc50739dfadc32caad",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-012[JU]/IRONSTRM_51.BUP",
+   "sha256": "2e8335a7adbe90055f31dc7748a4d36ff935c338bf54dac4ab6543d948f705b8",
+   "size": 20028
+  },
+  {
+   "path": "aether/SAVES/T-013/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-013/05/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-013/05/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-013/05/CART/SEGARALLY_1.BUP",
+   "sha256": "a4fa39fdc9ffb5a03854ab691a228597dbe2c29139bdb161135ce8a055018072",
+   "size": 62528
+  },
+  {
+   "path": "aether/SAVES/T-013/05/DRACULAX_02.BUP",
+   "sha256": "c4a6fa36b7b34b7cfe06d9fb23e6efd1407b8d51856b4cc7a3c10413d19c7568",
+   "size": 4452
+  },
+  {
+   "path": "aether/SAVES/T-013/05/SFORCE31_01.BUP",
+   "sha256": "bab110d0e128256f575e13acc627c44155859cc8f7d3fedd699c573d88395c3d",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-014/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-014/BIOUDATA_01.BUP",
+   "sha256": "3454003631fc302281ee36a55d210fa2a622b9588c3d2c7279737a825164efea",
+   "size": 608
+  },
+  {
+   "path": "aether/SAVES/T-014/BIOUDATA_SS.BUP",
+   "sha256": "6ed3e4a1cd6296d760858c91a701e3e8a0f054dbadb7d8d6280274b9f0ff00b1",
+   "size": 264
+  },
+  {
+   "path": "aether/SAVES/T-014/B_GAREGGA__.BUP",
+   "sha256": "301e2fdc3a830efd90a20c65c2c997b6db1f6d503eb232df76f1f54ab5d9ebce",
+   "size": 5392
+  },
+  {
+   "path": "aether/SAVES/T-014/GOIKEN__001.BUP",
+   "sha256": "63e23919e76ff2b63bf1ee883f16f4c9e11590ade81ef045d1c3ed328030e4c6",
+   "size": 3120
+  },
+  {
+   "path": "aether/SAVES/T-014/GOIKEN__DAT.BUP",
+   "sha256": "481a210ec2eaf151112ff7d566ed76211ad3d41715f5fd07c71f3e18501d622b",
+   "size": 776
+  },
+  {
+   "path": "aether/SAVES/T-014/HOUSEOFDEAD.BUP",
+   "sha256": "c54b1e64f6ffd1070b8bf975bc5374377d33fdbafa3cc287c2d1f8644d246b84",
+   "size": 1232
+  },
+  {
+   "path": "aether/SAVES/T-014/SALAMANDER_.BUP",
+   "sha256": "ea8182c33451857cdd21734c78b1ede1b04cbbc69da81e735392fc586d7de5a4",
+   "size": 562
+  },
+  {
+   "path": "aether/SAVES/T-014/SFZERO3_001.BUP",
+   "sha256": "c7cb7bdcd5cc734947330f5917919feaa4aa32dd0ffc5291a97de3a5fb6eec52",
+   "size": 5376
+  },
+  {
+   "path": "aether/SAVES/T-014/SFZERO3_002.BUP",
+   "sha256": "4ffe13b58e4d897bbe97196629c0fde5751428ffa4fe301717931f33d465b838",
+   "size": 5376
+  },
+  {
+   "path": "aether/SAVES/T-014/SF_ALPHA2_0.BUP",
+   "sha256": "50a312685a883bfa7b7d402fbfe80c7555b8dc54c48e9cc0501c18264a376d9e",
+   "size": 544
+  },
+  {
+   "path": "aether/SAVES/T-014/SF_ALPHA_00.BUP",
+   "sha256": "7e7ca5f93e348cd50f478b941d80709dd6e14c6f5721e957056dd380b54ca4cd",
+   "size": 2068
+  },
+  {
+   "path": "aether/SAVES/T-014/SF_COLLE_02.BUP",
+   "sha256": "752bbead18b62aa79b41b7dc9ae8e2294cf00ed1a7df94593a1af77bebb889b0",
+   "size": 344
+  },
+  {
+   "path": "aether/SAVES/T-014/SF_COLLE_03.BUP",
+   "sha256": "c74cf33111dc3832cbd9555a8da83ded5f4391aa03e6f36f293ac8849e1dcca7",
+   "size": 544
+  },
+  {
+   "path": "aether/SAVES/T-014/ZENNICHI_01.BUP",
+   "sha256": "664e5dd9585fe522e0d835f25cd6a90e325bf7f5e21d0db7cd4f9c80082048ba",
+   "size": 208
+  },
+  {
+   "path": "aether/SAVES/T-014/ZENNICHI_02.BUP",
+   "sha256": "5198f7facbf164c21d551430b60d7aaf44c072a72779f990c001d7e763a0f1f0",
+   "size": 2464
+  },
+  {
+   "path": "aether/SAVES/T-015/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-015/07/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-015/07/DAYTONA__00.BUP",
+   "sha256": "58764663ebaa8d901f9aedc16650c74437fa398ce1c5144c6b2089be8c8333c8",
+   "size": 2527
+  },
+  {
+   "path": "aether/SAVES/T-015/07/DR_FORCE_00.BUP",
+   "sha256": "3a676c7890b2e1b4c3563297d5e93f7c2bcdec473e9800a7a79d5b7fe6a3ed3a",
+   "size": 18208
+  },
+  {
+   "path": "aether/SAVES/T-015/07/FIGHTERS_MM.BUP",
+   "sha256": "8bb7fb85b5c6a58784d4c24b1d5e8cc42cd8100199ffeb732f9859abc52ecb19",
+   "size": 1460
+  },
+  {
+   "path": "aether/SAVES/T-015/07/GUARDIAN_HE.BUP",
+   "sha256": "afce75289a9612ae0418fff5c5e9cd27b625109f42e74726087d60b953c2b049",
+   "size": 1224
+  },
+  {
+   "path": "aether/SAVES/T-015/07/SONICR___01.BUP",
+   "sha256": "3ab5c2f7b1ad7446a696d8e1ea5cdc65507de67350435b8cc7d064db7cac8cf7",
+   "size": 400
+  },
+  {
+   "path": "aether/SAVES/T-016[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-016[JU]/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-016[JU]/CART/TAMAGOTCHI_.BUP",
+   "sha256": "1ed5dc9219f770e31d7bd72d0df172fe7a374e0f34f4f8b74971605471836b76",
+   "size": 34052
+  },
+  {
+   "path": "aether/SAVES/T-017/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-017/09/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-017/09/DRACULAX_01.BUP",
+   "sha256": "75cb5e2973ae4f2a27d617783de0dbe23f5a36480a38c262f47f80bf04c80fb5",
+   "size": 4452
+  },
+  {
+   "path": "aether/SAVES/T-017/09/DRACULAX_02.BUP",
+   "sha256": "c4a6fa36b7b34b7cfe06d9fb23e6efd1407b8d51856b4cc7a3c10413d19c7568",
+   "size": 4452
+  },
+  {
+   "path": "aether/SAVES/T-017/09/FANTASYZONE.BUP",
+   "sha256": "741d8dd2af6a38ae7a8a4547b00adaaf5a46eee4cd9db6aa4a125d1b21568d95",
+   "size": 208
+  },
+  {
+   "path": "aether/SAVES/T-017/09/HARRIER_D01.BUP",
+   "sha256": "0fce38080b6ed1c6a663bf27ecb42f167751c79651dfe143c59cf1078b67d647",
+   "size": 740
+  },
+  {
+   "path": "aether/SAVES/T-017/09/KEIO2______.BUP",
+   "sha256": "26e14bed1efa7edc77b66ce91d5d8f60692b4af81df4828cc821ffebdcf6443e",
+   "size": 96
+  },
+  {
+   "path": "aether/SAVES/T-017/09/NIGHTS___02.BUP",
+   "sha256": "95aca3db439380486047ce3570532ef9b9d63ef13df70b2b98413959eab148a0",
+   "size": 12608
+  },
+  {
+   "path": "aether/SAVES/T-017/09/OUTRUN___01.BUP",
+   "sha256": "8f016856f462c15a8a9ee7c4eb9fce12b0073881c08ce96c53c24561c7b68f0b",
+   "size": 1184
+  },
+  {
+   "path": "aether/SAVES/T-017/09/POCKET_FIGH.BUP",
+   "sha256": "b5a256bed2915c284232563f7b82894b39a161db395f23d65f433473539faa5d",
+   "size": 384
+  },
+  {
+   "path": "aether/SAVES/T-017/09/PZL_F_TURBO.BUP",
+   "sha256": "8a74017bec39635beee1ac331cba61088d66339c5ab472add03b8fb507fec42e",
+   "size": 544
+  },
+  {
+   "path": "aether/SAVES/T-017/09/QUTENKAI000.BUP",
+   "sha256": "359f77bb3fcb64bf6c193b8db4e77b1b8e86c4e8ad0500cb3d77d6e0eac099bb",
+   "size": 548
+  },
+  {
+   "path": "aether/SAVES/T-017/09/RADIANT_S_G.BUP",
+   "sha256": "18d1b087a18afea8ced4422afec1bc1a52047f0318b3ea19d00ac211fcc810ec",
+   "size": 1932
+  },
+  {
+   "path": "aether/SAVES/T-017/09/SBOMBERMANF.BUP",
+   "sha256": "e1f101274b295af721994831d5d15c19e74b5f49fa3f6d1635198b8ce21fe25d",
+   "size": 302
+  },
+  {
+   "path": "aether/SAVES/T-017/09/SENGOKU_B__.BUP",
+   "sha256": "74ed0f37067acab4071cec244cab91dab37f86cb8f90df2e1113b5dd3eaaae6d",
+   "size": 536
+  },
+  {
+   "path": "aether/SAVES/T-017/09/SOQGUREN_01.BUP",
+   "sha256": "c493d416299ce6b85fcf853b5189601bbeed459ebdab2a380ca70601db6d291e",
+   "size": 1642
+  },
+  {
+   "path": "aether/SAVES/T-017/09/TENCHIRENSA.BUP",
+   "sha256": "1348ce378ba5a6ec0b842c5d9e52c311d0b7cfabe0eb068c21cac26411cb3674",
+   "size": 160
+  },
+  {
+   "path": "aether/SAVES/T-018/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-018/FIGHTERS_MM.BUP",
+   "sha256": "3401301efcd43ea8e80d345643b44b776e7e45eb722924ce6694c74df61ed341",
+   "size": 1460
+  },
+  {
+   "path": "aether/SAVES/T-018/MSH_VS_SF__.BUP",
+   "sha256": "9c0440c467ffd0e6ce8480fa5cec8e95fb4ea967453a619c8841c04cf01b2739",
+   "size": 544
+  },
+  {
+   "path": "aether/SAVES/T-019/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-019/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-019/02/AQUAZONE_01.BUP",
+   "sha256": "0f3d321f35ca5ce9fa0d354a0427b24200b69f6a988db1c47d593463fbff3b4f",
+   "size": 4160
+  },
+  {
+   "path": "aether/SAVES/T-019/02/AQUAZONE_99.BUP",
+   "sha256": "116641e2e1e68507028332638267c6a1a6193340ab93ad695014eaa59c49dad2",
+   "size": 1372
+  },
+  {
+   "path": "aether/SAVES/T-019/02/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-019/02/CART/DEZA2____01.BUP",
+   "sha256": "ffaea3abbaeba0cdf8952b8cd6b5d5ff6febcc221de40c45dac862b57e9551c0",
+   "size": 127635
+  },
+  {
+   "path": "aether/SAVES/T-019/02/CYBERBOTS01.BUP",
+   "sha256": "024a2fab54e4794ae9a7ba3e1ceeea512255eba300fde82e8c9389a7d88d438e",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-019/02/DAYTONA96_0.BUP",
+   "sha256": "7cf490899591d5795257058e4a26e8006c443ccf790b7820e014da06ff96f49e",
+   "size": 4097
+  },
+  {
+   "path": "aether/SAVES/T-019/02/DEVILDIC_01.BUP",
+   "sha256": "3b49ccf286e5768fbef79d359781bc48a3ca61d9f5121b6acdc7feafcc69bcab",
+   "size": 110
+  },
+  {
+   "path": "aether/SAVES/T-019/02/FIGHTERS_MM.BUP",
+   "sha256": "cd65c41f4117ecccdd0e38b64aa7694cb53d52eaa7ca62526661ae594c7f7034",
+   "size": 1460
+  },
+  {
+   "path": "aether/SAVES/T-019/02/FVIPER_MAST.BUP",
+   "sha256": "6588acb9c5d6c44ffaccb9d93b260a88b5ab55832505db355dac180949f641c7",
+   "size": 3152
+  },
+  {
+   "path": "aether/SAVES/T-019/02/FVIPER_RP00.BUP",
+   "sha256": "e0f6b67dfb37c4f23e0183b4e2baf00c6f5a30afaa5ef4ca2e84029a1e486d8f",
+   "size": 1168
+  },
+  {
+   "path": "aether/SAVES/T-019/02/FVIPER_RP01.BUP",
+   "sha256": "48ee841aa37f9e1c244bb4b831da03367c92fab025a2c84b7bc814ef33d7b21d",
+   "size": 642
+  },
+  {
+   "path": "aether/SAVES/T-019/02/GGRIFFON__1.BUP",
+   "sha256": "de07f872c009cb3ecf1e3dd4ed53d7ae92e9f72035818df6f8ca4cac45cd4671",
+   "size": 640
+  },
+  {
+   "path": "aether/SAVES/T-019/02/GUARDIAN_HE.BUP",
+   "sha256": "2264490ed9ccc60f4ace7a3de710480c7edf25d2a06d378d52739e7834bc2dd3",
+   "size": 1224
+  },
+  {
+   "path": "aether/SAVES/T-019/02/HANACOLUMNS.BUP",
+   "sha256": "070a68bef80be89d2063cfb4bf3159276e18ba72fc5b10082589ac27bdddf91d",
+   "size": 672
+  },
+  {
+   "path": "aether/SAVES/T-019/02/JIKUUTANTEI.BUP",
+   "sha256": "b141c4ba964861ee3bb0b5892a8a99d122b3fb305ee1b83cf358a60d77c35d80",
+   "size": 1152
+  },
+  {
+   "path": "aether/SAVES/T-019/02/KEIO2______.BUP",
+   "sha256": "c73107b4f2910d677035b0b01b9d09c0b19b582c9eac4358a52cbf1b7584ba66",
+   "size": 96
+  },
+  {
+   "path": "aether/SAVES/T-019/02/K_O_F_96_01.BUP",
+   "sha256": "14d4d025a97a4d7d337f7c396f6d44256bd352a08dbf442360590b0e26711a66",
+   "size": 288
+  },
+  {
+   "path": "aether/SAVES/T-019/02/LIME_V2__01.BUP",
+   "sha256": "04f49ab09fc755985d60022754ac2b464b6f7b296d0f77baf1db50f3fd8878db",
+   "size": 68
+  },
+  {
+   "path": "aether/SAVES/T-019/02/MEGAMIDS_00.BUP",
+   "sha256": "ab64e104b8f2a87fe069143787ab02cb94a58b693009401d5026d5ea6e03a7f3",
+   "size": 8256
+  },
+  {
+   "path": "aether/SAVES/T-019/02/MEGAMIDS_01.BUP",
+   "sha256": "beb0220d829232abb34520a889281f0adf963871b1953b86a2f3de36b81eed18",
+   "size": 8256
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PM2_DATA_01.BUP",
+   "sha256": "ecfdfa0aeab71bc0ab34d70beb6846c828b47cae47a2a75f852efa4e7a7220ba",
+   "size": 1768
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PM2_DATA_02.BUP",
+   "sha256": "213bc5c4cb1c0147b9554eae4d358dfd38ccb36e6a2b22aee476cefabe4be9f3",
+   "size": 1768
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PSYCHO_T001.BUP",
+   "sha256": "b45b10ee48be34960ef5ce893e118d49cba899b18bd24741988d25e4857de67a",
+   "size": 84
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PURUMI2_000.BUP",
+   "sha256": "00e84254e673d9f3e06a684e676ddb683f45e4cdb2736b6bad91286c7ba102aa",
+   "size": 2008
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PURUMI2_001.BUP",
+   "sha256": "d963d009b6d5547474fca2b6d94f7d7c1213221ad840c31fa4bc8167c7019a6b",
+   "size": 2008
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PURUMI2_006.BUP",
+   "sha256": "cc7ee533b0934daf76a04205a1bcb2f7f320be7245efe43265bdeeef602b77bb",
+   "size": 70
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PUYO_SUN_01.BUP",
+   "sha256": "a429ec776b3eba16c7c4318a96f12ff471804a27eb3986e2746a01be3def12db",
+   "size": 416
+  },
+  {
+   "path": "aether/SAVES/T-019/02/PUYO_TWO_00.BUP",
+   "sha256": "5404ff4e0bc19483848a158cca0e69cfe9273073a670204f2531aa6cbcdbfefb",
+   "size": 1132
+  },
+  {
+   "path": "aether/SAVES/T-019/02/RIGLORD__01.BUP",
+   "sha256": "2aa1269258fef0caf0351b1b4bcebc4b119961b0c6d45cbbee79635328a4e91b",
+   "size": 7356
+  },
+  {
+   "path": "aether/SAVES/T-019/02/SAKURA___01.BUP",
+   "sha256": "9f18dd0c163a537cd9536776adfbbb7a53c13c0eee7d760939a0f0c942f40837",
+   "size": 5772
+  },
+  {
+   "path": "aether/SAVES/T-019/02/SG_MASH_001.BUP",
+   "sha256": "2b59ab28631466646507d199fdc00302c8cb36417b038507a06eaca7b6d3a0d7",
+   "size": 4576
+  },
+  {
+   "path": "aether/SAVES/T-019/02/SONICJAM_01.BUP",
+   "sha256": "d4243270f47dd355940a051b2079a037073b1aa104cbaab1955642622994edc1",
+   "size": 1472
+  },
+  {
+   "path": "aether/SAVES/T-019/02/SSSSSAVEDAT.BUP",
+   "sha256": "81eb7776d0457fb0c3cb154d4481cb7013fa9d5a6ecb80ea26d393df08642dbe",
+   "size": 8256
+  },
+  {
+   "path": "aether/SAVES/T-019/02/SSYUMEMI_01.BUP",
+   "sha256": "1251921811fcc821ba565436d74686feeefe356a3b2b37bf0df2666066c4f639",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-019/02/S_GUNDAM_01.BUP",
+   "sha256": "c5b45a7084e30678488405da19cbc98920b92d9c86f1825ca35f16ab1748a630",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-019/02/S_GUNDAM_02.BUP",
+   "sha256": "177646ecce58d9d4436c4aacce147ed8a610f1dde654df41e79ae2df85d75852",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-019/02/S_GUNDAM_03.BUP",
+   "sha256": "c05ccb48f087cc2f1646d2a2ac5a3db8f0fc299da48a83f3c6e06b097b2a4685",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-019/02/S_WISDOM_01.BUP",
+   "sha256": "b6eee11ec415324ede075b70c56ea7610f3b4699f2f810796565a21066d067bf",
+   "size": 1088
+  },
+  {
+   "path": "aether/SAVES/T-019/02/TERA_PHA_01.BUP",
+   "sha256": "ea17e2ce5dc8862da7a9b54efe144fbab442ca1fe5506547bfe7f044fafc4b5e",
+   "size": 1300
+  },
+  {
+   "path": "aether/SAVES/T-019/02/TE_HYD_1DAT.BUP",
+   "sha256": "209be8fc86265038da99ad934d5b2f84fe0dcc123d526f212582fad33ef70aa2",
+   "size": 18432
+  },
+  {
+   "path": "aether/SAVES/T-019/02/THOR2SVDT_0.BUP",
+   "sha256": "d1a363d8b394606d09c82b453d64bb4303ed94361396779696379006fc9bb3f4",
+   "size": 760
+  },
+  {
+   "path": "aether/SAVES/T-019/02/THOR2SYSTEM.BUP",
+   "sha256": "b4bb91a4bc8c8efbb2acf22964ae90fbdb9c246a447a5a9490c93f3d1edabb8d",
+   "size": 212
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VFIGHTER_01.BUP",
+   "sha256": "ff8a85e874827e0012857622c7530dd0ac5a128edcd6db1a19af64e2b3a3faf7",
+   "size": 1088
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VGOAL_WE_01.BUP",
+   "sha256": "0e54a3a5bfb6d106b4e06aa95a38aa7215f4763db163234e01e43a0b7e1bcfb7",
+   "size": 228
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VGOAL_WE_02.BUP",
+   "sha256": "4906251f1ed606b11e41c3f73021eef53d4304d3dc3f63108ade73034f586b8a",
+   "size": 6468
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VGOAL_WE_03.BUP",
+   "sha256": "393af660ad0d92d8a75df56125b21fddda8fe8f4299a26568fcf4b8bee8783ee",
+   "size": 9456
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VGOAL_WE_05.BUP",
+   "sha256": "a4c3ab0ef682150fb529d57cebedc69231b1a4c55a37f948c5489445e486e634",
+   "size": 748
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VOICEREC___.BUP",
+   "sha256": "b0369a001807f7f7fd507c2e97fc69a209adef842aa397173316d613971b8fb0",
+   "size": 2176
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VRRECORD_00.BUP",
+   "sha256": "d44bfe8a3e31865993cfedfffde00cf880f87c3c368f0d8da1ce2f4222101cf0",
+   "size": 2448
+  },
+  {
+   "path": "aether/SAVES/T-019/02/VRRECORD_01.BUP",
+   "sha256": "504c1d626eb6b7d6dd5f091cea538efe6dccb191541ebdd61504083e98170e0c",
+   "size": 608
+  },
+  {
+   "path": "aether/SAVES/T-019/02/V_HUNTER_01.BUP",
+   "sha256": "fb05dcf8c6dd3e9d7ba4fbf49c0156dc8dd1d95fb4334f00c5ca61a91038e6e9",
+   "size": 576
+  },
+  {
+   "path": "aether/SAVES/T-020[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-020[JU]/SAKURA___01.BUP",
+   "sha256": "20feac453a923f64f9d46ff127a53b469d9b11935cbd4235dc8ea19a4e5a48dd",
+   "size": 5772
+  },
+  {
+   "path": "aether/SAVES/T-021/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-021/04/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-021/04/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-021/04/CART/SEGARALLY_1.BUP",
+   "sha256": "a4fa39fdc9ffb5a03854ab691a228597dbe2c29139bdb161135ce8a055018072",
+   "size": 62528
+  },
+  {
+   "path": "aether/SAVES/T-022/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-022/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-022/CART/TAMAGOTCHI_.BUP",
+   "sha256": "43f094646677d8e95da1cb12720441c3570c7a95593bfc580a16b3fe5ac27d4c",
+   "size": 34052
+  },
+  {
+   "path": "aether/SAVES/T-023/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-023/06/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-023/06/BUL_SLA__01.BUP",
+   "sha256": "735be02fdcae3ff47dabbec83f61097d3351875ee4c325f6d30025830ae0feac",
+   "size": 240
+  },
+  {
+   "path": "aether/SAVES/T-023/06/CYBERBOTS01.BUP",
+   "sha256": "d0a91656d7f11af5a1527422e86505706d0935c1638d89260678a6574d4ffdcc",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-023/06/LEYNOS2_DAT.BUP",
+   "sha256": "090f8316f705f51404d81bb625146035e0b876c0a8641e65033ab94b0551d72d",
+   "size": 2272
+  },
+  {
+   "path": "aether/SAVES/T-023/06/MEGAMAN_8__.BUP",
+   "sha256": "976a206d993c2b7835c85f77f678d49f6d6cca3bbbe6c95f85a81d5ea1ba5147",
+   "size": 412
+  },
+  {
+   "path": "aether/SAVES/T-023/06/S_GUNDAM_01.BUP",
+   "sha256": "9fb0bea5fffb4944420f58c6cb3ccb2b69d4b6a858c362c98a2b224a40113d97",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-023/06/S_GUNDAM_02.BUP",
+   "sha256": "1bf4287075bacd18e71bff9cf1aabccd73b1e02d58f89867e59e24a9a72fa68f",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-023/06/S_GUNDAM_03.BUP",
+   "sha256": "6370eabe514c73c60d4ab834cf249460e66cfec9d0da60b368d6b3a98c53eab9",
+   "size": 320
+  },
+  {
+   "path": "aether/SAVES/T-023/06/TF_GP2___01.BUP",
+   "sha256": "b309ccf57fb4f86441b9379d5cb2c08c9361257b4ed5ee3c07f6b02ad72ea5a0",
+   "size": 168
+  },
+  {
+   "path": "aether/SAVES/T-023/06/T_FORCEV_00.BUP",
+   "sha256": "826da3de88bb43e6b6d2ab39ef5daecfc897206efed2ec1c36c60305fe4e7c55",
+   "size": 1952
+  },
+  {
+   "path": "aether/SAVES/T-024[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-024[JU]/PANDRA_3_01.BUP",
+   "sha256": "b06c7757228ee71628d38eb8c40a430a6065763e6d97f5b1e93c95026079ab74",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-024[JU]/PANDRA_3_02.BUP",
+   "sha256": "900cc06ae602d996186d3b202b962c0f082806b206f5c431f11e031f3adeab0b",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-024[JU]/PANDRA_3_03.BUP",
+   "sha256": "65fe72ed5fc00a308883eedf6ff4fc84d7b791fbfb8f8223f0fb2eda2138662e",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-025/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-025/08/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-025/08/PANDRA_3_01.BUP",
+   "sha256": "4851bbd70f7c07eb45af87194db54747303e27ea7cc1a8dfa756933a174545d8",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-025/08/PANDRA_3_02.BUP",
+   "sha256": "d7cdb6330bfbbe24e47dbeb1b84f42d5186b6c8211e26e1d2cf158e707814482",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-025/08/PANDRA_3_03.BUP",
+   "sha256": "a18b5749da7cbc1de63431a8253057ad50fd1f0624abb46ae8dc80a01e237ef3",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-026/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-026/PANDRA_ZWEI.BUP",
+   "sha256": "23a3b2c3f64f75deff645cf41be929c2f201f5a28c3693701cf0f0a08308b08f",
+   "size": 513
+  },
+  {
+   "path": "aether/SAVES/T-027/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-027/01/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_DAT.BUP",
+   "sha256": "5981f6730376b36e708dafa2734f3caba95e690374010a864fb013343c23ecaa",
+   "size": 116
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T01.BUP",
+   "sha256": "45c706af454e423bc5577ce518e3df73d3c4f63baa6e10051f00b4e850781795",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T02.BUP",
+   "sha256": "c8867a86676a4f3dc453a6ddadff4294fdc3333174915b6d77ee7a35f8b0782b",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T03.BUP",
+   "sha256": "bfa9a5f3b5f346ac6e613a0f530120df4d623e159896fa462cd4b7e7615fff95",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T04.BUP",
+   "sha256": "367ecb2b9ec81c8c8655a29b9caac6209d4b8a0f2d01158db98daa6c8d79983d",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T05.BUP",
+   "sha256": "27559046f79deac987f2c24b768c6e91ceca1a0879e8360c5df289cd8eff9ad4",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T06.BUP",
+   "sha256": "292f5db06f15300646ce184b2b19622295ef8726f536b93124853444bc0625d7",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T07.BUP",
+   "sha256": "5b5c27b7904096522d168dbb9d57e0cbde6c1d8372b8fe035bcb4a3a4ec399c3",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T08.BUP",
+   "sha256": "65655e2c4f38ad0d582a1e364ea56dd44c98a5efd06c653db9d26934827ec9a0",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T09.BUP",
+   "sha256": "942b5cb1d62ab6aee3f0905ee696bf0aff3a09eed917bb8d4f73d44c9fd9a4be",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T10.BUP",
+   "sha256": "136e614544e81943926d11cc279216f16af85ea806b6bd21f9ade1a33f446c8c",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T11.BUP",
+   "sha256": "44d49a75adcf29084066a61055a33c8bcbf88593a65174ee523b5b24c3fb8fab",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T12.BUP",
+   "sha256": "7ddd6466253bca8c18b482a466412896fcbf1cbc237ea83c19e07d59af32686d",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T13.BUP",
+   "sha256": "72e24f29ce6fbb9b0ef68e743defb160f5758b684e9ad58e9b69fbfca96d722d",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T14.BUP",
+   "sha256": "33918efae8dc76b086e4b4dd88c375b83082493ad9d457e5ddc8190230461294",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T15.BUP",
+   "sha256": "70ca99b00618f2d19357fca7e94683e5fc0a858995c18b965126d73630f60522",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T16.BUP",
+   "sha256": "a150231fa2eb6c02f13b7c53cb9248a3dd89fec30e9702a3b6736dd4d081ef76",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-027/01/STELLAR_T17.BUP",
+   "sha256": "48105bba4c4e1fbca6fb8b26e750ee89e71431b5fac739813814d10196dc5b1c",
+   "size": 16416
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/AB2SCORE_01.BUP",
+   "sha256": "ea69bc4124276fe9c266b264f6204b325999f06fa2f456052ffdbdfd161c9e48",
+   "size": 1056
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/BLASTWIND_0.BUP",
+   "sha256": "b83aa8a0ae29ba8e947191d9bf9e7c1641164eab1312d0d2913ceadd5fa3f37c",
+   "size": 332
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/BOMBERSS_01.BUP",
+   "sha256": "41e4387f2646972e22edcedd2dcb953570fd33244ad984da4e2e28e5752419ea",
+   "size": 76
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/BUL_SLA__01.BUP",
+   "sha256": "7f06b2f0db419efd53a83faeaa5935bbd974526c1e26bcda604eb5d42d3b0cf3",
+   "size": 240
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/B_GAREGGA__.BUP",
+   "sha256": "5a7941fc942cdaf2992fa7d33e04ac937165fb680cdbf6d88c31ba509ae5f692",
+   "size": 5392
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/CLOCK__DATA.BUP",
+   "sha256": "de323bbd59d3021d6d3a25c594c45223ae007d6ed9eb5f6716017fac77477b57",
+   "size": 92
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/COTTON2_DAT.BUP",
+   "sha256": "3702f103425d672fe2f8b59e4b721d76037ad9808f942dcdd85190b62f1d776b",
+   "size": 3124
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/COTTONBMDAT.BUP",
+   "sha256": "141906ad569e4d91fc2a79785d99ec8e03e34e51757701ef092b37fb0f3aebc5",
+   "size": 1688
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/DEATH_CRIMS.BUP",
+   "sha256": "3d8ad6d78655e18c7eae3b5d9a8124c9e5a40a612a9540fc4b7559c996778103",
+   "size": 134
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/DOA_SS_FILE.BUP",
+   "sha256": "520e957a1a96f31b8cd100dc352f273facf10005f5c2350021c74b9364f620d4",
+   "size": 1505
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/ELEVATOR_AC.BUP",
+   "sha256": "6884f9aafb4f81255de10acec60ec9f527ffce90415415ac63ecb56229928c28",
+   "size": 314
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/FANTASYZONE.BUP",
+   "sha256": "0314d18197eb2c13b3be67f2127f184697eb294a4999c7345d6e1dfff35497fe",
+   "size": 208
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/FVIPER_MAST.BUP",
+   "sha256": "39319bd2997db0ee954bfda30a5b572bd377421f972f70f315e8750787668bdd",
+   "size": 3152
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/GA_YUMIMI_R.BUP",
+   "sha256": "20043128c74a19b9a6acf11a65dfc60f5edb0c5376fd25fcbf8da677887bf801",
+   "size": 352
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/GROOVE_ON_F.BUP",
+   "sha256": "580ea974656d53df2474ef699f03f60f85b2a152697e83e5b855affd1b67c207",
+   "size": 266
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/GUARDIAN_HE.BUP",
+   "sha256": "97fe0b6d5f1e1c30a2a34d77daa0a743241ea174674bef40a5c67bc206781546",
+   "size": 1224
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/HOLY_ARK_99.BUP",
+   "sha256": "6dd7d27c67c7d3af439c449915db96c2bebb661ba0fc0f444df3ad10ac23c18b",
+   "size": 4160
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/HYPERDUEL_0.BUP",
+   "sha256": "ea7ab15f0091104f2145029bb322550e173bff231d07af165227c5f97d3a5032",
+   "size": 324
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/KEIO2______.BUP",
+   "sha256": "754d7cd28f85aea1125ef8951a8550433ac7211bb22f6b6bcb3a798b51ccbfc7",
+   "size": 96
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/METALSLUG__.BUP",
+   "sha256": "b375976c1582e56bd1579ef95ac67af194be374f892bb425a639c63ede2f1e97",
+   "size": 1360
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/NINPEN_M_01.BUP",
+   "sha256": "3f7cfb11b75282f195c47ca98763abafd8b4c2cca2ab48033f14b99a642f95b6",
+   "size": 79
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/OUTRUN___01.BUP",
+   "sha256": "18008fd3054221e39f854b94377231a2ce8ecf578ab9c89867e34f83e075a596",
+   "size": 1184
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/PANDRA_ZWEI.BUP",
+   "sha256": "575e326b2bc0300cb277865a3e67490f22b7c7eb4e0ebfeeaca59caf83b31417",
+   "size": 513
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/PUYO_SUN_01.BUP",
+   "sha256": "49825fa6c1796a56a64b643b904cfee79895b561e1124457d528198ddece9a2e",
+   "size": 416
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/RABBIT_DATA.BUP",
+   "sha256": "79bd21296427677524b9288e6e04257472e1179d0dc3b522d9fd63e17dd1695f",
+   "size": 1120
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/RADIANT_S_G.BUP",
+   "sha256": "fe681211c1de9cbc320cad78c8257eb7de2fb0c7eb6b7a133fb0c598b07cfcfa",
+   "size": 1932
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/SAKURA___01.BUP",
+   "sha256": "4b1a4e46f2894c2c2ff8717daae7f1894772dd0b038acb44b32d2938c98eb381",
+   "size": 5772
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/SA_MEMSEL01.BUP",
+   "sha256": "e3fbe250bd9943a345c4cc25bbbea132655d694ca2d0d4b7775db0ce97a54bab",
+   "size": 672
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/SA_MEMSEL02.BUP",
+   "sha256": "70d269166e7414220b3e3578d336abc2cd117677a8c0172f18e17310399f98b0",
+   "size": 1260
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/SBOMBERMANF.BUP",
+   "sha256": "b15cd24d21b670844966d4b8179cfcbb16faae3bd07a793b3e04da2ea5032c0e",
+   "size": 302
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/SG_MASH_001.BUP",
+   "sha256": "85f9f54fe7396b6450fa8ab005d3d453aab7b8c49f7580104ce33926466f4b9d",
+   "size": 4576
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/SONICJAM_01.BUP",
+   "sha256": "0f474e20bd1bdd16eee2f25221f64b6b323fd112ae5dc883d900e76b4bae6a66",
+   "size": 1472
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/STEEP_SL_99.BUP",
+   "sha256": "71e9336cc20a6ba04069e49df8610edc4336625b9075d1e4873477e81d1b13f8",
+   "size": 1220
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/SWAGMAN_DAT.BUP",
+   "sha256": "cb642ea3e80b0d4551dd60ca0b6f2cd8afadb10dad40f1063089425c7393fefe",
+   "size": 4120
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/TF_GP2___01.BUP",
+   "sha256": "3219c425dd7bd7f9f723796610c1338ed4102508f286d287f4caf3e122d56300",
+   "size": 168
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/T_FORCEV_00.BUP",
+   "sha256": "2926856bab82cfa5a578cfffdfc97f6275979b140b949f0b0bca0f20c348bda7",
+   "size": 1952
+  },
+  {
+   "path": "aether/SAVES/T-028[JU]/VFIGHTER2_X.BUP",
+   "sha256": "6cd42060383bbaddb89fbfb6b76ab8acef217a7737143829674da01b2beb6a42",
+   "size": 11496
+  },
+  {
+   "path": "aether/SAVES/T-029/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-029/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENAUTS.BUP",
+   "sha256": "bcd555eadd006a8429113600f4d0f287c1e102925c3752a628a656ac3b64629a",
+   "size": 3288
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_01.BUP",
+   "sha256": "9e0cb5278ec630c1cef7996a6ff0718e270106a3409363dc275c3d24e48cfb72",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_02.BUP",
+   "sha256": "0a1f4f0076246a61648ea13fed942a95c0ee344c37409c8366f772263be18cc5",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_03.BUP",
+   "sha256": "b833c5df2d342bbf8ec958db7821e97ae69dd502559278f3f86d15047897323c",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_04.BUP",
+   "sha256": "192c0c4b7f00c81bf34889f792a456d2074f7a59b355ec672e3d4784f0154c46",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_05.BUP",
+   "sha256": "ca4a3069bd662bd52d1be0779a2bcc55f56d33bc7235a82f6850065370922ecf",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_06.BUP",
+   "sha256": "8cdbf9cf025464e6ec2b95b3010c21c45563c4ef69997745641fd5edc9f0c1c5",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_07.BUP",
+   "sha256": "14ed1fdaed4638b918a6fffb1fa31d98f28a6167bf07637c93f9c107d5fed3d8",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_08.BUP",
+   "sha256": "747c90214a3aa9c3a6440543e8dde2c7e7fd7170f854ba6bac1caee538a14da1",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_09.BUP",
+   "sha256": "261482b35880a119e841cad076531ab59c04873f29a8aa4a31da9975e0162677",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-029/03/POLICENA_10.BUP",
+   "sha256": "a8bef592dfcd9a8b58bd9f7a3a6e6cee61a710319106d89cc9a89720352c2a65",
+   "size": 3072
+  },
+  {
+   "path": "aether/SAVES/T-030/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-030/ATHLETEKING.BUP",
+   "sha256": "a1c1334923a4165519c1e927f0975f28ec88c63704815c22577c54460650226e",
+   "size": 1312
+  },
+  {
+   "path": "aether/SAVES/T-030/CHORO_QP001.BUP",
+   "sha256": "1a7fd86e894e424c775acbd65bd34a819bbb7437008fd4fc57c1800acdd41a29",
+   "size": 4908
+  },
+  {
+   "path": "aether/SAVES/T-030/DAYTONA96_0.BUP",
+   "sha256": "71e5d3322c6eeb9cc74ae825768eeafd2c3c7a6e4b9c0fca7a3c569ae303b9ea",
+   "size": 3806
+  },
+  {
+   "path": "aether/SAVES/T-030/DAYTONA__00.BUP",
+   "sha256": "2a64ccffe8ca15d179fdff44883e08c4e2e98e3a5b5bb259952c37f3dfd2417e",
+   "size": 2530
+  },
+  {
+   "path": "aether/SAVES/T-030/DORONBO_KAN.BUP",
+   "sha256": "0e3dd1c40ffdd8bedbb70ad5fb95feba3ee4d02c3943f3f8b1cae91080a44520",
+   "size": 152
+  },
+  {
+   "path": "aether/SAVES/T-030/HANGONGP_02.BUP",
+   "sha256": "38f8362bfda9d27d18cf5f715d863fc11aae28943f02386e2228d21b2004d8d5",
+   "size": 1776
+  },
+  {
+   "path": "aether/SAVES/T-030/JUNGLE_PARK.BUP",
+   "sha256": "9b88d08af505e9bd1d3c29bd92bd6559f5c4604a6e3c573166a318181a2517d0",
+   "size": 152
+  },
+  {
+   "path": "aether/SAVES/T-030/NMAKA_PZ_00.BUP",
+   "sha256": "a992fcfa408f33e9fcc65895decea7968321b3c97c29970385f8b41a277e225e",
+   "size": 152
+  },
+  {
+   "path": "aether/SAVES/T-030/PB3_STATUS_.BUP",
+   "sha256": "612c9dcc8d27383cffa82c972f9b0148f451ffe1481b5026eeff44e7ba672f04",
+   "size": 210
+  },
+  {
+   "path": "aether/SAVES/T-030/SEGARALLY_0.BUP",
+   "sha256": "54e6d23c83a75dcfa7ea3cad1031e0f1c9c504a033b4a8fe796039647d3e09ea",
+   "size": 5140
+  },
+  {
+   "path": "aether/SAVES/T-030/TOURINGC_01.BUP",
+   "sha256": "5c528daddcda7f5edab72d8a67aae435d6c9f856a2f3e119f1ea3346bb6ffb88",
+   "size": 14188
+  },
+  {
+   "path": "aether/SAVES/T-031/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-031/05/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-031/05/BAROQUE___1.BUP",
+   "sha256": "a3273f2155f516b02a6f6a7b83ab24e825a91cc2744bc316c9012dd9a729ad9d",
+   "size": 6912
+  },
+  {
+   "path": "aether/SAVES/T-031/05/BAROQUE___9.BUP",
+   "sha256": "6ff3618b76dd0dc97f2fa4b50a37998d8922ac4eb9102af14b6b06bd99c71774",
+   "size": 1304
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CAPGENE_002.BUP",
+   "sha256": "33572d6a5a2a081c1176e515c7868381e7afd05259721b293fb394c0d3aeb599",
+   "size": 352
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CART/DAYTONA96_1.BUP",
+   "sha256": "db0799ed7582aa39b8d1605ae3c9a1c840f492969a9ce3e91aebbe4cba9ce7de",
+   "size": 61777
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CART/SEGARALLY_1.BUP",
+   "sha256": "cfed1f44c59ffa2ac8dd2726828435c17d7cda5f7852202bfc577fbf88669fff",
+   "size": 62528
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CART/TOURINGC_03.BUP",
+   "sha256": "38fb184a16323978bdc757d0a088758ed1dd76bf599587d2fec8856b2c575682",
+   "size": 60292
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CART/TOURINGC_04.BUP",
+   "sha256": "75db0544fc3af577d696c7dd8fd4c1fffb58871e018e6b95b08ac8f61a903da6",
+   "size": 60292
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CART/TOURINGC_05.BUP",
+   "sha256": "fad4e6dbc37e434ca01fb03d15cbf06ed72f5faf433d6852391cdfd86876bd0a",
+   "size": 60292
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CART/TOURINGC_07.BUP",
+   "sha256": "6eb9cb4ab6bf840f6922723f463ad06e8e595cf84c30a73c9a11015e85f284fd",
+   "size": 60292
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CHORO_QP001.BUP",
+   "sha256": "a88f9a91e904799be6302c3e941918ee3e7a0e82247db33d5eda0538f8ac3e38",
+   "size": 4864
+  },
+  {
+   "path": "aether/SAVES/T-031/05/CHORO_QP002.BUP",
+   "sha256": "49e6d39dc8735df4be56f194b1057998d7a50178e074e60890366c03bcd89827",
+   "size": 544
+  },
+  {
+   "path": "aether/SAVES/T-031/05/DAYTONA96_0.BUP",
+   "sha256": "0f31bd0b8ea63075ab2f0a46fd55baa141929e5f913c98e5661ea3534403feb8",
+   "size": 3801
+  },
+  {
+   "path": "aether/SAVES/T-031/05/DAYTONA__00.BUP",
+   "sha256": "b30d6b3b385dbd293a1ca884a376b589e0c9c692dee53e68263d6a7e0146264b",
+   "size": 2527
+  },
+  {
+   "path": "aether/SAVES/T-031/05/DEEPFEAR_01.BUP",
+   "sha256": "8055f8333afa28606df098fc8e167bb9e56981af12d3cb3e96560e2ad6c14c60",
+   "size": 5248
+  },
+  {
+   "path": "aether/SAVES/T-031/05/DEEPFEAR_02.BUP",
+   "sha256": "46aa9f0a807b066283ce559190f207ec45b72d0467ee250d84850a5464b1dcb9",
+   "size": 5248
+  },
+  {
+   "path": "aether/SAVES/T-031/05/DEEPFEAR_03.BUP",
+   "sha256": "c11f1a13fae58c9eb2a165a0b0e162606b661b9623ba52ca088dcbf4ed20dec2",
+   "size": 5248
+  },
+  {
+   "path": "aether/SAVES/T-031/05/DEEPFEAR_04.BUP",
+   "sha256": "1ac3f207049660a1489d2e66b92c036d1ff8b74445a686f5d65cf6c89e27d84a",
+   "size": 5248
+  },
+  {
+   "path": "aether/SAVES/T-031/05/DOA_SS_FILE.BUP",
+   "sha256": "0ba7fc3dfa695013378b3ea8bbb263a2c04bc0eaef487cb2f873d0334843de78",
+   "size": 1505
+  },
+  {
+   "path": "aether/SAVES/T-031/05/FANTSTEP_01.BUP",
+   "sha256": "aefeb6a7ab5f200404263be511a799e2f32e1c237d03446172697b3fda8ac390",
+   "size": 9264
+  },
+  {
+   "path": "aether/SAVES/T-031/05/GT24_BU_SYS.BUP",
+   "sha256": "5d823e4efcfc603c68e72c4f2f07a5d5d16e782ff221ec9f1601f5551cec7b98",
+   "size": 3400
+  },
+  {
+   "path": "aether/SAVES/T-031/05/HANGONGP_02.BUP",
+   "sha256": "c705c34e71c4509d97c8ad9bdeefa41f6a98b82962714b0ab8f69d2700aad3bd",
+   "size": 1756
+  },
+  {
+   "path": "aether/SAVES/T-031/05/HOLY_ARK_01.BUP",
+   "sha256": "c90fb2b0064499d9df5e252648417e0de204b7958386ecad4e77c5c07a8665c3",
+   "size": 4160
+  },
+  {
+   "path": "aether/SAVES/T-031/05/HOLY_ARK_02.BUP",
+   "sha256": "8806e13e5233287a4adf3e86a5d88564e10d0045cb72ea7e11c852760903e87a",
+   "size": 4160
+  },
+  {
+   "path": "aether/SAVES/T-031/05/NINPEN_M_01.BUP",
+   "sha256": "ae0f7f24271ddb8c6b61f817b3a39e4d72946d9994a6af4af0ec4697d617a22d",
+   "size": 79
+  },
+  {
+   "path": "aether/SAVES/T-031/05/NMAKA_PZ_00.BUP",
+   "sha256": "33628a798125a9e3dfd3df8dfdca0da24ffe98ce66ed4ec2930b8aeea0557087",
+   "size": 96
+  },
+  {
+   "path": "aether/SAVES/T-031/05/PANDRA_3_01.BUP",
+   "sha256": "7c42b3493d11226feb4623e6b6bf48437dde8e0ddc63a5c12bc8fdf3bb5af813",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-031/05/PANDRA_3_03.BUP",
+   "sha256": "b3e306051691dccce7b8f8265d9e246519222894d815d771cd02bf1894e8e0aa",
+   "size": 1340
+  },
+  {
+   "path": "aether/SAVES/T-031/05/RAYEARTH_00.BUP",
+   "sha256": "6b73ad683408148aec685d279eaf902e546b42401fe687806d4f08c1e3514480",
+   "size": 4348
+  },
+  {
+   "path": "aether/SAVES/T-031/05/SEGARALLY_0.BUP",
+   "sha256": "ca011a942178c07ba035ee4e6e99afcdc5cabfd441fc41889ccedc6137ebb969",
+   "size": 5120
+  },
+  {
+   "path": "aether/SAVES/T-031/05/SFORCE31_01.BUP",
+   "sha256": "6ce7c15b27a2e4d1eeb45bd0aec90a717cdbe3edfa712a5d4436523e56e18bec",
+   "size": 12968
+  },
+  {
+   "path": "aether/SAVES/T-031/05/SYUTOKOU_01.BUP",
+   "sha256": "c5e3efc5fdf9e6b883a9023e659184642735f94e57a24f7d8b4f709f8ff0fa0f",
+   "size": 384
+  },
+  {
+   "path": "aether/SAVES/T-031/05/TG2_DATA_00.BUP",
+   "sha256": "b3032c21f190668061d4a530d9e50bd239c36ccbaf3eba790ab3a9c7f5e80e10",
+   "size": 6148
+  },
+  {
+   "path": "aether/SAVES/T-031/05/TOMBRAIDER_.BUP",
+   "sha256": "3c562067a498433f2f2de1635db857d6caf5b088500e4dd7e422106a1136f42a",
+   "size": 3516
+  },
+  {
+   "path": "aether/SAVES/T-031/05/TOURINGC_01.BUP",
+   "sha256": "b24970d6b8681edca60e6e2f601c1a7913d9024583031eee1aafc66b84774909",
+   "size": 14184
+  },
+  {
+   "path": "aether/SAVES/T-031/05/WANGANDH_01.BUP",
+   "sha256": "d24f8079008ff91a08d5238e81a2e62271a1dbd6eeecdb1b1ca3da7ce6d16494",
+   "size": 3388
+  },
+  {
+   "path": "aether/SAVES/T-031/05/ZAPSNOW2_00.BUP",
+   "sha256": "0eea355432a06a1918ee8806a487c4c1edfbf85d4caf09386d76bd8143e7d446",
+   "size": 5254
+  },
+  {
+   "path": "aether/SAVES/T-900/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-900/SLOT12_SAVE.BUP",
+   "sha256": "903b316574f62a9b55ea27a3449c84f01544195a5cc06b2d28dd74f1347ecf31",
+   "size": 104
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-026/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-026/PANDRA_ZWEI.BUP",
+   "sha256": "1e14606f0b745b98f89735ef5317a40c92d318b9ed3a7789599f9f5a6b5d3a61",
+   "size": 513
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-029/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-029/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-029/03/POLICENAUTS.BUP",
+   "sha256": "e27fca14f0de4cb00588fa2a335772684ca9f6bda86a3e4a7cba8155d01ede96",
+   "size": 3288
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-029/03/POLICENAUTS~1.BUP",
+   "sha256": "9b330a96ccc6abdb50c02f1ed3576da5fb6f1fb4a8b6689d784964e4d6fd5fbc",
+   "size": 3288
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-030/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-030/DAYTONA__00.BUP",
+   "sha256": "53168fdeaa603f3147eca837e75c9ba073834b04dd4d86bf50df47976894f5a4",
+   "size": 2530
+  },
+  {
+   "path": "satiator-saves/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/T-901/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/T-901/SAVRING.BUP",
+   "sha256": "92b429c8768c264d8a4bcbd729e7f5152ddae7298a13cb4471e6fa5c54b63a96",
+   "size": 64
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_DAT.BUP",
+   "sha256": "5981f6730376b36e708dafa2734f3caba95e690374010a864fb013343c23ecaa",
+   "size": 116
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T01.BUP",
+   "sha256": "45c706af454e423bc5577ce518e3df73d3c4f63baa6e10051f00b4e850781795",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T02.BUP",
+   "sha256": "c8867a86676a4f3dc453a6ddadff4294fdc3333174915b6d77ee7a35f8b0782b",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T03.BUP",
+   "sha256": "bfa9a5f3b5f346ac6e613a0f530120df4d623e159896fa462cd4b7e7615fff95",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T04.BUP",
+   "sha256": "367ecb2b9ec81c8c8655a29b9caac6209d4b8a0f2d01158db98daa6c8d79983d",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T05.BUP",
+   "sha256": "27559046f79deac987f2c24b768c6e91ceca1a0879e8360c5df289cd8eff9ad4",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T06.BUP",
+   "sha256": "292f5db06f15300646ce184b2b19622295ef8726f536b93124853444bc0625d7",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T07.BUP",
+   "sha256": "5b5c27b7904096522d168dbb9d57e0cbde6c1d8372b8fe035bcb4a3a4ec399c3",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T08.BUP",
+   "sha256": "65655e2c4f38ad0d582a1e364ea56dd44c98a5efd06c653db9d26934827ec9a0",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T09.BUP",
+   "sha256": "942b5cb1d62ab6aee3f0905ee696bf0aff3a09eed917bb8d4f73d44c9fd9a4be",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T10.BUP",
+   "sha256": "136e614544e81943926d11cc279216f16af85ea806b6bd21f9ade1a33f446c8c",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T11.BUP",
+   "sha256": "44d49a75adcf29084066a61055a33c8bcbf88593a65174ee523b5b24c3fb8fab",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T12.BUP",
+   "sha256": "7ddd6466253bca8c18b482a466412896fcbf1cbc237ea83c19e07d59af32686d",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T13.BUP",
+   "sha256": "72e24f29ce6fbb9b0ef68e743defb160f5758b684e9ad58e9b69fbfca96d722d",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T14.BUP",
+   "sha256": "33918efae8dc76b086e4b4dd88c375b83082493ad9d457e5ddc8190230461294",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T15.BUP",
+   "sha256": "70ca99b00618f2d19357fca7e94683e5fc0a858995c18b965126d73630f60522",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T16.BUP",
+   "sha256": "a150231fa2eb6c02f13b7c53cb9248a3dd89fec30e9702a3b6736dd4d081ef76",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT01]/T-027/STELLAR_T17.BUP",
+   "sha256": "48105bba4c4e1fbca6fb8b26e750ee89e71431b5fac739813814d10196dc5b1c",
+   "size": 16416
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/AQUAZONE_01.BUP",
+   "sha256": "0f3d321f35ca5ce9fa0d354a0427b24200b69f6a988db1c47d593463fbff3b4f",
+   "size": 4160
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/AQUAZONE_99.BUP",
+   "sha256": "116641e2e1e68507028332638267c6a1a6193340ab93ad695014eaa59c49dad2",
+   "size": 1372
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/CYBERBOTS01.BUP",
+   "sha256": "024a2fab54e4794ae9a7ba3e1ceeea512255eba300fde82e8c9389a7d88d438e",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/DAYTONA96_0.BUP",
+   "sha256": "7cf490899591d5795257058e4a26e8006c443ccf790b7820e014da06ff96f49e",
+   "size": 4097
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/DEVILDIC_01.BUP",
+   "sha256": "3b49ccf286e5768fbef79d359781bc48a3ca61d9f5121b6acdc7feafcc69bcab",
+   "size": 110
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/DEZA2____01.BUP",
+   "sha256": "ffaea3abbaeba0cdf8952b8cd6b5d5ff6febcc221de40c45dac862b57e9551c0",
+   "size": 127635
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/FIGHTERS_MM.BUP",
+   "sha256": "cd65c41f4117ecccdd0e38b64aa7694cb53d52eaa7ca62526661ae594c7f7034",
+   "size": 1460
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/FVIPER_MAST.BUP",
+   "sha256": "6588acb9c5d6c44ffaccb9d93b260a88b5ab55832505db355dac180949f641c7",
+   "size": 3152
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/FVIPER_RP00.BUP",
+   "sha256": "e0f6b67dfb37c4f23e0183b4e2baf00c6f5a30afaa5ef4ca2e84029a1e486d8f",
+   "size": 1168
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/FVIPER_RP01.BUP",
+   "sha256": "48ee841aa37f9e1c244bb4b831da03367c92fab025a2c84b7bc814ef33d7b21d",
+   "size": 642
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/GGRIFFON__1.BUP",
+   "sha256": "de07f872c009cb3ecf1e3dd4ed53d7ae92e9f72035818df6f8ca4cac45cd4671",
+   "size": 640
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/GUARDIAN_HE.BUP",
+   "sha256": "2264490ed9ccc60f4ace7a3de710480c7edf25d2a06d378d52739e7834bc2dd3",
+   "size": 1224
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/HANACOLUMNS.BUP",
+   "sha256": "070a68bef80be89d2063cfb4bf3159276e18ba72fc5b10082589ac27bdddf91d",
+   "size": 672
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/JIKUUTANTEI.BUP",
+   "sha256": "b141c4ba964861ee3bb0b5892a8a99d122b3fb305ee1b83cf358a60d77c35d80",
+   "size": 1152
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/KEIO2______.BUP",
+   "sha256": "c73107b4f2910d677035b0b01b9d09c0b19b582c9eac4358a52cbf1b7584ba66",
+   "size": 96
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/K_O_F_96_01.BUP",
+   "sha256": "14d4d025a97a4d7d337f7c396f6d44256bd352a08dbf442360590b0e26711a66",
+   "size": 288
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/LIME_V2__01.BUP",
+   "sha256": "04f49ab09fc755985d60022754ac2b464b6f7b296d0f77baf1db50f3fd8878db",
+   "size": 68
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/MEGAMIDS_00.BUP",
+   "sha256": "ab64e104b8f2a87fe069143787ab02cb94a58b693009401d5026d5ea6e03a7f3",
+   "size": 8256
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/MEGAMIDS_01.BUP",
+   "sha256": "beb0220d829232abb34520a889281f0adf963871b1953b86a2f3de36b81eed18",
+   "size": 8256
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PM2_DATA_01.BUP",
+   "sha256": "ecfdfa0aeab71bc0ab34d70beb6846c828b47cae47a2a75f852efa4e7a7220ba",
+   "size": 1768
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PM2_DATA_02.BUP",
+   "sha256": "213bc5c4cb1c0147b9554eae4d358dfd38ccb36e6a2b22aee476cefabe4be9f3",
+   "size": 1768
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PSYCHO_T001.BUP",
+   "sha256": "b45b10ee48be34960ef5ce893e118d49cba899b18bd24741988d25e4857de67a",
+   "size": 84
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PURUMI2_000.BUP",
+   "sha256": "00e84254e673d9f3e06a684e676ddb683f45e4cdb2736b6bad91286c7ba102aa",
+   "size": 2008
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PURUMI2_001.BUP",
+   "sha256": "d963d009b6d5547474fca2b6d94f7d7c1213221ad840c31fa4bc8167c7019a6b",
+   "size": 2008
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PURUMI2_006.BUP",
+   "sha256": "cc7ee533b0934daf76a04205a1bcb2f7f320be7245efe43265bdeeef602b77bb",
+   "size": 70
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PUYO_SUN_01.BUP",
+   "sha256": "a429ec776b3eba16c7c4318a96f12ff471804a27eb3986e2746a01be3def12db",
+   "size": 416
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/PUYO_TWO_00.BUP",
+   "sha256": "5404ff4e0bc19483848a158cca0e69cfe9273073a670204f2531aa6cbcdbfefb",
+   "size": 1132
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/RIGLORD__01.BUP",
+   "sha256": "2aa1269258fef0caf0351b1b4bcebc4b119961b0c6d45cbbee79635328a4e91b",
+   "size": 7356
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/SAKURA___01.BUP",
+   "sha256": "9f18dd0c163a537cd9536776adfbbb7a53c13c0eee7d760939a0f0c942f40837",
+   "size": 5772
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/SG_MASH_001.BUP",
+   "sha256": "2b59ab28631466646507d199fdc00302c8cb36417b038507a06eaca7b6d3a0d7",
+   "size": 4576
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/SONICJAM_01.BUP",
+   "sha256": "d4243270f47dd355940a051b2079a037073b1aa104cbaab1955642622994edc1",
+   "size": 1472
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/SSSSSAVEDAT.BUP",
+   "sha256": "81eb7776d0457fb0c3cb154d4481cb7013fa9d5a6ecb80ea26d393df08642dbe",
+   "size": 8256
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/SSYUMEMI_01.BUP",
+   "sha256": "1251921811fcc821ba565436d74686feeefe356a3b2b37bf0df2666066c4f639",
+   "size": 3072
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/S_GUNDAM_01.BUP",
+   "sha256": "c5b45a7084e30678488405da19cbc98920b92d9c86f1825ca35f16ab1748a630",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/S_GUNDAM_02.BUP",
+   "sha256": "177646ecce58d9d4436c4aacce147ed8a610f1dde654df41e79ae2df85d75852",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/S_GUNDAM_03.BUP",
+   "sha256": "c05ccb48f087cc2f1646d2a2ac5a3db8f0fc299da48a83f3c6e06b097b2a4685",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/S_WISDOM_01.BUP",
+   "sha256": "b6eee11ec415324ede075b70c56ea7610f3b4699f2f810796565a21066d067bf",
+   "size": 1088
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/TERA_PHA_01.BUP",
+   "sha256": "ea17e2ce5dc8862da7a9b54efe144fbab442ca1fe5506547bfe7f044fafc4b5e",
+   "size": 1300
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/TE_HYD_1DAT.BUP",
+   "sha256": "209be8fc86265038da99ad934d5b2f84fe0dcc123d526f212582fad33ef70aa2",
+   "size": 18432
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/THOR2SVDT_0.BUP",
+   "sha256": "d1a363d8b394606d09c82b453d64bb4303ed94361396779696379006fc9bb3f4",
+   "size": 760
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/THOR2SYSTEM.BUP",
+   "sha256": "b4bb91a4bc8c8efbb2acf22964ae90fbdb9c246a447a5a9490c93f3d1edabb8d",
+   "size": 212
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VFIGHTER_01.BUP",
+   "sha256": "ff8a85e874827e0012857622c7530dd0ac5a128edcd6db1a19af64e2b3a3faf7",
+   "size": 1088
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VGOAL_WE_01.BUP",
+   "sha256": "0e54a3a5bfb6d106b4e06aa95a38aa7215f4763db163234e01e43a0b7e1bcfb7",
+   "size": 228
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VGOAL_WE_02.BUP",
+   "sha256": "4906251f1ed606b11e41c3f73021eef53d4304d3dc3f63108ade73034f586b8a",
+   "size": 6468
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VGOAL_WE_03.BUP",
+   "sha256": "393af660ad0d92d8a75df56125b21fddda8fe8f4299a26568fcf4b8bee8783ee",
+   "size": 9456
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VGOAL_WE_05.BUP",
+   "sha256": "a4c3ab0ef682150fb529d57cebedc69231b1a4c55a37f948c5489445e486e634",
+   "size": 748
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VOICEREC___.BUP",
+   "sha256": "b0369a001807f7f7fd507c2e97fc69a209adef842aa397173316d613971b8fb0",
+   "size": 2176
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VRRECORD_00.BUP",
+   "sha256": "d44bfe8a3e31865993cfedfffde00cf880f87c3c368f0d8da1ce2f4222101cf0",
+   "size": 2448
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/VRRECORD_01.BUP",
+   "sha256": "504c1d626eb6b7d6dd5f091cea538efe6dccb191541ebdd61504083e98170e0c",
+   "size": 608
+  },
+  {
+   "path": "satiator-saves/[SLOT02]/T-019/V_HUNTER_01.BUP",
+   "sha256": "fb05dcf8c6dd3e9d7ba4fbf49c0156dc8dd1d95fb4334f00c5ca61a91038e6e9",
+   "size": 576
+  },
+  {
+   "path": "satiator-saves/[SLOT03]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT03]/T-011/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT03]/T-011/HOLY_ARK_02.BUP",
+   "sha256": "9810265f89b6bad744a0e7d8c8d9ad4124471fc2c9fd701048e4dd1e2af9b027",
+   "size": 4152
+  },
+  {
+   "path": "satiator-saves/[SLOT04]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT04]/T-003/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT04]/T-003/B_RANGERS__.BUP",
+   "sha256": "9e99499c53ca5b31a2a393f0781d37a3e412e1582bda335a969d08448d1113af",
+   "size": 1920
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/BAROQUE___1_000.BUP",
+   "sha256": "a3273f2155f516b02a6f6a7b83ab24e825a91cc2744bc316c9012dd9a729ad9d",
+   "size": 6912
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/BAROQUE___9_000.BUP",
+   "sha256": "6ff3618b76dd0dc97f2fa4b50a37998d8922ac4eb9102af14b6b06bd99c71774",
+   "size": 1304
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/CAPGENE_002_000.BUP",
+   "sha256": "33572d6a5a2a081c1176e515c7868381e7afd05259721b293fb394c0d3aeb599",
+   "size": 352
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/CHORO_QP001_000.BUP",
+   "sha256": "a88f9a91e904799be6302c3e941918ee3e7a0e82247db33d5eda0538f8ac3e38",
+   "size": 4864
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/CHORO_QP002_000.BUP",
+   "sha256": "49e6d39dc8735df4be56f194b1057998d7a50178e074e60890366c03bcd89827",
+   "size": 544
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DAYTONA96_0_000.BUP",
+   "sha256": "0f31bd0b8ea63075ab2f0a46fd55baa141929e5f913c98e5661ea3534403feb8",
+   "size": 3801
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DAYTONA96_1_000.BUP",
+   "sha256": "db0799ed7582aa39b8d1605ae3c9a1c840f492969a9ce3e91aebbe4cba9ce7de",
+   "size": 61777
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DAYTONA__00_000.BUP",
+   "sha256": "b30d6b3b385dbd293a1ca884a376b589e0c9c692dee53e68263d6a7e0146264b",
+   "size": 2527
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DEEPFEAR_01_000.BUP",
+   "sha256": "8055f8333afa28606df098fc8e167bb9e56981af12d3cb3e96560e2ad6c14c60",
+   "size": 5248
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DEEPFEAR_02_000.BUP",
+   "sha256": "46aa9f0a807b066283ce559190f207ec45b72d0467ee250d84850a5464b1dcb9",
+   "size": 5248
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DEEPFEAR_03_000.BUP",
+   "sha256": "c11f1a13fae58c9eb2a165a0b0e162606b661b9623ba52ca088dcbf4ed20dec2",
+   "size": 5248
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DEEPFEAR_04_000.BUP",
+   "sha256": "1ac3f207049660a1489d2e66b92c036d1ff8b74445a686f5d65cf6c89e27d84a",
+   "size": 5248
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/DOA_SS_FILE_000.BUP",
+   "sha256": "0ba7fc3dfa695013378b3ea8bbb263a2c04bc0eaef487cb2f873d0334843de78",
+   "size": 1505
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/FANTSTEP_01_000.BUP",
+   "sha256": "aefeb6a7ab5f200404263be511a799e2f32e1c237d03446172697b3fda8ac390",
+   "size": 9264
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/GT24_BU_SYS_000.BUP",
+   "sha256": "5d823e4efcfc603c68e72c4f2f07a5d5d16e782ff221ec9f1601f5551cec7b98",
+   "size": 3400
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/HANGONGP_02_000.BUP",
+   "sha256": "c705c34e71c4509d97c8ad9bdeefa41f6a98b82962714b0ab8f69d2700aad3bd",
+   "size": 1756
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/HOLY_ARK_01_000.BUP",
+   "sha256": "c90fb2b0064499d9df5e252648417e0de204b7958386ecad4e77c5c07a8665c3",
+   "size": 4160
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/HOLY_ARK_02_000.BUP",
+   "sha256": "8806e13e5233287a4adf3e86a5d88564e10d0045cb72ea7e11c852760903e87a",
+   "size": 4160
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/NINPEN_M_01_000.BUP",
+   "sha256": "ae0f7f24271ddb8c6b61f817b3a39e4d72946d9994a6af4af0ec4697d617a22d",
+   "size": 79
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/NMAKA_PZ_00_000.BUP",
+   "sha256": "33628a798125a9e3dfd3df8dfdca0da24ffe98ce66ed4ec2930b8aeea0557087",
+   "size": 96
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/PANDRA_3_01_000.BUP",
+   "sha256": "7c42b3493d11226feb4623e6b6bf48437dde8e0ddc63a5c12bc8fdf3bb5af813",
+   "size": 1340
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/PANDRA_3_03_000.BUP",
+   "sha256": "b3e306051691dccce7b8f8265d9e246519222894d815d771cd02bf1894e8e0aa",
+   "size": 1340
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/RAYEARTH_00_000.BUP",
+   "sha256": "6b73ad683408148aec685d279eaf902e546b42401fe687806d4f08c1e3514480",
+   "size": 4348
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/SEGARALLY_0_000.BUP",
+   "sha256": "ca011a942178c07ba035ee4e6e99afcdc5cabfd441fc41889ccedc6137ebb969",
+   "size": 5120
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/SEGARALLY_1_000.BUP",
+   "sha256": "cfed1f44c59ffa2ac8dd2726828435c17d7cda5f7852202bfc577fbf88669fff",
+   "size": 62528
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/SFORCE31_01_000.BUP",
+   "sha256": "6ce7c15b27a2e4d1eeb45bd0aec90a717cdbe3edfa712a5d4436523e56e18bec",
+   "size": 12968
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/SYUTOKOU_01_000.BUP",
+   "sha256": "c5e3efc5fdf9e6b883a9023e659184642735f94e57a24f7d8b4f709f8ff0fa0f",
+   "size": 384
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/TG2_DATA_00_000.BUP",
+   "sha256": "b3032c21f190668061d4a530d9e50bd239c36ccbaf3eba790ab3a9c7f5e80e10",
+   "size": 6148
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/TOMBRAIDER__000.BUP",
+   "sha256": "3c562067a498433f2f2de1635db857d6caf5b088500e4dd7e422106a1136f42a",
+   "size": 3516
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/TOURINGC_01_000.BUP",
+   "sha256": "b24970d6b8681edca60e6e2f601c1a7913d9024583031eee1aafc66b84774909",
+   "size": 14184
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/TOURINGC_03_000.BUP",
+   "sha256": "38fb184a16323978bdc757d0a088758ed1dd76bf599587d2fec8856b2c575682",
+   "size": 60292
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/TOURINGC_04_000.BUP",
+   "sha256": "75db0544fc3af577d696c7dd8fd4c1fffb58871e018e6b95b08ac8f61a903da6",
+   "size": 60292
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/TOURINGC_05_000.BUP",
+   "sha256": "fad4e6dbc37e434ca01fb03d15cbf06ed72f5faf433d6852391cdfd86876bd0a",
+   "size": 60292
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/TOURINGC_07_000.BUP",
+   "sha256": "6eb9cb4ab6bf840f6922723f463ad06e8e595cf84c30a73c9a11015e85f284fd",
+   "size": 60292
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/WANGANDH_01_000.BUP",
+   "sha256": "d24f8079008ff91a08d5238e81a2e62271a1dbd6eeecdb1b1ca3da7ce6d16494",
+   "size": 3388
+  },
+  {
+   "path": "satiator-saves/[SLOT05]/T-031/ZAPSNOW2_00_000.BUP",
+   "sha256": "0eea355432a06a1918ee8806a487c4c1edfbf85d4caf09386d76bd8143e7d446",
+   "size": 5254
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/BUL_SLA__01.BUP",
+   "sha256": "735be02fdcae3ff47dabbec83f61097d3351875ee4c325f6d30025830ae0feac",
+   "size": 240
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/CYBERBOTS01.BUP",
+   "sha256": "d0a91656d7f11af5a1527422e86505706d0935c1638d89260678a6574d4ffdcc",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/LEYNOS2_DAT.BUP",
+   "sha256": "090f8316f705f51404d81bb625146035e0b876c0a8641e65033ab94b0551d72d",
+   "size": 2272
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/MEGAMAN_8__.BUP",
+   "sha256": "976a206d993c2b7835c85f77f678d49f6d6cca3bbbe6c95f85a81d5ea1ba5147",
+   "size": 412
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/S_GUNDAM_01.BUP",
+   "sha256": "9fb0bea5fffb4944420f58c6cb3ccb2b69d4b6a858c362c98a2b224a40113d97",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/S_GUNDAM_02.BUP",
+   "sha256": "1bf4287075bacd18e71bff9cf1aabccd73b1e02d58f89867e59e24a9a72fa68f",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/S_GUNDAM_03.BUP",
+   "sha256": "6370eabe514c73c60d4ab834cf249460e66cfec9d0da60b368d6b3a98c53eab9",
+   "size": 320
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/TF_GP2___01.BUP",
+   "sha256": "b309ccf57fb4f86441b9379d5cb2c08c9361257b4ed5ee3c07f6b02ad72ea5a0",
+   "size": 168
+  },
+  {
+   "path": "satiator-saves/[SLOT06]/T-023/T_FORCEV_00.BUP",
+   "sha256": "826da3de88bb43e6b6d2ab39ef5daecfc897206efed2ec1c36c60305fe4e7c55",
+   "size": 1952
+  },
+  {
+   "path": "satiator-saves/[SLOT07]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT07]/T-015/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT07]/T-015/DAYTONA_.BUP",
+   "sha256": "58764663ebaa8d901f9aedc16650c74437fa398ce1c5144c6b2089be8c8333c8",
+   "size": 2527
+  },
+  {
+   "path": "satiator-saves/[SLOT07]/T-015/DR_FORCE.BUP",
+   "sha256": "3a676c7890b2e1b4c3563297d5e93f7c2bcdec473e9800a7a79d5b7fe6a3ed3a",
+   "size": 18208
+  },
+  {
+   "path": "satiator-saves/[SLOT07]/T-015/FIGHTERS.BUP",
+   "sha256": "8bb7fb85b5c6a58784d4c24b1d5e8cc42cd8100199ffeb732f9859abc52ecb19",
+   "size": 1460
+  },
+  {
+   "path": "satiator-saves/[SLOT07]/T-015/GUARDIAN.BUP",
+   "sha256": "afce75289a9612ae0418fff5c5e9cd27b625109f42e74726087d60b953c2b049",
+   "size": 1224
+  },
+  {
+   "path": "satiator-saves/[SLOT07]/T-015/SONICR__.BUP",
+   "sha256": "3ab5c2f7b1ad7446a696d8e1ea5cdc65507de67350435b8cc7d064db7cac8cf7",
+   "size": 400
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/T-007/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/T-007/SF3-1_1.BUP",
+   "sha256": "bab110d0e128256f575e13acc627c44155859cc8f7d3fedd699c573d88395c3d",
+   "size": 12968
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/T-007/SF3-1_2.BUP",
+   "sha256": "81ea4d006b6621bb22832ffc2c2798e4d11a5cf239c881f4cf0feb201caaef68",
+   "size": 12968
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/T-007/SF3-2_1.BUP",
+   "sha256": "1ec4d0f38a9a5305d2a5f9ea656b9972c349e3345d108dad35d0af165fddb4e3",
+   "size": 16312
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/T-007/SF3-2_2.BUP",
+   "sha256": "aa16eeb4dee7570efc1db812e75edb3f0f036c79c83596e3ac08833ad6c9b5f9",
+   "size": 16312
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/T-007/SF3-3_1.BUP",
+   "sha256": "684cc5ec5f8772f4339b5474f89f5cd85498988d4b0ca8260a78e95bfe77b836",
+   "size": 24408
+  },
+  {
+   "path": "satiator-saves/[SLOT08]/T-007/SF3-3_2.BUP",
+   "sha256": "aea7f4e35d8480e38a2254027cbfe060c3e07ae63681748cad1d1b88b42116c2",
+   "size": 24408
+  },
+  {
+   "path": "satiator-saves/[SLOT12]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT12]/T-900/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/[SLOT12]/T-900/SLOT12_SAVE.BUP",
+   "sha256": "903b316574f62a9b55ea27a3449c84f01544195a5cc06b2d28dd74f1347ecf31",
+   "size": 104
+  },
+  {
+   "path": "satiator-saves/_BACKUP/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/_BACKUP/GENERAL_02.BUP",
+   "sha256": "3eb816b5aa9a4d38c2621be8687bbe724598657f7580890f3306700618d374a2",
+   "size": 104
+  },
+  {
+   "path": "satiator-saves/t-002/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-002/DEZA2____01.BUP",
+   "sha256": "b5b9d1e70a1d6ca498d9917b99dc3524c585e55caa0d1560b900b69ce9c14f51",
+   "size": 146715
+  },
+  {
+   "path": "satiator-saves/t-002/DEZA2____03.BUP",
+   "sha256": "18b32053da3e17d54d3014f7afdc81b17db36fdf72983237a1c652301f845ea5",
+   "size": 154380
+  },
+  {
+   "path": "satiator-saves/t-002/DEZA2____04.BUP",
+   "sha256": "71d05a69e1720c17a3840b9238219f4304197903eed1c858567beaaa845876cf",
+   "size": 153477
+  },
+  {
+   "path": "satiator-saves/t-002/DEZA2____05.BUP",
+   "sha256": "d2a82f21c37e1ac3ef22bcde97a2debe0fd1c6a8d3c6a6890978a7e7bc17be05",
+   "size": 154380
+  },
+  {
+   "path": "satiator-saves/t-006/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-006/DRACULAX_01.BUP",
+   "sha256": "28fef25e399a3fdb39ab9dfa7924d20507cc0c33c67c656d86b1218afe62390d",
+   "size": 4452
+  },
+  {
+   "path": "satiator-saves/t-010/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-010/BUL_SLA__01.BUP",
+   "sha256": "84e1bdeafcb67891a4e5315d6abb120a4139afb47d514061518d4c03d656ba83",
+   "size": 240
+  },
+  {
+   "path": "satiator-saves/t-010/CROCFISAVE1.BUP",
+   "sha256": "e8231ba1b8da24af13635d249755d58503a9c02daa018dcee19ded5dd65c529c",
+   "size": 288
+  },
+  {
+   "path": "satiator-saves/t-010/L_SECTION__.BUP",
+   "sha256": "485633489398ea030126534c61fdf1d4388106079a3727c3185a9674f5b85406",
+   "size": 133
+  },
+  {
+   "path": "satiator-saves/t-010/PANDRA_ZWEI.BUP",
+   "sha256": "343f275c325ede6fde753017e9e431038f21aa07201be9017755b84057e6f90e",
+   "size": 513
+  },
+  {
+   "path": "satiator-saves/t-010/RAYMAN_NTS1.BUP",
+   "sha256": "772585f63856276905b756c44dbdb4f5028a5c616b59b3fbf1f13572265b8c90",
+   "size": 1254
+  },
+  {
+   "path": "satiator-saves/t-010/SAKURA___01.BUP",
+   "sha256": "2d91d0d2bb26fe5bf580b4d0dce0625433cd3afead1b4c3cde9ff02bf4868ec3",
+   "size": 5772
+  },
+  {
+   "path": "satiator-saves/t-010/SONICR___01.BUP",
+   "sha256": "a1a82de932fe22848aa6810ae8db9907d827cc1b45bf020ae9b18c824f2dd354",
+   "size": 400
+  },
+  {
+   "path": "satiator-saves/t-014/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-014/BIOUDAT2.BUP",
+   "sha256": "3454003631fc302281ee36a55d210fa2a622b9588c3d2c7279737a825164efea",
+   "size": 608
+  },
+  {
+   "path": "satiator-saves/t-014/BIOUDATA.BUP",
+   "sha256": "6ed3e4a1cd6296d760858c91a701e3e8a0f054dbadb7d8d6280274b9f0ff00b1",
+   "size": 264
+  },
+  {
+   "path": "satiator-saves/t-014/B_GAREGG.BUP",
+   "sha256": "301e2fdc3a830efd90a20c65c2c997b6db1f6d503eb232df76f1f54ab5d9ebce",
+   "size": 5392
+  },
+  {
+   "path": "satiator-saves/t-014/GOIKE001.BUP",
+   "sha256": "63e23919e76ff2b63bf1ee883f16f4c9e11590ade81ef045d1c3ed328030e4c6",
+   "size": 3120
+  },
+  {
+   "path": "satiator-saves/t-014/GOIKEDAT.BUP",
+   "sha256": "481a210ec2eaf151112ff7d566ed76211ad3d41715f5fd07c71f3e18501d622b",
+   "size": 776
+  },
+  {
+   "path": "satiator-saves/t-014/HOUSEOFD.BUP",
+   "sha256": "c54b1e64f6ffd1070b8bf975bc5374377d33fdbafa3cc287c2d1f8644d246b84",
+   "size": 1232
+  },
+  {
+   "path": "satiator-saves/t-014/SALAMAND.BUP",
+   "sha256": "ea8182c33451857cdd21734c78b1ede1b04cbbc69da81e735392fc586d7de5a4",
+   "size": 562
+  },
+  {
+   "path": "satiator-saves/t-014/SFZER001.BUP",
+   "sha256": "c7cb7bdcd5cc734947330f5917919feaa4aa32dd0ffc5291a97de3a5fb6eec52",
+   "size": 5376
+  },
+  {
+   "path": "satiator-saves/t-014/SFZER002.BUP",
+   "sha256": "4ffe13b58e4d897bbe97196629c0fde5751428ffa4fe301717931f33d465b838",
+   "size": 5376
+  },
+  {
+   "path": "satiator-saves/t-014/SF_ALPH1.BUP",
+   "sha256": "7e7ca5f93e348cd50f478b941d80709dd6e14c6f5721e957056dd380b54ca4cd",
+   "size": 2068
+  },
+  {
+   "path": "satiator-saves/t-014/SF_ALPHA.BUP",
+   "sha256": "50a312685a883bfa7b7d402fbfe80c7555b8dc54c48e9cc0501c18264a376d9e",
+   "size": 544
+  },
+  {
+   "path": "satiator-saves/t-014/SF_COL02.BUP",
+   "sha256": "752bbead18b62aa79b41b7dc9ae8e2294cf00ed1a7df94593a1af77bebb889b0",
+   "size": 344
+  },
+  {
+   "path": "satiator-saves/t-014/SF_COL03.BUP",
+   "sha256": "c74cf33111dc3832cbd9555a8da83ded5f4391aa03e6f36f293ac8849e1dcca7",
+   "size": 544
+  },
+  {
+   "path": "satiator-saves/t-014/ZENNIC01.BUP",
+   "sha256": "664e5dd9585fe522e0d835f25cd6a90e325bf7f5e21d0db7cd4f9c80082048ba",
+   "size": 208
+  },
+  {
+   "path": "satiator-saves/t-014/ZENNIC02.BUP",
+   "sha256": "5198f7facbf164c21d551430b60d7aaf44c072a72779f990c001d7e763a0f1f0",
+   "size": 2464
+  },
+  {
+   "path": "satiator-saves/t-018/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-018/FIGHTERS_MM.BUP",
+   "sha256": "3401301efcd43ea8e80d345643b44b776e7e45eb722924ce6694c74df61ed341",
+   "size": 1460
+  },
+  {
+   "path": "satiator-saves/t-018/MSH_VS_SF__.BUP",
+   "sha256": "9c0440c467ffd0e6ce8480fa5cec8e95fb4ea967453a619c8841c04cf01b2739",
+   "size": 544
+  },
+  {
+   "path": "satiator-saves/t-022/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-022/TAMAGOTCHI_.BUP",
+   "sha256": "43f094646677d8e95da1cb12720441c3570c7a95593bfc580a16b3fe5ac27d4c",
+   "size": 34052
+  },
+  {
+   "path": "satiator-saves/t-026/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-026/PANDRA_ZWEI_01.BUP",
+   "sha256": "1e14606f0b745b98f89735ef5317a40c92d318b9ed3a7789599f9f5a6b5d3a61",
+   "size": 513
+  },
+  {
+   "path": "satiator-saves/t-026/PANDRA_ZWEI_02.BUP",
+   "sha256": "23a3b2c3f64f75deff645cf41be929c2f201f5a28c3693701cf0f0a08308b08f",
+   "size": 513
+  },
+  {
+   "path": "satiator-saves/t-030/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/t-030/ATHLETEKING.BUP",
+   "sha256": "a1c1334923a4165519c1e927f0975f28ec88c63704815c22577c54460650226e",
+   "size": 1312
+  },
+  {
+   "path": "satiator-saves/t-030/CHORO_QP001.BUP",
+   "sha256": "1a7fd86e894e424c775acbd65bd34a819bbb7437008fd4fc57c1800acdd41a29",
+   "size": 4908
+  },
+  {
+   "path": "satiator-saves/t-030/DAYTONA96_0.BUP",
+   "sha256": "71e5d3322c6eeb9cc74ae825768eeafd2c3c7a6e4b9c0fca7a3c569ae303b9ea",
+   "size": 3806
+  },
+  {
+   "path": "satiator-saves/t-030/DAYTONA__00.BUP",
+   "sha256": "2a64ccffe8ca15d179fdff44883e08c4e2e98e3a5b5bb259952c37f3dfd2417e",
+   "size": 2530
+  },
+  {
+   "path": "satiator-saves/t-030/DORONBO_KAN.BUP",
+   "sha256": "0e3dd1c40ffdd8bedbb70ad5fb95feba3ee4d02c3943f3f8b1cae91080a44520",
+   "size": 152
+  },
+  {
+   "path": "satiator-saves/t-030/Daytona__01.BUP",
+   "sha256": "53168fdeaa603f3147eca837e75c9ba073834b04dd4d86bf50df47976894f5a4",
+   "size": 2530
+  },
+  {
+   "path": "satiator-saves/t-030/HANGONGP_02.BUP",
+   "sha256": "38f8362bfda9d27d18cf5f715d863fc11aae28943f02386e2228d21b2004d8d5",
+   "size": 1776
+  },
+  {
+   "path": "satiator-saves/t-030/JUNGLE_PARK.BUP",
+   "sha256": "9b88d08af505e9bd1d3c29bd92bd6559f5c4604a6e3c573166a318181a2517d0",
+   "size": 152
+  },
+  {
+   "path": "satiator-saves/t-030/NMAKA_PZ_00.BUP",
+   "sha256": "a992fcfa408f33e9fcc65895decea7968321b3c97c29970385f8b41a277e225e",
+   "size": 152
+  },
+  {
+   "path": "satiator-saves/t-030/PB3_STATUS_.BUP",
+   "sha256": "612c9dcc8d27383cffa82c972f9b0148f451ffe1481b5026eeff44e7ba672f04",
+   "size": 210
+  },
+  {
+   "path": "satiator-saves/t-030/SEGARALLY_0.BUP",
+   "sha256": "54e6d23c83a75dcfa7ea3cad1031e0f1c9c504a033b4a8fe796039647d3e09ea",
+   "size": 5140
+  },
+  {
+   "path": "satiator-saves/t-030/TOURINGC_01.BUP",
+   "sha256": "5c528daddcda7f5edab72d8a67aae435d6c9f856a2f3e119f1ea3346bb6ffb88",
+   "size": 14188
+  }
+ ]
+}

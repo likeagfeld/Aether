@@ -1,0 +1,88 @@
+{
+ "import_txt": null,
+ "log": [
+  "say TIDY: T-00001[U]",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=0 files=4 bytes=780 bups=2 bkps=2 folders=0 slots=1 skipped=0 rc=0",
+  "say TIDY: T-00001[U]",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=1 files=4 bytes=780 bups=2 bkps=2 folders=2 slots=1 skipped=0 rc=0",
+  "say TIDY: T-00001[U]",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=0 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=1 skipped=0 rc=0",
+  "say TIDY: T-00001[U]",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=1 files=0 bytes=0 bups=0 bkps=0 folders=0 slots=1 skipped=0 rc=0",
+  "caps tcap=912 kcap=2448",
+  "violations=0"
+ ],
+ "pgsbak_sha": "014189c",
+ "runs": [],
+ "tree": [
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00002/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00002/ALT/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00002/ALT/A_SAV.BUP",
+   "sha256": "4198f5f4711ac4ae5f80e374ec4201b6756645380bb8c5e9128c1b668883fbeb",
+   "size": 164
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00002/ALT/Z_SAV.BUP",
+   "sha256": "daf64cdab2cf971d4248e1ee50cde7c8dc8d4da27b333a440c067752df92110a",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00002/A_SAV.BUP",
+   "sha256": "4198f5f4711ac4ae5f80e374ec4201b6756645380bb8c5e9128c1b668883fbeb",
+   "size": 164
+  },
+  {
+   "path": "aether/SAVES/T-00001[U]/G000/G00002/DONE.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/000/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/000/00003.BKP",
+   "sha256": "50324836bb1b340169a2d026325897240e079a4a4049be05a82c4c8fcb3955b1",
+   "size": 260
+  }
+ ]
+}

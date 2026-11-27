@@ -1,0 +1,193 @@
+{
+ "import_txt": "kai=0 rings=0 present=5 skipped=1 conflicts=1 older=0 cart_only=0 alternates=0\nskipped not-a-save /SAVES/BRAM/MK-81214[UT]/CARTSAV_005.BUP\n",
+ "pgsbak_sha": "f2a7d4b",
+ "runs": [
+  {
+   "cart": 3,
+   "conflicts": 1,
+   "kai": 1,
+   "older": 1,
+   "present": 1,
+   "rc": 0,
+   "rings": 0,
+   "skipped": 1
+  },
+  {
+   "cart": 0,
+   "conflicts": 1,
+   "kai": 0,
+   "older": 0,
+   "present": 5,
+   "rc": 0,
+   "rings": 0,
+   "skipped": 1
+  }
+ ],
+ "tree": [
+  {
+   "path": "SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214/CARTSAV_001.BUP",
+   "sha256": "dfc10a3ec751f85a4adfe68ee9597d35f1debd8c7bbe423f66e268f53b071be0",
+   "size": 264
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/02/CARTSAV_009.BUP",
+   "sha256": "e06428e9e813db27a6628c019936ae2dba9a4ebf7e26ed6bb6418204c461cd5f",
+   "size": 161325
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/CARTSAV_001.BUP",
+   "sha256": "21ecbfd3db82291002d214bd727ad4459f7dce81db89278dd90f82885610d007",
+   "size": 40069
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/CARTSAV_002.BUP",
+   "sha256": "c010f671eda61472b9b4236d607d3572821ef9f4458347b7a944d4ca14e7fd0b",
+   "size": 32833
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/CARTSAV_003.BUP",
+   "sha256": "dccf32b058df41a99381e4dabafd33da395c027d69fcf0d35b7330f3667cb2fe",
+   "size": 50064
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/CARTSAV_004.BUP",
+   "sha256": "1d8ab08167351ac71af08d785a491b03003ebc728adb239033c020dec362a6cb",
+   "size": 50064
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/CARTSAV_005.BUP",
+   "sha256": "cb520d529b43e0218e4406eeb9b2c861889418b182292ade471fa0eeb43188de",
+   "size": 33064
+  },
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/IMPORT.TXT",
+   "sha256": "012eab600e45aa39d5ed390273ba49b12bfb926606c15888a9913e54c71cb73e",
+   "size": 139
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/02/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/02/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/02/CART/CARTSAV_009.BUP",
+   "sha256": "e06428e9e813db27a6628c019936ae2dba9a4ebf7e26ed6bb6418204c461cd5f",
+   "size": 161325
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CART/CARTSAV_001.BUP",
+   "sha256": "15302b2f8937bff98703914038a5aa37294ee66cb1346daa517055cd98fb08a9",
+   "size": 40064
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CART/CARTSAV_002.BUP",
+   "sha256": "c010f671eda61472b9b4236d607d3572821ef9f4458347b7a944d4ca14e7fd0b",
+   "size": 32833
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CART/CARTSAV_003.BUP",
+   "sha256": "dccf32b058df41a99381e4dabafd33da395c027d69fcf0d35b7330f3667cb2fe",
+   "size": 50064
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CART/CARTSAV_004.BUP",
+   "sha256": "202bba2990d92a94014ce820ce9f72b66eed332f981d502b67d222e6ada43a46",
+   "size": 50064
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/CARTSAV_001.BUP",
+   "sha256": "dfc10a3ec751f85a4adfe68ee9597d35f1debd8c7bbe423f66e268f53b071be0",
+   "size": 264
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/CART/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/MK-81214[UT]/CART/CARTSAV_001.BUP",
+   "sha256": "0447ae233f7679da545a9424d96b5a9d3c240c9be53765a6d93fb1f5078c7df8",
+   "size": 40064
+  },
+  {
+   "path": "satiator-saves/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/MK-81214/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/MK-81214/CARTSAV_001.BUP",
+   "sha256": "67cc82e24fcce23709a09b72bd9f5805ff1f36bed400c53bbbbe7f49879e7903",
+   "size": 40066
+  }
+ ]
+}

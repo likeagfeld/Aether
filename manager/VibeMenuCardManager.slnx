@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VibeMenuCardManager.Cli/VibeMenuCardManager.Cli.csproj" />
+  <Project Path="VibeMenuCardManager.Core/VibeMenuCardManager.Core.csproj" />
+  <Project Path="VibeMenuCardManager.Tests/VibeMenuCardManager.Tests.csproj" />
+  <Project Path="VibeMenuCardManager.UI/VibeMenuCardManager.UI.csproj" />
+</Solution>

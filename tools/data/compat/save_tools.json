@@ -1,0 +1,11 @@
+{
+ "source": "PSKai v6.545 pseudosat_kai/pseudo_bram.c:1203-1223 (the product numbers Kai skips per-game saves for), BackupMngr/app_title.h:19-31 (Save Data Manager title), autoset.c:198-224 and 1876-1913 (IP dumps); smk_readme 6b lines 225-230; main readme v6.521 lines 2419-2423; Save Game Copier 3.6.18 release game.iso IP read 2026-11-20",
+ "schema": "title_substring: upper-case text searched for in the upper-cased IP title (0x60-0xDF); empty string when the tool's title is generic and must not be used. product_codes: IP product numbers (0x20, 10 bytes, cut at the first space as Kai does) compared exactly. A disc is a save tool if its title contains a non-empty title_substring OR its product number is in product_codes.",
+ "tools": [
+  {"title_substring": "", "product_codes": ["SGC"], "name": "Save Game Copier (Slinga)", "note": "pseudo_bram.c:1208 \"Save Game Copier, whose P/N is \\\"SGC\\\"\"; the 3.6.18 release IP has product 'SGC' and the generic Jo Engine title 'JO ENGINE' (shared by every Jo Engine build), so the title is not matched"},
+  {"title_substring": "", "product_codes": ["SATAKORE"], "name": "Dezaemon 2 Save Game Manager 1 and 2", "note": "pseudo_bram.c:1209 \"Dezaemon 2 Save Game Manager volumes 1 and 2, P/N = \\\"SATAKORE\\\"\"; no release image was available to read its title"},
+  {"title_substring": "THE ROCKIN'-B", "product_codes": ["T-060680"], "name": "Save Game Manager (Rockin'-B)", "note": "pseudo_bram.c:1210 (P/N T-060680); title 'Released by The Rockin'-B for SEGA Saturn. ...' from the IP dump at autoset.c:1880-1889; autoset.c:1915-1921: nearly all Rockin'-B productions share this IP header, so both matches also catch his other homebrew (Kai accepts that)"},
+  {"title_substring": "SATURN SAVE DATA MANAGER", "product_codes": [], "name": "PSKai Save Data Manager", "note": "BackupMngr/app_title.h:19 BUP_APP_TITLE_STR; its P/N T-042G is shared with Kai itself (pseudo_bram.c:1204-1207), so only the title is matched"},
+  {"title_substring": "FDD OPERATOR", "product_codes": ["610-6276"], "name": "Sega Saturn FDD Operator", "note": "pseudo_bram.c:1211 (P/N 610-6276); title 'SEGA SATURN     FDD OPERATOR' from the IP dump at autoset.c:213-222; not in Kai's readme list"}
+ ]
+}

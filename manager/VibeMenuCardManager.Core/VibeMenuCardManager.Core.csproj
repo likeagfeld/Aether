@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="3.119.4" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="3.119.4" />
+    <!-- packaging: osx-x64/osx-arm64 publishes need SkiaSharp's own macOS native asset package too
+         (win-x64/win-arm64 ship in the base SkiaSharp package already). -->
+    <PackageReference Include="SkiaSharp.NativeAssets.macOS" Version="3.119.4" />
+    <PackageReference Include="System.IO.Hashing" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- design spec §10: the About dialog shows the repository's CREDITS.md, embedded so it cannot drift -->
+    <EmbeddedResource Include="..\..\CREDITS.md" LogicalName="CREDITS.md" Link="CREDITS.md" />
+    <!-- M-art-pack: the Card Manager's bundled GAMES.DB (build/db/GAMES.DB, ~168 KB, built by tools/omsat), for
+         "Match to game..." to search. A build artifact, never committed (see .gitignore's build/); conditional so a
+         dev checkout without a build/db copy still builds (BuiltInDb.Load() then returns null). -->
+    <EmbeddedResource Include="..\..\build\db\GAMES.DB" LogicalName="GAMES.DB" Link="GAMES.DB"
+                       Condition="Exists('..\..\build\db\GAMES.DB')" />
+  </ItemGroup>
+
+</Project>

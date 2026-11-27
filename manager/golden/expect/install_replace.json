@@ -1,0 +1,168 @@
+{
+ "omsat_pin": "f2a7d4b",
+ "reports": [
+  {
+   "backups": [
+    "autoboot.iso.bak-20261122-120000.1"
+   ],
+   "cheats": null,
+   "copied": [
+    "GAMES.DB",
+    "ART.PAK",
+    "LIBRARY.IDX",
+    "LAUNCHER.BIN",
+    "VRTILES.BIN",
+    "LOADBG.BIN",
+    "MUSIC/BGM.MUS",
+    "THEMES/neon/THEME.INI",
+    "THEMES/neon/BG.BIN",
+    "THEMES/plain/THEME.INI",
+    "autoboot.iso"
+   ],
+   "leftovers": [],
+   "menu_bin_present": true,
+   "menu_bin_unchanged": true,
+   "old_openmenu_folder_untouched": true,
+   "warnings": []
+  }
+ ],
+ "source": "omsat.install.install (mkinstall.py)",
+ "stamp": "20261122-120000",
+ "tree": [
+  {
+   "path": "Games/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "Games/RPG/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "Games/RPG/x.iso",
+   "sha256": "65128131225a723b27a0a760bfaf09c41ec1732792264aea7d89793f67bb26d0",
+   "size": 100
+  },
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/ART.PAK",
+   "sha256": "ee99dd345d49db9210750a890639a2d13c457a1153aa5eb443bd6f45f644063f",
+   "size": 4096
+  },
+  {
+   "path": "aether/GAMES.DB",
+   "sha256": "e213dcef2f4e4219f60a0e42c0757fa92903bf3388a6350945878f44d2ff3ec8",
+   "size": 900
+  },
+  {
+   "path": "aether/LAUNCHER.BIN",
+   "sha256": "86ceb075b2fe5e0d50f1652597bd7591f11e1f597a59ca4baaa5cdde3cfb2a5a",
+   "size": 4396
+  },
+  {
+   "path": "aether/LIBRARY.IDX",
+   "sha256": "51792feb76e2b0d9ad46b48d1220a4c12547b7cbca78e2d75c284bd3e816193a",
+   "size": 333
+  },
+  {
+   "path": "aether/LOADBG.BIN",
+   "sha256": "2070a343528d1ea32fd3aca7ef552d585e0adadc61c1d47a6f7e2f660cec9a79",
+   "size": 1200
+  },
+  {
+   "path": "aether/MUSIC/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/MUSIC/BGM.MUS",
+   "sha256": "9f6abf8a7d88e9db7ac29a156137f91649b6a7c72fbef476fe8ec40c0abecfd2",
+   "size": 2048
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SETTINGS.INI",
+   "sha256": "20d072a93a5691613e92f1832f96751337c660603660d892cd4016cf58cd4aee",
+   "size": 11
+  },
+  {
+   "path": "aether/THEMES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/THEMES/neon/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/THEMES/neon/BG.BIN",
+   "sha256": "b68a990ab48a891b08c13f109715ac11574c750b3bdd38128dccb821ebc1727c",
+   "size": 512
+  },
+  {
+   "path": "aether/THEMES/neon/THEME.INI",
+   "sha256": "8cf41ba257702eaa60eada938e930233e9759edcdec6f87cb0af68ba49331747",
+   "size": 22
+  },
+  {
+   "path": "aether/THEMES/plain/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/THEMES/plain/THEME.INI",
+   "sha256": "1cddf3e12bd3ae24c60668125caeca127032c7981ea7d9676acb9d9bd8b7705e",
+   "size": 11
+  },
+  {
+   "path": "aether/VRTILES.BIN",
+   "sha256": "4d301a520fbcf21b16dcda791e4d9e7b28940baac2d8a24dc62935148eff3699",
+   "size": 700
+  },
+  {
+   "path": "autoboot.cue",
+   "sha256": "a376b08958aaafa774785d14c7e29a656c2b5fa00911c6fe497cac8727159f07",
+   "size": 25
+  },
+  {
+   "path": "autoboot.iso",
+   "sha256": "a67f20a44bea221c0d198f1840e4f0926d549bffe070112e791ead5a9e08b192",
+   "size": 5000
+  },
+  {
+   "path": "autoboot.iso.bak-20261122-120000",
+   "sha256": "aaa911ddf7c14d7b22d52e1cb55920063b757fd38c7249811e9fc20a9c60e13d",
+   "size": 37
+  },
+  {
+   "path": "autoboot.iso.bak-20261122-120000.1",
+   "sha256": "3f326ba32bd48c81a79bb1909054dd730c2fd23f6537678f6994dc2fbcdb1837",
+   "size": 14
+  },
+  {
+   "path": "menu.bin",
+   "sha256": "44267a74a26e24484e2e6007132dd5d2cb1bcd367ea5c3dd69e478e64d75ef1b",
+   "size": 4096
+  },
+  {
+   "path": "openmenu/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "openmenu/OLD.TXT",
+   "sha256": "3203352c37b0ab75089036dcee2dae4e37daebbff841ba79a4a5bdab52b5c7c8",
+   "size": 31
+  }
+ ]
+}

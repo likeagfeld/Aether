@@ -1,0 +1,69 @@
+{
+ "import_txt": null,
+ "log": [
+  "say TIDY: MK-81214[UT]",
+  "say TIDY: MK-81214[UT]/03",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=0 files=3 bytes=1380 bups=0 bkps=3 folders=0 slots=2 skipped=0 rc=0",
+  "say TIDY: MK-81214[UT]",
+  "say TIDY: MK-81214[UT]/03",
+  "say TIDY: BRAM BACKUPS",
+  "tidy run=1 files=3 bytes=1380 bups=0 bkps=3 folders=0 slots=2 skipped=0 rc=0",
+  "caps tcap=912 kcap=2448",
+  "violations=0"
+ ],
+ "pgsbak_sha": "014189c",
+ "runs": [],
+ "tree": [
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/JOURNAL.TXT",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/03/SLOTSAVE_03.BUP",
+   "sha256": "ca70aedf3e5290b74ecb4ca91d31b423dcb3053c8f093c1a116635c67e44a3b6",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SCORCHER_01.BUP",
+   "sha256": "a07ab5977b67c61ae73f6d304135271e6bffed708a36d7305b0d4011c265ee42",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/MK-81214[UT]/SCORCHER_01~1.BUP",
+   "sha256": "a07ab5977b67c61ae73f6d304135271e6bffed708a36d7305b0d4011c265ee42",
+   "size": 364
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_BACKUP/00004-20261122-120000.BKP",
+   "sha256": "39b4c7d22c3d8d176b0cc5e0b8a0e881ba654730b091ce3359762a3a2239a7a2",
+   "size": 212
+  }
+ ]
+}

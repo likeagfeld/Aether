@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omsat"
+version = "0.1.0"
+description = "Aether shared formats, matcher and build tools"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["Pillow>=10", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+test = ["pytest>=8", "PyYAML>=6"]
+
+[tool.setuptools]
+packages = ["omsat"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

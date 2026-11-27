@@ -1,0 +1,183 @@
+# Aether Card Manager for macOS: builds the two .app zips on real Macs, ad-hoc signs the whole bundle with Apple's
+# codesign (a sealed bundle, so Gatekeeper gives the normal "unidentified developer" prompt instead of "damaged"),
+# and replaces them in an existing release, together with their two SHA256SUMS.txt lines.
+#
+# The menu files (release/), COVERS.PAK, the fonts, NOTICE.txt and LICENSES/ are platform-independent and come from
+# the release's own linux-x64 .tar.gz (the menu build needs the local-only SGL, so it can't be rebuilt here).
+#
+# The apps are built with the release's own build identity (its version.json: build time, commit, pre-release), so
+# their update check sees the same build the other packages do; version.json itself is left in the release as it is.
+#
+# The data folders sit in Contents/Resources with symlinks from Contents/MacOS: codesign treats everything in
+# Contents/MacOS as code and refuses plain folders there; the app still finds them next to its executable.
+name: macos
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: "Existing release tag whose macOS zips are replaced (e.g. v0.1)"
+        required: true
+        default: "v0.1"
+      version:
+        description: "Version in the asset names (Credits.Version)"
+        required: false
+        default: "0.1"
+
+permissions:
+  contents: write
+
+jobs:
+  app:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { rid: osx-arm64, runner: macos-latest }
+          - { rid: osx-x64, runner: macos-15-intel }
+    runs-on: ${{ matrix.runner }}
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TAG: ${{ inputs.release_tag }}
+      VER: ${{ inputs.version }}
+      RID: ${{ matrix.rid }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: "10.0.x" }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m pip install pillow
+
+      - name: Platform-independent files from the release's linux-x64 tar.gz
+        run: |
+          mkdir -p "$RUNNER_TEMP/rel" && cd "$RUNNER_TEMP/rel"
+          gh release download "$TAG" --repo "$GITHUB_REPOSITORY" -p "AetherCardManager-$VER-linux-x64.tar.gz" -p SHA256SUMS.txt -p version.json
+          grep "  AetherCardManager-$VER-linux-x64.tar.gz\$" SHA256SUMS.txt | shasum -a 256 -c -
+          grep "  version.json\$" SHA256SUMS.txt | shasum -a 256 -c -
+          # the release's build identity, for the publish below (Directory.Build.props)
+          python3 -c 'import json; v = json.load(open("version.json")); print("AETHER_BUILD=" + v["build"]); print("AETHER_COMMIT=" + v["commit"]); print("AETHER_PRE=" + str(v["prerelease"]).lower())' >> "$GITHUB_ENV"
+          tar -xzf "AetherCardManager-$VER-linux-x64.tar.gz" linux-x64/release linux-x64/covers linux-x64/fonts linux-x64/NOTICE.txt linux-x64/LICENSES
+          rm "AetherCardManager-$VER-linux-x64.tar.gz"
+          find linux-x64 -type f -exec ls -l {} +
+          # the built-in GAMES.DB (Core.csproj embeds build/db/GAMES.DB when present), as package.ps1 does
+          mkdir -p "$GITHUB_WORKSPACE/build/db"
+          cp linux-x64/release/GAMES.DB "$GITHUB_WORKSPACE/build/db/GAMES.DB"
+
+      - name: dotnet publish (UI + CLI, self-contained)
+        run: |
+          dotnet publish manager/VibeMenuCardManager.UI/VibeMenuCardManager.UI.csproj -c Release -r "$RID" --self-contained true \
+            -p:PublishSingleFile=false -p:IncludeNativeLibrariesForSelfExtract=true \
+            -p:AetherBuild="$AETHER_BUILD" -p:AetherCommit="$AETHER_COMMIT" -p:AetherPrerelease="$AETHER_PRE" -o "$RUNNER_TEMP/pub/ui"
+          dotnet publish manager/VibeMenuCardManager.Cli/VibeMenuCardManager.Cli.csproj -c Release -r "$RID" --self-contained true \
+            -p:PublishSingleFile=false \
+            -p:AetherBuild="$AETHER_BUILD" -p:AetherCommit="$AETHER_COMMIT" -p:AetherPrerelease="$AETHER_PRE" -o "$RUNNER_TEMP/pub/cli"
+
+      - name: Assemble AetherCardManager.app
+        run: |
+          src="$RUNNER_TEMP/rel/linux-x64"
+          app="$RUNNER_TEMP/app/AetherCardManager.app"
+          mac="$app/Contents/MacOS"; res="$app/Contents/Resources"
+          mkdir -p "$mac" "$res"
+          cp -R "$RUNNER_TEMP/pub/ui/." "$mac/"
+          cp -R "$RUNNER_TEMP/pub/cli/." "$mac/"
+          # the publish's fonts must be the pinned ones the other packages carry
+          cmp "$mac/fonts/NotoSansJP-Regular.otf" "$src/fonts/NotoSansJP-Regular.otf"
+          cmp "$mac/fonts/OFL.txt" "$src/fonts/OFL.txt"
+          rm -rf "$mac/fonts" "$mac/covers"
+          for d in release covers fonts LICENSES; do
+            cp -R "$src/$d" "$res/$d"
+            ln -s "../Resources/$d" "$mac/$d"
+          done
+          cp "$src/NOTICE.txt" "$mac/NOTICE.txt"
+          python manager/release/unixpack.py icns assets/logo/aether_icon_1024.png "$res/AppIcon.icns"
+          cat > "$app/Contents/Info.plist" <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0">
+          <dict>
+            <key>CFBundleName</key><string>Aether Card Manager</string>
+            <key>CFBundleDisplayName</key><string>Aether Card Manager</string>
+            <key>CFBundleIdentifier</key><string>org.openmenusatiator.aethercardmanager</string>
+            <key>CFBundleVersion</key><string>$VER</string>
+            <key>CFBundleShortVersionString</key><string>$VER</string>
+            <key>CFBundleExecutable</key><string>AetherCardManager</string>
+            <key>CFBundleIconFile</key><string>AppIcon</string>
+            <key>CFBundlePackageType</key><string>APPL</string>
+            <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+            <key>LSMinimumSystemVersion</key><string>11.0</string>
+            <key>NSHighResolutionCapable</key><true/>
+          </dict>
+          </plist>
+          EOF
+          plutil -lint "$app/Contents/Info.plist"
+          # unixpack.py's modes: 0755 on folders and Mach-O files, 0644 on the rest
+          python - "$app" <<'EOF'
+          import os, sys
+          sys.path.insert(0, "manager/release")
+          from pathlib import Path
+          import unixpack
+          for dp, dns, fns in os.walk(sys.argv[1]):
+              os.chmod(dp, 0o755)
+              for n in fns:
+                  p = Path(dp) / n
+                  if not p.is_symlink():
+                      os.chmod(p, unixpack.mode_for(p))
+          EOF
+          xattr -cr "$app"
+          test -f "$mac/release/GAMES.DB" && test -f "$mac/covers/COVERS.PAK" && test -f "$mac/fonts/NotoSansJP-Regular.otf"
+          test -x "$mac/AetherCardManager" && test -x "$mac/vmcm"
+          du -sh "$app"
+
+      - name: Ad-hoc sign the whole bundle and verify
+        working-directory: ${{ runner.temp }}/app
+        run: |
+          codesign --force --deep --sign - AetherCardManager.app
+          codesign --verify --deep --strict --verbose=2 AetherCardManager.app
+          codesign -dvv AetherCardManager.app 2>&1
+          spctl -a -t exec -vv AetherCardManager.app 2>&1 || echo "spctl rejects an ad-hoc signature (expected)"
+
+      - name: Zip with ditto, then check the unzipped copy
+        run: |
+          out="$RUNNER_TEMP/AetherCardManager-$VER-$RID.zip"
+          (cd "$RUNNER_TEMP/app" && ditto -c -k --keepParent AetherCardManager.app "$out")
+          ls -l "$out"
+          mkdir "$RUNNER_TEMP/check" && ditto -x -k "$out" "$RUNNER_TEMP/check"
+          codesign --verify --deep --strict --verbose=2 "$RUNNER_TEMP/check/AetherCardManager.app"
+          test -f "$RUNNER_TEMP/check/AetherCardManager.app/Contents/MacOS/release/GAMES.DB"
+          "$RUNNER_TEMP/check/AetherCardManager.app/Contents/MacOS/vmcm" notice > "$RUNNER_TEMP/notice.txt"
+          sed -n 1,5p "$RUNNER_TEMP/notice.txt"
+
+      - name: Replace the release asset
+        run: gh release upload "$TAG" "$RUNNER_TEMP/AetherCardManager-$VER-$RID.zip" --repo "$GITHUB_REPOSITORY" --clobber
+
+  sums:
+    needs: app
+    if: ${{ !cancelled() }}   # SHA256SUMS.txt matches the zips the release holds, even if one RID failed
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TAG: ${{ inputs.release_tag }}
+      VER: ${{ inputs.version }}
+    steps:
+      - name: Patch the two macOS lines of SHA256SUMS.txt from the uploaded zips
+        run: |
+          gh release download "$TAG" --repo "$GITHUB_REPOSITORY" -p SHA256SUMS.txt -p "AetherCardManager-$VER-osx-*.zip"
+          python3 - <<'EOF'
+          import hashlib, os
+          ver = os.environ["VER"]
+          lines = open("SHA256SUMS.txt", newline="").read().split("\n")
+          for rid in ("osx-arm64", "osx-x64"):
+              name = f"AetherCardManager-{ver}-{rid}.zip"
+              h = hashlib.sha256()
+              with open(name, "rb") as f:
+                  while b := f.read(1 << 20):
+                      h.update(b)
+              idx = [i for i, l in enumerate(lines) if l.endswith("  " + name)]
+              assert len(idx) == 1, name
+              lines[idx[0]] = f"{h.hexdigest()}  {name}"
+          open("SHA256SUMS.txt", "w", newline="").write("\n".join(lines))
+          EOF
+          cat SHA256SUMS.txt
+          sha256sum -c --ignore-missing SHA256SUMS.txt
+          gh release upload "$TAG" SHA256SUMS.txt --repo "$GITHUB_REPOSITORY" --clobber
+          gh release view "$TAG" --repo "$GITHUB_REPOSITORY" --json isPrerelease,assets --jq '.isPrerelease, (.assets[] | "\(.name) \(.size)")'

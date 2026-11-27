@@ -1,0 +1,368 @@
+{
+ "import_txt": "kai=0 rings=0 present=14 skipped=0 conflicts=1 older=0 cart_only=0 alternates=0\n",
+ "pgsbak_sha": "f2a7d4b",
+ "runs": [
+  {
+   "cart": 0,
+   "conflicts": 1,
+   "kai": 13,
+   "older": 4,
+   "present": 0,
+   "rc": 0,
+   "rings": 1,
+   "skipped": 0
+  },
+  {
+   "cart": 0,
+   "conflicts": 1,
+   "kai": 0,
+   "older": 0,
+   "present": 14,
+   "rc": 0,
+   "rings": 0,
+   "skipped": 0
+  }
+ ],
+ "tree": [
+  {
+   "path": "SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001/GS_SAVE_000.BUP",
+   "sha256": "90d72582485d73facc2749985cd2ff414bd919ce01719e67fe4a945bab4a973b",
+   "size": 124
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001[J]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/GS-9001[J]/GS_SAVE_JP0.BUP",
+   "sha256": "be2ee9ccc97df055133e6d246715598f48879eac3eb4391ed88cf7cdedc61840",
+   "size": 124
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/03/SCORCHER_03.BUP",
+   "sha256": "a26ef61bed8692c7543f68b15f17da60ad7616124dff2587d88c5191fc9385c1",
+   "size": 104
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/SCORCHER_01.BUP",
+   "sha256": "99a19f513cede77d31848e272e5dd503c238ee5c9fc60bd3d1606a3e206b08a7",
+   "size": 104
+  },
+  {
+   "path": "SAVES/BRAM/MK-81214[UT]/SCORCHER_02.BUP",
+   "sha256": "738e253495982e640eb099b1e1ef064eb95bd29b2ee6d500b4c91f6895cf0dde",
+   "size": 104
+  },
+  {
+   "path": "SAVES/BRAM/T-555/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-555/KAIPO_SAV_1.BUP",
+   "sha256": "0e4507c49fed75f4d6bbec6ca4799571ede6a4e288394a470f8cb31ff805e9e0",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[E]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-555[E]/REG_SAV_002.BUP",
+   "sha256": "3631b86ca071aa0df515b3003ab26e012881a3aad4b4c11c64a097fc4cf5aa7f",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[E]/SHARED_SAVE.BUP",
+   "sha256": "ca6a3ed5a1de62649476ba4d670bde5b3ea65fb1991b7c717745029ee2784e71",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[J]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-555[J]/REG_SAV_001.BUP",
+   "sha256": "9ee2540a5defed4540d3229ea98838cf6262bdbe99e2a1e901dcd102329ec724",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[J]/SHARED_SAVE.BUP",
+   "sha256": "cba1d25b757b877155cc869b2fe2a0f0d5a3ce21e223c14e435c559fe7af02c5",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[T]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-555[T]/REG_SAV_003.BUP",
+   "sha256": "a636c8344ceb4125c8a3ac518c0b50b107a97457636172f2d7f88f8043c22ecb",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[T]/SHARED_SAVE.BUP",
+   "sha256": "2953772c27bd8c2ef0245f86aa3f5928ccaba8cb60bf1613b7ae0cd6e1397e05",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[UT]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-555[UT]/REG_SAV_004.BUP",
+   "sha256": "d7d2c013324cd9dca78464954c9de42d03da703860b24698cd536daaaaad1155",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[UT]/SHARED_SAVE.BUP",
+   "sha256": "00620743a6097530eb8e61e4cf3d0e4a420c923e23deebca37a25fc806158a76",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-555[U]/REG_SAV_000.BUP",
+   "sha256": "ab7da9f1a8e1bda9cac5cd6d3a39e834ee92d5d31856f45cc93f853e35fb04c2",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-555[U]/SHARED_SAVE.BUP",
+   "sha256": "9803e03518e61bf84d1157660dc4d8846c12b5eae24e629a8133069e921845c7",
+   "size": 94
+  },
+  {
+   "path": "SAVES/BRAM/T-777/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "SAVES/BRAM/T-777/KAI_777_01.BUP",
+   "sha256": "db2896b7640132992e5ab39c45a5543060f6ba3f41f74c6b208865f00515cde6",
+   "size": 94
+  },
+  {
+   "path": "aether/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/GS-9001[J]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/GS-9001[J]/GS_SAVE_000.BUP",
+   "sha256": "90d72582485d73facc2749985cd2ff414bd919ce01719e67fe4a945bab4a973b",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/GS-9001[J]/GS_SAVE_JP0.BUP",
+   "sha256": "be2ee9ccc97df055133e6d246715598f48879eac3eb4391ed88cf7cdedc61840",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/GS-9001[U]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/GS-9001[U]/GS_SAVE_000.BUP",
+   "sha256": "90d72582485d73facc2749985cd2ff414bd919ce01719e67fe4a945bab4a973b",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/GS-9001[U]/OWN_GS_0001.BUP",
+   "sha256": "92057a5cd561b8012a86edc0fe5677c5f5f1076ec6294ac94a62ef91eff84ac8",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/IMPORT.TXT",
+   "sha256": "59584d31de8bb8d11b249853c228a6b0381fabe0256f41e2bf4444f0b8d3348e",
+   "size": 80
+  },
+  {
+   "path": "aether/SAVES/MK-81214/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214/03/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/MK-81214/03/SCORCHER_01.BUP",
+   "sha256": "a942f71ce6042bf25a064d2aaf6ad908fa691c579995814f4a3f65b0fb4904ab",
+   "size": 124
+  },
+  {
+   "path": "aether/SAVES/MK-81214/03/SCORCHER_03.BUP",
+   "sha256": "a26ef61bed8692c7543f68b15f17da60ad7616124dff2587d88c5191fc9385c1",
+   "size": 104
+  },
+  {
+   "path": "aether/SAVES/MK-81214/SCORCHER_01.BUP",
+   "sha256": "877beae314d8571fc145135164e0c66474355494b7c1b8990f342c07f461bc3e",
+   "size": 114
+  },
+  {
+   "path": "aether/SAVES/MK-81214/SCORCHER_02.BUP",
+   "sha256": "738e253495982e640eb099b1e1ef064eb95bd29b2ee6d500b4c91f6895cf0dde",
+   "size": 104
+  },
+  {
+   "path": "aether/SAVES/T-555/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-555/KAIPO_SAV_1.BUP",
+   "sha256": "0e4507c49fed75f4d6bbec6ca4799571ede6a4e288394a470f8cb31ff805e9e0",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/OWN_SAVE_01.BUP",
+   "sha256": "1c312462e279522313b8776bc075837f73ac03649420be1e9f5aed3e379b3af0",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/REG_SAV_000.BUP",
+   "sha256": "ab7da9f1a8e1bda9cac5cd6d3a39e834ee92d5d31856f45cc93f853e35fb04c2",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/REG_SAV_001.BUP",
+   "sha256": "9ee2540a5defed4540d3229ea98838cf6262bdbe99e2a1e901dcd102329ec724",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/REG_SAV_002.BUP",
+   "sha256": "3631b86ca071aa0df515b3003ab26e012881a3aad4b4c11c64a097fc4cf5aa7f",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/REG_SAV_003.BUP",
+   "sha256": "a636c8344ceb4125c8a3ac518c0b50b107a97457636172f2d7f88f8043c22ecb",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/REG_SAV_004.BUP",
+   "sha256": "d7d2c013324cd9dca78464954c9de42d03da703860b24698cd536daaaaad1155",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/RINGS_SAV_1.BUP",
+   "sha256": "03ae7ea66c4491e0caef88b4c402b394fdda58d7dbc2ddcbbe45c15a380de961",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-555/SHARED_SAVE.BUP",
+   "sha256": "00620743a6097530eb8e61e4cf3d0e4a420c923e23deebca37a25fc806158a76",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-777[J]/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/T-777[J]/KAI_777_01.BUP",
+   "sha256": "db2896b7640132992e5ab39c45a5543060f6ba3f41f74c6b208865f00515cde6",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/T-777[J]/OWN_777_01.BUP",
+   "sha256": "839fbcffa955a9b4fc8a4a3e06b91b8df0133e8155deae7677f6f055fc270082",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-555/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-555/SHARED_SAVE.BUP",
+   "sha256": "ca6a3ed5a1de62649476ba4d670bde5b3ea65fb1991b7c717745029ee2784e71",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-555/SHARED_SAVE~1.BUP",
+   "sha256": "cba1d25b757b877155cc869b2fe2a0f0d5a3ce21e223c14e435c559fe7af02c5",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-555/SHARED_SAVE~2.BUP",
+   "sha256": "2953772c27bd8c2ef0245f86aa3f5928ccaba8cb60bf1613b7ae0cd6e1397e05",
+   "size": 94
+  },
+  {
+   "path": "aether/SAVES/_QUARANTINE/IMPORT/T-555/SHARED_SAVE~3.BUP",
+   "sha256": "9803e03518e61bf84d1157660dc4d8846c12b5eae24e629a8133069e921845c7",
+   "size": 94
+  },
+  {
+   "path": "satiator-saves/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/T-555/",
+   "sha256": "",
+   "size": 0
+  },
+  {
+   "path": "satiator-saves/T-555/RINGS_SAV_1.BUP",
+   "sha256": "03ae7ea66c4491e0caef88b4c402b394fdda58d7dbc2ddcbbe45c15a380de961",
+   "size": 94
+  }
+ ]
+}

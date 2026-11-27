@@ -1,0 +1,195 @@
+# Aether Card Manager packaging. Manual only (workflow_dispatch): builds every platform's package
+# into build/dist/ and uploads them as workflow artifacts. With release_tag set, its last job attaches every package and one
+# SHA256SUMS.txt to that GitHub Release (a new one is made as a draft); without it, download the artifacts and publish
+# them by hand, SHA256SUMS.txt (the "sha256sums" artifact) with them.
+#
+# Private build inputs this workflow cannot fetch itself:
+#   build/sgl           the SaturnSDK/SGL headers and objects the Saturn cross-build links against.
+#                        This is SEGA's own closed SDK, so it must NEVER go into an actions/cache entry -- a cache is
+#                        restorable by any workflow run in the repo (a fork pull request's included, were this repo
+#                        ever public), which is a materially different exposure than a file sitting on a machine you
+#                        control. Of the safe options (a self-hosted runner; a manual dispatch fed the already-built
+#                        release/ folder as a private artifact; documenting a fully-local build), this workflow takes
+#                        the simplest one that keeps "menu-and-linux" otherwise unchanged: that job runs on a
+#                        self-hosted runner, where build/sgl is expected to already be on disk (never fetched from
+#                        anywhere this workflow touches) -- see its "Check build/sgl is present" step.
+#   build/db            GAMES.DB + jp_titles.json (tools/omsat's own database build, from the Cover Project
+#                        spreadsheet and Rings' art -- not redistributable source data)
+#   build/coverpack     COVERS.PAK (tools/omsat/coverpack.py; needs the 1.6 GB Rings Cover Project zip, which is not
+#                        in this repository)
+#   build/fonts         Noto Sans JP
+# build/db, build/coverpack and build/fonts (never build/sgl) are restored from an actions/cache entry you seed once
+# (actions/cache/save with the key below, passing enableCrossOsArchive: true the same way the restores below do,
+# since the save runs on one OS and this cache is restored on all three). This workflow fails fast with a clear
+# error if that cache is missing -- it does not silently package an incomplete release.
+name: release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version string for the package file names (Credits.Version; do not bump without the user's say-so)"
+        required: false
+        default: "0.1"
+      release_tag:
+        description: "Optional: an existing or new GitHub Release tag (e.g. v0.1) to attach every package and SHA256SUMS.txt to; empty = artifacts only"
+        required: false
+        default: ""
+      final:
+        description: "A normal (non-pre-release) release: version.json and every Card Manager say so (package.ps1 -Final)"
+        type: boolean
+        required: false
+        default: false
+
+env:
+  BUILD_INPUTS_CACHE_KEY: vmcm-build-inputs-v1   # bump this if build/db, build/coverpack or build/fonts change (never build/sgl: I3, that one is never cached)
+
+jobs:
+  # Builds the Saturn menu (needs Docker + the private build/sgl) and packages the two Linux RIDs (needs a real
+  # Linux host for appimagetool's FUSE-based extraction). Uploads the finished release/ folder so the Windows and
+  # macOS jobs do not need Docker or the Saturn toolchain at all.
+  # Self-hosted, not ubuntu-latest -- build/sgl (SEGA's SDK) must never pass through an
+  # actions/cache entry, so it is expected to already be on this trusted runner's disk, outside any GitHub-managed
+  # cache. Give this runner's job the "self-hosted" label (and, if you run more than one self-hosted runner, a more
+  # specific label here) before dispatching this workflow.
+  menu-and-linux:
+    runs-on: self-hosted
+    # one build time for every platform's package and version.json (package.ps1 -Build)
+    outputs:
+      build: ${{ steps.stamp.outputs.build }}
+    steps:
+      - id: stamp
+        run: echo "build=$(date -u +%Y%m%d.%H%M)" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v4
+        # fetch-depth 0: package.ps1 reads git log/status; a shallow clone would misreport "dirty". clean: false:
+        # actions/checkout defaults to clean: true, i.e. `git clean -ffdx` -- the -x wipes ignored files, which
+        # would delete build/sgl (expected already on this self-hosted runner's disk) on every run.
+        with: { fetch-depth: 0, clean: false }
+
+      - name: Check build/sgl is present (never fetched by this workflow -- I3, see the header comment)
+        shell: pwsh
+        run: |
+          if (-not (Test-Path build/sgl)) {
+            Write-Error "build/sgl is missing on this self-hosted runner. It is never restored from an actions/cache entry (that is SEGA's own SDK, kept off GitHub's cache infrastructure entirely) -- place it at build/sgl on this machine once, outside this workflow."
+            exit 1
+          }
+
+      - name: Restore private build inputs (build/db, build/coverpack, build/fonts -- never build/sgl, see above)
+        uses: actions/cache/restore@v4
+        id: inputs
+        with:
+          path: |
+            build/db
+            build/coverpack
+            build/fonts
+          key: ${{ env.BUILD_INPUTS_CACHE_KEY }}
+          enableCrossOsArchive: true
+      - name: Fail fast if the private inputs were never seeded
+        if: steps.inputs.outputs.cache-hit != 'true'
+        run: |
+          echo "::error::build/db, build/coverpack and build/fonts are not cached under key '${{ env.BUILD_INPUTS_CACHE_KEY }}'. Seed them once (actions/cache/save, with enableCrossOsArchive: true, or a manual artifact upload) from a machine that already built them -- see this workflow's own header comment." >&2
+          exit 1
+
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: "10.0.x" }
+      - name: Build the Saturn build image (docker/Dockerfile)
+        run: docker build -t omsat-build -f docker/Dockerfile .
+      - name: appimagetool
+        run: |
+          curl -sfL -o /usr/local/bin/appimagetool https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-x86_64.AppImage
+          chmod +x /usr/local/bin/appimagetool
+
+      - name: Package (menu build + linux-x64 + linux-arm64)
+        shell: pwsh
+        run: manager/release/package.ps1 -Rids linux-x64,linux-arm64 -OutDir build/dist -Build ${{ steps.stamp.outputs.build }} -Final:$${{ inputs.final }}
+
+      - uses: actions/upload-artifact@v4
+        with: { name: release-folder, path: build/dist_release, if-no-files-found: error }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: package-linux
+          path: |
+            build/dist/*linux*
+            build/dist/version.json
+          if-no-files-found: error
+
+  windows:
+    needs: menu-and-linux
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: "10.0.x" }
+      - name: "Restore the cover pack and font (not the menu: that comes from the artifact below)"
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            build/coverpack
+            build/fonts
+          key: ${{ env.BUILD_INPUTS_CACHE_KEY }}
+          fail-on-cache-miss: true
+          enableCrossOsArchive: true   # I3: this cache may have been saved on a different OS than this runner's
+      - uses: actions/download-artifact@v4
+        with: { name: release-folder, path: build/dist_release }
+
+      - name: Package (win-x64 + win-arm64)
+        shell: pwsh
+        run: manager/release/package.ps1 -Rids win-x64,win-arm64 -ReleaseDirOverride build/dist_release -OutDir build/dist -Build ${{ needs.menu-and-linux.outputs.build }} -Final:$${{ inputs.final }}
+
+      - uses: actions/upload-artifact@v4
+        with: { name: package-windows, path: build/dist/*win*, if-no-files-found: error }
+
+  macos:
+    needs: menu-and-linux
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: "10.0.x" }
+      - name: "Restore the cover pack and font (not the menu: that comes from the artifact below)"
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            build/coverpack
+            build/fonts
+          key: ${{ env.BUILD_INPUTS_CACHE_KEY }}
+          fail-on-cache-miss: true
+          enableCrossOsArchive: true   # I3: this cache may have been saved on a different OS than this runner's
+      - uses: actions/download-artifact@v4
+        with: { name: release-folder, path: build/dist_release }
+
+      - name: Package (osx-x64 + osx-arm64; the unsigned .app zipped with its Unix modes)
+        shell: pwsh
+        run: manager/release/package.ps1 -Rids osx-x64,osx-arm64 -ReleaseDirOverride build/dist_release -OutDir build/dist -Build ${{ needs.menu-and-linux.outputs.build }} -Final:$${{ inputs.final }}
+
+      - uses: actions/upload-artifact@v4
+        with: { name: package-macos, path: build/dist/*.zip, if-no-files-found: error }
+
+  # One SHA256SUMS.txt over every platform's package (each package job's own covers only its OS): the Card Manager's
+  # self-update (Core/Update/AppUpdate.cs) refuses a download whose SHA-256 is not the one listed here for its name.
+  # With release_tag set, the packages and this file are attached to that GitHub Release together.
+  checksums:
+    needs: [menu-and-linux, windows, macos]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { pattern: package-*, path: dist, merge-multiple: true }
+      - name: SHA256SUMS.txt
+        working-directory: dist
+        run: |
+          rm -f SHA256SUMS.txt
+          find . -maxdepth 1 -type f ! -name SHA256SUMS.txt -printf '%f\n' | sort | xargs sha256sum > SHA256SUMS.txt
+          cat SHA256SUMS.txt
+      - uses: actions/upload-artifact@v4
+        with: { name: sha256sums, path: dist/SHA256SUMS.txt, if-no-files-found: error }
+      - name: Attach the packages and SHA256SUMS.txt to the release
+        if: ${{ inputs.release_tag != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.release_tag }}
+        run: |
+          gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 || gh release create "$TAG" --repo "$GITHUB_REPOSITORY" --title "Aether $TAG" --notes "" --draft
+          gh release upload "$TAG" dist/* --repo "$GITHUB_REPOSITORY" --clobber

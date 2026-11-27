@@ -1,0 +1,64 @@
+<Project>
+  <!-- Aether Card Manager, GPL-3.0-or-later. Noto Sans JP (Google, SIL Open Font License 1.1) for the JP-title
+       bitmaps (design spec §8.1 TitleRenderer, SPEC §5.2): fetched at build time, never committed (manager/.gitignore
+       covers obj/). The static Regular instance (weight 400, the weight tools/omsat/jpfont.py selects on the variable
+       font) because SkiaSharp 3.119.4 (the version Avalonia.Skia 12.1.6 pins) has no font-variation API.
+       Source pinned: notofonts/noto-cjk @ 165c01b46ea533872e002e0785ff17e44f6d97d8, Sans/SubsetOTF/JP/NotoSansJP-Regular.otf
+       (SHA-256 below) and the repo's LICENSE (the OFL 1.1 text). The hash is checked on every build; a file that does
+       not match is deleted and the build fails. Offline with no cached copy: a warning, and the title renderer reports
+       the font missing (its tests report Skipped). -->
+  <PropertyGroup>
+    <VmcmFontDir>$(MSBuildThisFileDirectory)obj/fonts/</VmcmFontDir>
+    <VmcmFontCommit>165c01b46ea533872e002e0785ff17e44f6d97d8</VmcmFontCommit>
+    <VmcmFontUrl>https://raw.githubusercontent.com/notofonts/noto-cjk/$(VmcmFontCommit)/Sans/SubsetOTF/JP/NotoSansJP-Regular.otf</VmcmFontUrl>
+    <VmcmFontSha>DFF723BA59D57D136764A04B9B2D03205544F7CD785A711442D6D2D085AC5073</VmcmFontSha>
+    <VmcmOflUrl>https://raw.githubusercontent.com/notofonts/noto-cjk/$(VmcmFontCommit)/LICENSE</VmcmOflUrl>
+    <VmcmOflSha>6A73F9541C2DE74158C0E7CF6B0A58EF774F5A780BF191F2D7EC9CC53EFE2BF2</VmcmOflSha>
+  </PropertyGroup>
+
+  <Target Name="VmcmFetchFont" BeforeTargets="Build">
+    <DownloadFile Condition="!Exists('$(VmcmFontDir)NotoSansJP-Regular.otf')" SourceUrl="$(VmcmFontUrl)"
+                  DestinationFolder="$(VmcmFontDir)" DestinationFileName="NotoSansJP-Regular.otf" ContinueOnError="WarnAndContinue" />
+    <DownloadFile Condition="!Exists('$(VmcmFontDir)OFL.txt')" SourceUrl="$(VmcmOflUrl)"
+                  DestinationFolder="$(VmcmFontDir)" DestinationFileName="OFL.txt" ContinueOnError="WarnAndContinue" />
+    <GetFileHash Condition="Exists('$(VmcmFontDir)NotoSansJP-Regular.otf')" Files="$(VmcmFontDir)NotoSansJP-Regular.otf" Algorithm="SHA256">
+      <Output TaskParameter="Hash" PropertyName="VmcmFontGot" />
+    </GetFileHash>
+    <GetFileHash Condition="Exists('$(VmcmFontDir)OFL.txt')" Files="$(VmcmFontDir)OFL.txt" Algorithm="SHA256">
+      <Output TaskParameter="Hash" PropertyName="VmcmOflGot" />
+    </GetFileHash>
+    <Delete Condition="'$(VmcmFontGot)' != '' And '$(VmcmFontGot)' != '$(VmcmFontSha)'" Files="$(VmcmFontDir)NotoSansJP-Regular.otf" />
+    <Error Condition="'$(VmcmFontGot)' != '' And '$(VmcmFontGot)' != '$(VmcmFontSha)'"
+           Text="NotoSansJP-Regular.otf has SHA-256 $(VmcmFontGot), expected $(VmcmFontSha); the file was deleted, build again to refetch" />
+    <Delete Condition="'$(VmcmOflGot)' != '' And '$(VmcmOflGot)' != '$(VmcmOflSha)'" Files="$(VmcmFontDir)OFL.txt" />
+    <Error Condition="'$(VmcmOflGot)' != '' And '$(VmcmOflGot)' != '$(VmcmOflSha)'"
+           Text="the Noto Sans JP OFL.txt has SHA-256 $(VmcmOflGot), expected $(VmcmOflSha); the file was deleted, build again to refetch" />
+    <Copy Condition="Exists('$(VmcmFontDir)NotoSansJP-Regular.otf')" SourceFiles="$(VmcmFontDir)NotoSansJP-Regular.otf;$(VmcmFontDir)OFL.txt"
+          DestinationFolder="$(OutDir)fonts/" SkipUnchangedFiles="true" />
+  </Target>
+
+  <!-- The build identity's commit (Directory.Build.props) when none was passed: git's short SHA, or nothing outside a
+       checkout (package.ps1 always passes it: it publishes from a git archive). -->
+  <Target Name="AetherCommitFromGit" BeforeTargets="GetAssemblyAttributes" Condition="'$(AetherCommit)' == ''">
+    <Exec Command="git rev-parse --short=7 HEAD" WorkingDirectory="$(MSBuildThisFileDirectory)" ConsoleToMSBuild="true"
+          IgnoreExitCode="true" IgnoreStandardErrorWarningFormat="true" StandardOutputImportance="low" StandardErrorImportance="low" EchoOff="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="_AetherGitSha" />
+      <Output TaskParameter="ExitCode" PropertyName="_AetherGitExit" />
+    </Exec>
+    <PropertyGroup Condition="'$(_AetherGitExit)' == '0'">
+      <InformationalVersion>$(Version)+$(AetherBuild).$(_AetherGitSha.Trim())</InformationalVersion>
+    </PropertyGroup>
+  </Target>
+
+  <!-- final review I-3: a published Card Manager carries the font and its licence (the OFL requires the licence to travel
+       with the font) in fonts/, where TitleRenderer.DefaultFontPath looks. A publish without the font warns; the app then
+       says so whenever JP titles are skipped. -->
+  <Target Name="VmcmPublishFont" AfterTargets="ComputeResolvedFilesToPublishList">
+    <Warning Condition="!Exists('$(VmcmFontDir)NotoSansJP-Regular.otf')"
+             Text="Noto Sans JP is not in $(VmcmFontDir): this publish has no font, so the cards it builds get no JP titles (it says so when it builds)" />
+    <ItemGroup Condition="Exists('$(VmcmFontDir)NotoSansJP-Regular.otf')">
+      <ResolvedFileToPublish Include="$(VmcmFontDir)NotoSansJP-Regular.otf" RelativePath="fonts/NotoSansJP-Regular.otf" CopyToPublishDirectory="PreserveNewest" />
+      <ResolvedFileToPublish Include="$(VmcmFontDir)OFL.txt" RelativePath="fonts/OFL.txt" CopyToPublishDirectory="PreserveNewest" />
+    </ItemGroup>
+  </Target>
+</Project>

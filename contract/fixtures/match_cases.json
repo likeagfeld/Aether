@@ -1,0 +1,213 @@
+{
+  "keys": [
+    "GS-9001",
+    "T-8113H",
+    "T-8113H-50",
+    "T-8113H-18",
+    "T-11304H-50",
+    "MK-81009",
+    "MK-81009-50",
+    "191X56",
+    "GS-7103",
+    "T-4507G",
+    "MK81282-50",
+    "81001",
+    "T-7004H",
+    "T-29002G",
+    "T-15909H",
+    "T-15909H-18",
+    "T-15909H-50",
+    "MK81091-50",
+    "T-12003H-50",
+    "T-12003H-05",
+    "81029",
+    "MK81029-50",
+    "GS-9055",
+    "T-12512H",
+    "T-12512H-50",
+    "T-23201G",
+    "T-8120H",
+    "MK81005-50",
+    "610-6803",
+    "GS-9050"
+  ],
+  "aliases": {
+    "610-6342": "GS-7103"
+  },
+  "cases": [
+    {
+      "product": "GS-9001   ",
+      "area": "JTUE",
+      "expect_key": "GS-9001",
+      "expect_how": "exact"
+    },
+    {
+      "product": "610-6342  ",
+      "area": "U",
+      "expect_key": "GS-7103",
+      "expect_how": "alias"
+    },
+    {
+      "product": "T-11304H-5",
+      "area": "E",
+      "expect_key": "T-11304H-50",
+      "expect_how": "prefix"
+    },
+    {
+      "product": "MK-81009  ",
+      "area": "E",
+      "expect_key": "MK-81009-50",
+      "expect_how": "exact"
+    },
+    {
+      "product": "T-8113H-",
+      "area": "E",
+      "expect_key": "T-8113H-50",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "T-99999G  ",
+      "area": "J",
+      "expect_key": null,
+      "expect_how": null
+    },
+    {
+      "product": "MK-8100",
+      "area": "E",
+      "expect_key": "MK-81009-50",
+      "expect_how": "prefix"
+    },
+    {
+      "product": "MK-8100",
+      "area": "U",
+      "expect_key": "MK-81009",
+      "expect_how": "prefix"
+    },
+    {
+      "product": "MK-8100",
+      "area": "JTUE",
+      "expect_key": "MK-81009",
+      "expect_how": "prefix"
+    },
+    {
+      "product": "191x56",
+      "area": "U",
+      "expect_key": "191X56",
+      "expect_how": "exact"
+    },
+    {
+      "product": "MK-81282  ",
+      "area": "E",
+      "expect_key": "MK81282-50",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "MK-81001  ",
+      "area": "U",
+      "expect_key": "81001",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "T-07004H  ",
+      "area": "U",
+      "expect_key": "T-7004H",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "T-29002G V",
+      "area": "J",
+      "expect_key": "T-29002G",
+      "expect_how": "exact"
+    },
+    {
+      "product": "T-8113H   ",
+      "area": "E",
+      "expect_key": "T-8113H-50",
+      "expect_how": "exact"
+    },
+    {
+      "product": "GS-9001   ",
+      "area": "E",
+      "expect_key": "GS-9001",
+      "expect_how": "exact"
+    },
+    {
+      "product": "MK-8109150",
+      "area": "E",
+      "expect_key": "MK81091-50",
+      "expect_how": "suffix"
+    },
+    {
+      "product": "T-15909H50",
+      "area": "E",
+      "expect_key": "T-15909H-50",
+      "expect_how": "suffix"
+    },
+    {
+      "product": "T-15909H50",
+      "area": "U",
+      "expect_key": "T-15909H",
+      "expect_how": "suffix"
+    },
+    {
+      "product": "T-12003H50",
+      "area": "E",
+      "expect_key": "T-12003H-50",
+      "expect_how": "suffix"
+    },
+    {
+      "product": "MK_8100550",
+      "area": "E",
+      "expect_key": "MK81005-50",
+      "expect_how": "suffix"
+    },
+    {
+      "product": "T-8120H-50",
+      "area": "E",
+      "expect_key": "T-8120H",
+      "expect_how": "suffix"
+    },
+    {
+      "product": "MK-81029V1",
+      "area": "JTU",
+      "expect_key": "81029",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "GS-9055 V1",
+      "area": "JT",
+      "expect_key": "GS-9055",
+      "expect_how": "exact"
+    },
+    {
+      "product": "12512H    ",
+      "area": "U",
+      "expect_key": "T-12512H",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "23201G    ",
+      "area": "J",
+      "expect_key": "T-23201G",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "6106803   ",
+      "area": "J",
+      "expect_key": "610-6803",
+      "expect_how": "skeleton"
+    },
+    {
+      "product": "GS-9050   ",
+      "area": "J",
+      "expect_key": "GS-9050",
+      "expect_how": "exact"
+    },
+    {
+      "product": "T-9999950 ",
+      "area": "E",
+      "expect_key": null,
+      "expect_how": null
+    }
+  ]
+}
